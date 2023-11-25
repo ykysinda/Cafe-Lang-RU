@@ -1842,6 +1842,8 @@ Bu durum ile ilgili bir sorun varsa, lütfen destek birimi ile irtibata geç."  
 				<text id="generic_register_letsgo" name="Gidiyoruz!"  />
 				<text id="generic_register_namealreadyused" name="Bu isim zaten alınmış."  />
 				<text id="generic_register_namenotvalid" name="Girdiğin isim geçerli değil."  />
+				<text id="generic_register_nameshort" name="Maalesef ismin çok kısa. En az 4 karakter uzunluğunda olmalı."  />
+				<text id="generic_register_namelong" name="Maalesef ismin çok uzun. En fazla 24 karakter uzunluğunda olmalı."  />
 				<text id="generic_register_passwordshort_copy" name="Şifren çok kısa. Şifren en az 4 harf içermelidir."  />
 				<text id="generic_register_passwordwrong_copy" name="Girdiğin şifre hatalı."  />
 				<text id="generic_register_password_copy" name="Şifren boş olamaz ve özel karakterler içeremez."  />

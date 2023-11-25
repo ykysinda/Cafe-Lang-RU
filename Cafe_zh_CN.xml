@@ -1849,6 +1849,8 @@
 				<text id="generic_register_letsgo" name="开始吧！"  />
 				<text id="generic_register_namealreadyused" name="这个名字已经被使用了．"  />
 				<text id="generic_register_namenotvalid" name="所输入的用户名无效．"  />
+				<text id="generic_register_nameshort" name="不幸的是，您的名字太短了。至少应该有 4 个字符。"  />
+				<text id="generic_register_namelong" name="很遗憾，您的名字太长了。最大长度为 24 个字符。"  />
 				<text id="generic_register_passwordshort_copy" name="您输入的密码太短。密码至少为4个字符。"  />
 				<text id="generic_register_passwordwrong_copy" name="登陆密码不正确．"  />
 				<text id="generic_register_password_copy" name="您的密码不能包含空格和特殊符号。"  />

@@ -1845,6 +1845,8 @@ Als je vragen hebt over deze actie, neem dan contact op met support."  />
 				<text id="generic_register_letsgo" name="Hier gaan we!"  />
 				<text id="generic_register_namealreadyused" name="Deze naam is al in gebruik."  />
 				<text id="generic_register_namenotvalid" name="De naam die je hebt opgegeven, is niet juist."  />
+				<text id="generic_register_nameshort" name="Helaas is je naam te kort. Hij moet minstens 4 karakters lang zijn."  />
+				<text id="generic_register_namelong" name="Helaas is je naam te lang. De maximale lengte is 24 karakters."  />
 				<text id="generic_register_passwordshort_copy" name="Je wachtwoord is te kort. Het moet tenminste 4 letters bevatten."  />
 				<text id="generic_register_passwordwrong_copy" name="Het wachtwoord dat je hebt opgegeven, is niet juist."  />
 				<text id="generic_register_password_copy" name="Je wachtwoord mag niet leeg zijn of speciale karakters bevatten."  />

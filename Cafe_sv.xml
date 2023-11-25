@@ -1839,6 +1839,8 @@ Om du har frågor om spärrandet, vänder du dig till supporten."  />
 				<text id="generic_register_letsgo" name="Då kör vi!"  />
 				<text id="generic_register_namealreadyused" name="Det här namnet är redan taget."  />
 				<text id="generic_register_namenotvalid" name="Namnet du angivit är ogiltigt."  />
+				<text id="generic_register_nameshort" name="Tyvärr är ditt namn för kort. Det bör vara minst 4 tecken långt."  />
+				<text id="generic_register_namelong" name="Tyvärr är ditt namn för långt. Den maximala längden är 24 tecken."  />
 				<text id="generic_register_passwordshort_copy" name="Ditt valda lösenord är för kort. Det måste innehålla 4 eller fler tecken."  />
 				<text id="generic_register_passwordwrong_copy" name="Lösenordet du angivit är inte korrekt."  />
 				<text id="generic_register_password_copy" name="Ditt lösenord kan inte vara tomt eller innehålla specialtecken."  />

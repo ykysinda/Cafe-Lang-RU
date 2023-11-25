@@ -1845,6 +1845,8 @@ Ha a zárolással kapcsolatban kérdésed lenne, fordulj a supporthoz."  />
 				<text id="generic_register_letsgo" name="Mehet!"  />
 				<text id="generic_register_namealreadyused" name="A név már foglalt."  />
 				<text id="generic_register_namenotvalid" name="A megadott név érvénytelen."  />
+				<text id="generic_register_nameshort" name="Sajnos a neved túl rövid. Legalább 4 karakterből kell állnia."  />
+				<text id="generic_register_namelong" name="Sajnos a neved túl hosszú. Maximum 24 karakter a megengedett."  />
 				<text id="generic_register_passwordshort_copy" name="A megadott jelszó túl rövid. Legalább 4 karakterből kell állnia."  />
 				<text id="generic_register_passwordwrong_copy" name="A megadott jelszó nem helyes."  />
 				<text id="generic_register_password_copy" name="A jelszavad nem lehet üres és nem tartalmazhat speciális karaktereket."  />

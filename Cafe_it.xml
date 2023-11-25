@@ -1840,6 +1840,8 @@ Se hai domande puoi rivolgerti al supporto."  />
 				<text id="generic_register_letsgo" name="Si parte!"  />
 				<text id="generic_register_namealreadyused" name="Il nome è già in uso."  />
 				<text id="generic_register_namenotvalid" name="Il nome inserito è troppo lungo."  />
+				<text id="generic_register_nameshort" name="Purtroppo il nome è troppo corto. Dovrebbe essere lungo almeno 4 caratteri."  />
+				<text id="generic_register_namelong" name="Purtroppo il nome è troppo lungo. La lunghezza massima è di 24 caratteri."  />
 				<text id="generic_register_passwordshort_copy" name="La password inserita è troppo corta: deve essere di almeno 4 caratteri."  />
 				<text id="generic_register_passwordwrong_copy" name="La password inserita non è corretta."  />
 				<text id="generic_register_password_copy" name="Lo spazio per la password non può essere lasciato vuoto né contenere caretteri speciali"  />

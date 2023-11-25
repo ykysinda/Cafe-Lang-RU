@@ -1882,6 +1882,8 @@ If you have any questions about this blockage, please contact support."  />
 				<text id="generic_register_letsgo" name="Here we go!"  />
 				<text id="generic_register_namealreadyused" name="This name is already taken."  />
 				<text id="generic_register_namenotvalid" name="The name you entered is invalid."  />
+				<text id="generic_register_nameshort" name="Unfortunately, your name is too short. It should be at least 4 characters long."  />
+				<text id="generic_register_namelong" name="Unfortunately, your name is too long. The maximum length is 24 characters."  />	
 				<text id="generic_register_passwordshort_copy" name="The password you entered is too short. It has to be at least 4 letters long."  />
 				<text id="generic_register_passwordwrong_copy" name="The password you entered is incorrect."  />
 				<text id="generic_register_password_copy" name="Your password must not be empty or contain special characters."  />

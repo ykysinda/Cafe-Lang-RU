@@ -1876,6 +1876,8 @@
 				<text id="generic_register_letsgo" name="ΦΥΓΑΜΕ!"  />
 				<text id="generic_register_namealreadyused" name="Το όνομα αυτό χρησιμοποιείται ήδη."  />
 				<text id="generic_register_namenotvalid" name="Το όνομα που έχεις εισάγει δεν είναι έγκυρο."  />
+				<text id="generic_register_nameshort" name="Δυστυχώς, το όνομά σας είναι πολύ μικρό. Θα πρέπει να έχει τουλάχιστον 4 χαρακτήρες."  />
+				<text id="generic_register_namelong" name="Δυστυχώς, το όνομά σας είναι πολύ μεγάλο. Το μέγιστο μήκος είναι 24 χαρακτήρες."  />
 				<text id="generic_register_passwordshort_copy" name="Ο κωδικός που έχεις εισάγει είναι πολύ μικρός. Πρέπει να περιέχει τουλάχιστον 4 χαρακτήρες."  />
 				<text id="generic_register_passwordwrong_copy" name="Ο κωδικός που έβαλες δεν είναι σωστός."  />
 				<text id="generic_register_password_copy" name="Ο κωδικός σας δε πρέπει να είναι κενός ή να περιέχει ειδικούς χαρακτήρες."  />

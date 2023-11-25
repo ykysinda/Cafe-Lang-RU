@@ -1839,6 +1839,8 @@ Pokud máš otázky týkající se zablokování, obrať se na support."  />
 				<text id="generic_register_letsgo" name="Jdem na to!"  />
 				<text id="generic_register_namealreadyused" name="Jméno je již zadané."  />
 				<text id="generic_register_namenotvalid" name="Zadané jméno je neplatné."  />
+				<text id="generic_register_nameshort" name="Vaše jméno je bohužel příliš krátké. Mělo by mít alespoň 4 znaky."  />
+				<text id="generic_register_namelong" name="Vaše jméno je bohužel příliš dlouhé. Maximální délka je 24 znaků."  />
 				<text id="generic_register_passwordshort_copy" name="Zadané heslo je příliš krátké. Musí se skládat nejméně ze 4 znaků."  />
 				<text id="generic_register_passwordwrong_copy" name="Zadané heslo je neplatné."  />
 				<text id="generic_register_password_copy" name="Tvé heslo nesmí být prázdné nebo obsahovat speciální znaky."  />

@@ -1845,6 +1845,8 @@
 				<text id="generic_register_letsgo" name="자, 출발합시다!"  />
 				<text id="generic_register_namealreadyused" name="이미 사용 중인 이름입니다."  />
 				<text id="generic_register_namenotvalid" name="입력하신 이름은 유효하지 않습니다."  />
+				<text id="generic_register_nameshort" name="안타깝게도 이름이 너무 짧습니다. 이름은 4자 이상이어야 합니다."  />
+				<text id="generic_register_namelong" name="안타깝게도 이름이 너무 깁니다. 최대 길이는 24자입니다."  />
 				<text id="generic_register_passwordshort_copy" name="입력하신 비밀번호가 너무 짧습니다. 4자리 이상 입력해 주십시오."  />
 				<text id="generic_register_passwordwrong_copy" name="입력하신 암호는 유효하지 않습니다."  />
 				<text id="generic_register_password_copy" name="비밀번호는 반드시 입력하여야 하며, 특수기호를 포함할 수 없습니다."  />

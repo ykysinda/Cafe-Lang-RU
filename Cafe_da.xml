@@ -1851,6 +1851,8 @@ Såfremt du har spørgsmål til spærringen, henvend dig venligst til supporten.
 				<text id="generic_register_namealreadyused" name="Navnet findes allerede."  />
 				<text id="generic_register_namenotvalid" name="Det indtastede navn er ugyldigt."  />
 				<text id="generic_register_passwordshort_copy" name="Det indtastede password er for kort. Det skal mindst indeholde 4 tegn."  />
+				<text id="generic_register_nameshort" name="Desværre er dit navn for kort. Det skal være mindst 4 tegn langt."  />
+				<text id="generic_register_namelong" name="Desværre er dit navn for langt. Den maksimale længde er 24 tegn."  />
 				<text id="generic_register_passwordwrong_copy" name="Det password du har indtastet er ikke korrekt."  />
 				<text id="generic_register_password_copy" name="Dit password må ikke være tomt eller indeholde særtegn."  />
 				<text id="generic_register_receivenews" name="Modtaget nyheder"  />

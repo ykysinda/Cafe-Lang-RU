@@ -1841,6 +1841,8 @@ Si tienes alguna pregunta, por favor, contacta al soporte técnico."  />
 				<text id="generic_register_letsgo" name="¡Aquí vamos!"  />
 				<text id="generic_register_namealreadyused" name="El nombre ya fue tomado."  />
 				<text id="generic_register_namenotvalid" name="El nombre que puso no es válido."  />
+				<text id="generic_register_nameshort" name="Lamentablemente, su nombre es demasiado corto. Debería tener al menos 4 caracteres."  />
+				<text id="generic_register_namelong" name="Lamentablemente, su nombre es demasiado largo. La longitud máxima es de 24 caracteres."  />
 				<text id="generic_register_passwordshort_copy" name="Tu contraseña es muy corta. Debe al menos tener 4 caracteres."  />
 				<text id="generic_register_passwordwrong_copy" name="La contraseña ingresada es incorrecta."  />
 				<text id="generic_register_password_copy" name="La contraseña no puede estar vacía o tener caracteres especiales."  />

@@ -1837,6 +1837,8 @@
 				<text id="generic_register_letsgo" name="開始!"  />
 				<text id="generic_register_namealreadyused" name="已存在此名稱。"  />
 				<text id="generic_register_namenotvalid" name="所輸入名稱無效。"  />
+				<text id="generic_register_nameshort" name=" 不幸的是，你的名字太短了。它的長度至少應為 4 個字元。"  />
+				<text id="generic_register_namelong" name="不幸的是，你的名字太长了。最大长度为 24 个字符。"  />
 				<text id="generic_register_passwordshort_copy" name="所輸入密碼過短。請至少輸入4個位元。"  />
 				<text id="generic_register_passwordwrong_copy" name="輸入密碼有誤。"  />
 				<text id="generic_register_password_copy" name="密碼欄位處不可空白或含有特殊字元。"  />

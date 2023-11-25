@@ -1847,6 +1847,8 @@ Confirme-le en cliquant sur le bouton à gauche et c&#039;est parti !"  />
 				<text id="generic_register_letsgo" name="Allons-y !"  />
 				<text id="generic_register_namealreadyused" name="Ce nom a déjà été pris."  />
 				<text id="generic_register_namenotvalid" name="Le nom que tu as entré n&#039;est pas valide."  />
+				<text id="generic_register_nameshort" name="Malheureusement, votre nom est trop court. Il doit comporter au moins 4 caractères."  />
+				<text id="generic_register_namelong" name="Malheureusement, votre nom est trop long. La longueur maximale est de 24 caractères."  />
 				<text id="generic_register_passwordshort_copy" name="Le mot de passe entré est trop court. Il doit contenir au moins 4 caractères"  />
 				<text id="generic_register_passwordwrong_copy" name="Le mot de passe que tu as entré n&#039;est pas valide."  />
 				<text id="generic_register_password_copy" name="Ton mot de passe ne doit pas être vide et ne doit pas contenir des caractères spéciaux."  />

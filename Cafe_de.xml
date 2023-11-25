@@ -1848,6 +1848,8 @@ Falls Du Frage zu der Sperre hast, wende Dich bitte an den Support."  />
 				<text id="generic_register_letsgo" name="LOS GEHT&#039;S"  />
 				<text id="generic_register_namealreadyused" name="Der Name ist bereits vergeben."  />
 				<text id="generic_register_namenotvalid" name="Der eingegebene Name ist ungültig."  />
+				<text id="generic_register_nameshort" name="Dein Name ist ungünstigerweise zu kurz. Es sollte mindestens 4 Zeichen haben."  />
+				<text id="generic_register_namelong" name="Dein Name ist leider zu lang. Die maximale Länge ist 24 Zeichen."  />
 				<text id="generic_register_passwordshort_copy" name="Das eingegebene Passwort ist zu kurz. Es muss mindestens 4 Zeichen lang sein."  />
 				<text id="generic_register_passwordwrong_copy" name="Das Passwort, das Du eingegeben hast ist nicht korrekt."  />
 				<text id="generic_register_password_copy" name="Dein Passwort darf nicht leer sein oder Sonderzeichen enthalten."  />

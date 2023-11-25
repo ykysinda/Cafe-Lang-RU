@@ -1866,6 +1866,8 @@
 				<text id="generic_register_letsgo" name="Поехали!"  />
 				<text id="generic_register_namealreadyused" name="Это имя уже занято."  />
 				<text id="generic_register_namenotvalid" name="Вы ввели неправильное имя."  />
+				<text id="generic_register_nameshort" name="К сожалению, Ваше имя слишком короткое. Его длина должна составлять не менее 4 символов."  />
+				<text id="generic_register_namelong" name="К сожалению, Ваше имя слишком длинное. Максимальная длина составляет 24 символа."  />
 				<text id="generic_register_passwordshort_copy" name="Ваш пароль слишком короткий. Он должен содержать хотя бы 4 символа."  />
 				<text id="generic_register_passwordwrong_copy" name="Вы ввели неправильный пароль."  />
 				<text id="generic_register_password_copy" name="Пароль не может быть пустым или содержать спецсимволы."  />

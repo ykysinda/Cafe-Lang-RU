@@ -1842,6 +1842,8 @@ Caso tenha dúvidas sobre o bloqueio, dirija-se ao suporte."  />
 				<text id="generic_register_letsgo" name="Vamos lá!"  />
 				<text id="generic_register_namealreadyused" name="Este nome já está sendo utilizado."  />
 				<text id="generic_register_namenotvalid" name="O nome que você digitou é inválido."  />
+				<text id="generic_register_nameshort" name="Infelizmente, o seu nome é demasiado curto. Deveria ter pelo menos 4 caracteres."  />
+				<text id="generic_register_namelong" name="Infelizmente, o seu nome é demasiado longo. O comprimento máximo é de 24 caracteres."  />
 				<text id="generic_register_passwordshort_copy" name="A senha digitada é muito curta. Ela deverá ter no mínimo 4 letras."  />
 				<text id="generic_register_passwordwrong_copy" name="A senha que você digitou está incorreta."  />
 				<text id="generic_register_password_copy" name="Sua senha não pode ser vazia ou conter símbolos especiais."  />

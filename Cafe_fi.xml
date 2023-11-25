@@ -1859,6 +1859,8 @@ Jos sinulla on kysyttävää tästä, ole hyvä ja ota yhteyttä tukeen."  />
 				<text id="generic_register_letsgo" name="Nyt mennään!"  />
 				<text id="generic_register_namealreadyused" name="Tämä nimi on jo käytössä."  />
 				<text id="generic_register_namenotvalid" name="Antamasi nimi on epäpätevä."  />
+				<text id="generic_register_nameshort" name="Valitettavasti nimesi on liian lyhyt. Sen pitäisi olla vähintään 4 merkkiä pitkä."  />
+				<text id="generic_register_namelong" name="Valitettavasti nimesi on liian pitkä. Enimmäispituus on 24 merkkiä."  />
 				<text id="generic_register_passwordshort_copy" name="Salasanasi on liian lyhyt. Siinä tulee olla vähintään 4 kirjainta."  />
 				<text id="generic_register_passwordwrong_copy" name="Antamasi salasana on väärä."  />
 				<text id="generic_register_password_copy" name="Salasana ei saa olla tyhjä tai sisältää erikoismerkkejä."  />

@@ -1851,6 +1851,8 @@ Goodgamestudios.com&lt;br /&gt;チーム一同"  />
 				<text id="generic_register_letsgo" name="ゲームスタート!"  />
 				<text id="generic_register_namealreadyused" name="その名前はすでに使われています。"  />
 				<text id="generic_register_namenotvalid" name="入力した名前が無効です。"  />
+				<text id="generic_register_nameshort" name="残念ながら、あなたの名前は短すぎます。少なくとも4文字以上は必要です。"  />
+				<text id="generic_register_namelong" name="お名前が長すぎます。最大文字数は24文字です。"  />
 				<text id="generic_register_passwordshort_copy" name="入力されたパスワードは短すぎます。パスワードは4文字以上必要です。"  />
 				<text id="generic_register_passwordwrong_copy" name="入力したパスワードが間違っています。"  />
 				<text id="generic_register_password_copy" name="パスワードにスペースや特殊記号を含めないでください。"  />
