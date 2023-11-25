@@ -1,0 +1,1913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- goodgamestudios CAFE - el - 23 -->
+	<cafe>
+		<achievement>
+			<text id="Basic_Achievement_Boughtdeco" name="Γευστικό καφέ"  />
+			<text id="Basic_Achievement_Boughtingredients" name="Κατάλληλη Μαγειρική"  />
+			<text id="Basic_Achievement_Cookingcount" name="Απασχολημένο Εστιατόριο"  />
+			<text id="Basic_Achievement_Coopcount" name="Το μάφιν πολλαπλών καθηκόντων"  />
+			<text id="Basic_Achievement_Coopgoldcount" name="Ο αρχιτεχνίτης του τηγανίσματος"  />
+			<text id="Basic_Achievement_Curiercount" name="Αποκλειστική καυτή κατσαρόλα"  />
+			<text id="Basic_Achievement_Differentdishes" name="Το Λαχανικό βιρτουόζος"  />
+			<text id="Basic_Achievement_Earnedchips" name="Πετυχημένη Πουτίγκα"  />
+			<text id="Basic_Achievement_Fancycount" name="Υπέροχος Δοκιμαστής"  />
+			<text id="Basic_Achievement_Firenpc" name="Γαρνιτούρα στα κάρβουνα"  />
+			<text id="Basic_Achievement_Instantcount" name="Ανυπόμονο Ορεκτικό"  />
+			<text id="Basic_Achievement_Jobclean" name="Ο θορυβώδης αρτοποιός"  />
+			<text id="Basic_Achievement_Jobserve" name="Ιπτάμενο καυτό δοχείο"  />
+			<text id="Basic_Achievement_Masteies" name="Ο βασιλιάς του γρήγορου φαγητού"  />
+			<text id="Basic_Achievement_Masteriesgold" name="Χρυσός Βασιλιάς του φαγητού"  />
+			<text id="Basic_Achievement_Muffinmancash" name="Το γεναιόδωρο μάφιν"  />
+			<text id="Basic_Achievement_Muffinmangold" name="Χρυσό Κέϊκ"  />
+			<text id="Basic_Achievement_Overcookedfoods" name="Ο Ανώτατος Καταστροφέας"  />
+			<text id="Basic_Achievement_Servingcountmeals" name="Βαρύς Σεφ"  />
+			<text id="Basic_Achievement_Servingcountsalads" name="Φρέσκος δοκιμαστής"  />
+			<text id="Basic_Achievement_Servingcountsnacks" name="Το τραγανιστό μάφιν"  />
+			<text id="Basic_Achievement_Servingcountsoups" name="Ο Καλύτερος Μάγειρας Σούπας"  />
+			<text id="Basic_Achievement_Servingcountsweets" name="Απασχολημένος Αρτοποϊός"  />
+			<text id="Basic_Achievement_Servingcountvegans" name="Ανθηρό Κουνουπίδι"  />
+			<text id="Basic_Achievement_Servingscount" name="Ο Πωλητής Δείπνου"  />
+			<text id="Basic_Achievement_Solditems" name="Δείπνο Εμπόρου"  />
+			<text id="Basic_Achievement_Spentchips" name="Το ξοδεμένο Στιφάδο"  />
+			<text id="Basic_Achievement_Spentgold" name="Χρυσή Κουζίνα"  />
+			<text id="Basic_Achievement_Wheeloffortune" name="Το γυριστό σκαλιστήρι"  />
+			<text id="Social_Achievement_Friendscount" name="Διασημότητα Μαγειρικής"  />
+		</achievement>
+		<alerts>
+			<text id="alert_addcash_copy" name="Εδώ μπορείς ν&#039;αγοράσεις Δολλάρια Καφέ/Χρυσό."  />
+			<text id="alert_addcash_title" name="Κατάστημα Πληρωμής"  />
+			<text id="alert_addFriend_copy" name="Θέλεις να προσθέσεις τον {0} σαν φίλο?"  />
+			<text id="alert_addFriend_denied_copy" name="{0} αρνήθηκε την αίτησή σου."  />
+			<text id="alert_addFriend_denied_title" name="Το αίτημα απορρίφθηκε!"  />
+			<text id="alert_addFriend_title" name="Αίτημα φίλου"  />
+			<text id="alert_addgold_copy" name="Χρειάζεται να εγγραφείς πρώτα για να ψωνίσεις εδώ!"  />
+			<text id="alert_addgold_title" name="Εγγραφή"  />
+			<text id="alert_avatarcustom_copy" name="Δε μπορείς ν&#039;αλλάξεις ενώ δουλεύεις!"  />
+			<text id="alert_buytiles_copy" name="1. Επέλεξε ένα τετράγωνο
+2. Διάλεξε περιοχή στο καφέ σου ενώ κρατάς πατημένο το κουμπί στο ποντίκι σου
+3. Μετά άφησέ το"  />
+			<text id="alert_buytiles_title" name="Τοποθέτησε τετράγωνα?"  />
+			<text id="alert_changePasswordFaild_copy" name="Ο νέος σου κωδικός πρέπει να έχει περισσότερο από 2 χαρακτήρες και ο παλιός σου κωδικός πρέπει να εισαχθεί σωστά!"  />
+			<text id="alert_changePasswordFaild_title" name="Εισαγωγή κωδικού"  />
+			<text id="alert_clearstove_cancelButton" name="Κράτησε"  />
+			<text id="alert_clearstove_okButton" name="Πέταξε"  />
+			<text id="alert_clearstove_title" name="Ένα γεύμα σερβίρεται από αυτόν τον πάγκο. Θέλεις να κρατήσεις το γεύμα?"  />
+			<text id="alert_counter_outofreach_copy" name="Δε μπορείς να φτάσεις στον πάγκο σου. Δοκίμασε να αναδιακοσμήσεις το καφέ σου."  />
+			<text id="alert_counter_outofreach_title" name="Πρόσεχε!"  />
+			<text id="alert_dekoshop_humanwaiter_copy" name="Όσο υπάρχουν άλλη παίκτες που εργάζονται στο καφέ σου, δε μπορείς να το προσαρμόσεις."  />
+			<text id="alert_dekoshop_humanwaiter_title" name="Με τίποτα!"  />
+			<text id="alert_dekoshop_kickplayer_copy" name="Υπάρχουν ακόμα άλλοι παίκτες στο καφέ σου. Θέλεις να τους διώξεις και να αλλάξεις σε μενού προσαρμογής?"  />
+			<text id="alert_dekoshop_kickplayer_title" name="Πρόσεχε!"  />
+			<text id="alert_FancyCooking_copy" name="Θέλεις ν&#039; αρωματίσεις το γεύμα σου με αυτό το φανταστικό συστατικό και να κερδίσεις {0} περισσότερους ΧΡ και {1} επιπλέον σερβιρίσματα?"  />
+			<text id="alert_FancyCooking_title" name="φανταχτερά συστατικά"  />
+			<text id="alert_fancyinfo_copy" name="Εμπλούτισε ένα πιάτο με τα απαραίτητα φανταχτερά συστατικά και θα κερδίσεις μέχρι και 20% περισσότερα ΧΡ και σερβιρίσματα!
+Τα φανταστικά συστατικά επίσης δε πιάνουν χώρο στο ψυγείο σου!"  />
+			<text id="alert_fancyinfo_title" name="φανταχτερά συστατικά!"  />
+			<text id="alert_giftboxfull_copy" name="Το κουτί δώρων σου είναι γεμάτο! Δε μπορείς να λάβεις πλέον άλλα δώρα από τους φίλους σου!"  />
+			<text id="alert_giftboxfull_title" name="Δεν έχει μείνει χώρος!"  />
+			<text id="alert_guestchangepassword_copy" name="Μπορείς ν&#039;αλλάξεις τον κωδικό σου μόνο ως εγγεγραμμένος χρήστης!"  />
+			<text id="alert_guestchangepassword_title" name="Κάνε πρώτα εγγραφή"  />
+			<text id="alert_guestcoop_copy" name="Πρέπει να κάνεις εγγραφή πρώτα αν θέλεις να παίξεις Συνεργασίες!"  />
+			<text id="alert_guestinvitefriend_copy" name="Μπορείς να καλέσεις φίλους μόνο ως εγγεγραμμένος χρήστης."  />
+			<text id="alert_guestinvitefriend_title" name="Κάνε πρώτα εγγραφή"  />
+			<text id="alert_guestlogout_copy" name="Κάνε εγγραφή για να αποθηκεύσεις το σκορ του παιχνιδιού σου!"  />
+			<text id="alert_guestlogout_title" name="Εγγραφή"  />
+			<text id="alert_help_copy" name="Πρώτα, πρέπει να βοηθήσεις τον εαυτό σου..."  />
+			<text id="alert_help_title" name="Βοήθεια"  />
+			<text id="alert_invitefriend_confirmed_copy" name="Η πρόσκλήσή σου στάλθηκε στον {0}!"  />
+			<text id="alert_invitefriend_confirmed_title" name="Η πρόσκληση στάλθηκε!"  />
+			<text id="alert_invitefriend_copy" name="Για να καλέσεις ένα φίλο, εισήγαγε το όνομά τους και τη διεύθυνση e-mail."  />
+			<text id="alert_invitefriend_mail" name="Η διεύθυνση e-mail του φίλου σου:"  />
+			<text id="alert_invitefriend_myname" name="Το όνομά σου:"  />
+			<text id="alert_invitefriend_name" name="Τ΄όνομα του φίλου σου:"  />
+			<text id="alert_invitefriend_title" name="Κάλεσε φίλους"  />
+			<text id="alert_jobhelp_copy1" name="1. Πάρε φαγητό από τον πάγκο 
+2. Φέρτο στον πελάτη που περιμένει"  />
+			<text id="alert_jobhelp_copy2" name="2. Πάρε το πιάτο από το τραπέζι (είναι δυνατό και περισσότερα πιάτα)
+2. Πήγαινέ το στον πάγκο"  />
+			<text id="alert_jobhelp_header1" name="Σερβίρισε το φαγητό"  />
+			<text id="alert_jobhelp_header2" name="Πλύνε τα πιάτα"  />
+			<text id="alert_jobhelp_title" name="Τα καθήκοντά σου"  />
+			<text id="alert_jobrefill_copy" name="Πρέπει να κάνεις εγγραφή πρώτα για να μπορείς να δουλέψεις."  />
+			<text id="alert_jobrefill_title" name="Εγγραφή"  />
+			<text id="alert_lostpassword_copy" name="Εισήγαγε τη διεύθυνση e-mail σου και θα σου στείλουμε το νέο κωδικό σου."  />
+			<text id="alert_lostpassword_title" name="Ξέχασες τον κωδικό σου?"  />
+			<text id="alert_marketplace_jobcancled_copy" name="{0} απέρριψε την προσφορά εργασίας."  />
+			<text id="alert_marketplace_jobcancled_title" name="Η δουλειά απορρίφθηκε"  />
+			<text id="alert_marketplace_jobempty_copy" name="Χρησιμοποίησες όλες τις άδειες εργασίας σου για σήμερα."  />
+			<text id="alert_marketplace_jobempty_title" name="Δεν έχουν μείνει άλλες άδειες εργασίας!"  />
+			<text id="alert_marketplace_jobhired_copy" name="{0} αποδέχτηκε τη δουλειά!"  />
+			<text id="alert_marketplace_jobhired_title" name="Η δουλειά έγινε δεκτή"  />
+			<text id="alert_marketplace_job_copy" name="{0} (Επίπεδο {1}) σου πρόσφερε μια δουλειά. Θέλεις να την αποδεχτείς?"  />
+			<text id="alert_marketplace_job_title" name="Προσφορά εργασίας!"  />
+			<text id="alert_marketplace_noticeboard_copy" name="Δείξε στους άλλους παίκτες ότι ψάχνεις για μια εργασία. Αν είσαι ήδη απασχολημένος μπορείς επίσης να γεμίσεις τις άδειες εργασίας σου εδώ."  />
+			<text id="alert_marketplace_noticeboard_title" name="Δικαιώματα εργασίας"  />
+			<text id="alert_marketplace_playerjobempty_copy" name="Ο παίκτης έχει δουλέψει αρκετά για σήμερα."  />
+			<text id="alert_marketplace_playerjobempty_title" name="Η δουλειά απορρίφθηκε"  />
+			<text id="alert_marketplace_playerleaved_copy" name="Ο παίκτης έφυγε από την αγορά."  />
+			<text id="alert_marketplace_playerleaved_title" name="Ωχ!"  />
+			<text id="alert_nofreecounter_copy" name="Δεν υπάρχει άδειος πάγκος."  />
+			<text id="alert_nofreecounter_title" name="Ωχ!"  />
+			<text id="alert_nofridge_copy" name="Δεν έχεις ψυγείο στο καφέ σου. Έλεγξε το μενού προσαρμογής και σύρε ένα μέσα στο καφέ σου."  />
+			<text id="alert_nofridge_title" name="Όχι ψυγείο?!"  />
+			<text id="alert_nojobpermission_copy" name="Χρειάζεσαι άδειες εργασίας αν θέλεις να ψάξεις για μια δουλειά."  />
+			<text id="alert_nojobpermission_title" name="Πρόσεχε!"  />
+			<text id="alert_register_agb_copy" name="Πρέπει να διαβάσεις και να αποδεχτείς τους όρους και προϋποθέσεις πρώτα! Επιβεβαίωσε με το κουμπί στα αριστερά και ορίστε ξεκινάς!"  />
+			<text id="alert_register_email_copy" name="Η διεύθυνση e-mail δεν πρέπει να είναι άδεια ή να περιέχει κενά."  />
+			<text id="alert_register_password_copy" name="Ο κωδικός σου δε πρέπει να είναι άδειος ή να περιέχει ειδικούς χαρακτήρες."  />
+			<text id="alert_register_title" name="Σφάλμα εγγραφής"  />
+			<text id="alert_seekingjob_copy" name="Πρέπει να κάνεις εγγραφή πρώτα για να μπορείς να δουλέψεις."  />
+			<text id="alert_seekingjob_title" name="Εγγραφή"  />
+			<text id="alert_selldeco_copy" name="Θέλεις σίγουρα να το πουλήσεις για {0} το κάθε τεμάχιο?"  />
+			<text id="alert_selldeco_title" name="Πώληση?"  />
+			<text id="alert_sellitem_copy" name="Θέλεις σίγουρα να το πουλήσεις για {0} το κάθε τεμάχιο?"  />
+			<text id="alert_sellitem_title" name="Πώληση?"  />
+			<text id="alert_smoothiemaker_full_copy" name="Υπάρχουν ακόμα μερικά ποτά στη Μηχανή Ροφημάτων σου!
+Σέρβιρέ τα στους καλεσμένους σου, μετά μπορείς να αναμείξεις κάτι καινούριο!"  />
+			<text id="alert_smoothiemaker_outofreach_copy" name="Η Μηχανή ροφημάτων σου δεν είναι διαθέσιμη. Γιατί δε προσπαθείς να αλλάξεις τα πράγματα?"  />
+			<text id="alert_smoothiemaker_storage_copy" name="Υπάρχουν ακόμα ποτά στη Μηχανή ροφημάτων σου!
+Αν το βάλεις μέσα στην αποθήκη, θα χάσεις όλες τις μερίδες που έχουν μείνει!"  />
+			<text id="alert_stafffire_copy" name="Θέλεις σίγουρα ν&#039;απολύσεις τον πιστό σερβιτόρο σου?"  />
+			<text id="alert_stafffire_title" name="Απόλυσε το σερβιτόρο?"  />
+			<text id="alert_staffhire_copy" name="Δώσε ένα καινούριο όνομα στο σερβιτόρο σου."  />
+			<text id="alert_staffhire_title" name="Προσέλαβε"  />
+			<text id="alert_storefull_copy" name="Το ψυγείο σου είναι γεμάτο! Πούλησε συστατικά για να κάνεις χώρο!"  />
+			<text id="alert_storefull_title" name="Το Ψυγείο είναι γεμάτο!"  />
+			<text id="alert_stove_outofreach_copy" name="Δε μπορείς να φτάσεις το φούρνο σου.Δοκίμασε να αναδιακοσμήσεις το καφέ σου."  />
+			<text id="alert_stove_outofreach_title" name="Πρόσεχε!"  />
+			<text id="alert_unlockitem_copy" name="Απόκτησε τα συστατικά με παράδοση από τον ταχυμεταφορέα της πόλης. Η αποκλειστικότητα όμως έχει την τιμή της."  />
+			<text id="alert_unlockitem_title" name="Παράδοση με μεταφορέα?"  />
+			<text id="alert_userkicked_copy" name="Διώχθηκες από το καφέ."  />
+			<text id="alert_userkicked_title" name="Κλώτσησε έξω!"  />
+			<text id="alert_workinghero_copy" name="Ο μάγειρας πρέπει να συνεχίσει να εργάζεται!"  />
+			<text id="alert_workinghero_title" name="Περίμενε!"  />
+		</alerts>
+		<commons>
+			<text id="addgold" name="περισσότερος χρυσός"  />
+			<text id="buy" name="Αγορά"  />
+			<text id="cash" name="Δολλάριο Καφέ"  />
+			<text id="comingsoon" name="*Προσεχώς*"  />
+			<text id="day" name="Μέρα"  />
+			<text id="days" name="Μέρες"  />
+			<text id="friends" name="{0} φίλοι"  />
+			<text id="gold" name="Χρυσός"  />
+			<text id="hour" name="Ώρα"  />
+			<text id="hours" name="Ώρες"  />
+			<text id="level" name="Επίπεδο"  />
+			<text id="logout" name="Αποσύνδεση"  />
+			<text id="mastery" name="Επίπεδο μαεστρείας"  />
+			<text id="minute" name="Λεπτό"  />
+			<text id="minutes" name="Λεπτά"  />
+			<text id="new" name="Νέο!"  />
+			<text id="second" name="Δευτερόλεπτο"  />
+			<text id="seconds" name="Δευτερόλεπτα"  />
+			<text id="sell" name="Πώληση"  />
+			<text id="usable_character" name="διαθέσιμος χαρακτήρας"  />
+			<text id="XofY" name="{0} από {1}"  />
+			<text id="xp" name="ΧΡ"  />
+		</commons>
+		<cookstep>
+			<text id="cookstep_bananasplit1" name="ψύχοντας παγωτό"  />
+			<text id="cookstep_bananasplit2" name="κόβοντας μπανάνα"  />
+			<text id="cookstep_blackforestcherrycake1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_blackforestcherrycake2" name="Ψήνω κέϊκ"  />
+			<text id="cookstep_cheeseburger1" name="σωτάροντας κιμά"  />
+			<text id="cookstep_cheeseburger2" name="τακτοποίηση μπιφτεκιού"  />
+			<text id="cookstep_cheesedish1" name="Τοποθετώντας τυρί"  />
+			<text id="cookstep_cheesedish2" name="γήρανση τυριού"  />
+			<text id="cookstep_cheesefondue1" name="Ψήνω ψωμί"  />
+			<text id="cookstep_cheesefondue2" name="Ζεσταίνοντας τυρί"  />
+			<text id="cookstep_cherriecake1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_cherriecake2" name="Ψήνω κέϊκ"  />
+			<text id="cookstep_cherrycompote1" name="Μαγειρεύοντας κεράσια"  />
+			<text id="cookstep_cherrycompote2" name="Περιμένοντας να κρυώσει"  />
+			<text id="cookstep_chickenburger1" name="σωτάροντας κοτόπουλο"  />
+			<text id="cookstep_chickenburger2" name="τακτοποίηση μπιφτεκιού"  />
+			<text id="cookstep_chickensalad1" name="Ψήνοντας κοτόπουλο"  />
+			<text id="cookstep_chickensalad2" name="τακτοποίηση σαλάτας"  />
+			<text id="cookstep_chickensoup1" name="Τηγανίζοντας μπέϊκον"  />
+			<text id="cookstep_chickensoup2" name="Μαγειρεύοντας σούπα"  />
+			<text id="cookstep_chiliconcarne1" name="σωτάροντας κιμά"  />
+			<text id="cookstep_chiliconcarne2" name="Μαγειρεύοντας τσίλι"  />
+			<text id="cookstep_chocmousse1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_chocmousse2" name="ψύχοντας μους"  />
+			<text id="cookstep_chocolatecake1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_chocolatecake2" name="Ψήνω"  />
+			<text id="cookstep_chocolatecheesecake1" name="λιώνοντας σοκολάτα"  />
+			<text id="cookstep_chocolatecheesecake2" name="Ψήνω κέϊκ"  />
+			<text id="cookstep_chocolatefondue1" name="λιώνοντας σοκολάτα"  />
+			<text id="cookstep_chocolatefondue2" name="προσθήκη κρέμας"  />
+			<text id="cookstep_christmasturkey1" name="Αχνίζοντας λαχανικά"  />
+			<text id="cookstep_christmasturkey2" name="Ψήνοντας γαλοπούλα"  />
+			<text id="cookstep_cookieplate1" name="κόβοντας σε σχήματα"  />
+			<text id="cookstep_cookieplate2" name="Ψήνω μπισκότα"  />
+			<text id="cookstep_cornonthecob1" name="Μαγειρεύοντας καλαμπόκι"  />
+			<text id="cookstep_cornonthecob2" name="τακτοποίηση σαλάτας"  />
+			<text id="cookstep_curry1" name="σωτάροντας συστατικά"  />
+			<text id="cookstep_curry2" name="προσθήκη καρύδας"  />
+			<text id="cookstep_duckalorange1" name="Γεμίζοντας πάπια"  />
+			<text id="cookstep_duckalorange2" name="Ψήνοντας πάπια"  />
+			<text id="cookstep_easterdish1" name="λιώνοντας σοκολάτα"  />
+			<text id="cookstep_easterdish2" name="βράσεις αυγά"  />
+			<text id="cookstep_englishbreakfast1" name="Μαγειρεύοντας φασόλια"  />
+			<text id="cookstep_englishbreakfast2" name="Τηγανίζοντας λουκάνικα"  />
+			<text id="cookstep_fishandchips1" name="Τηγανίζοντας"  />
+			<text id="cookstep_fishandchips2" name="αλέθοντας φασόλια"  />
+			<text id="cookstep_friedpotatoes1" name="βράζω πατάτες"  />
+			<text id="cookstep_friedpotatoes2" name="σωτάροντας πατάτες"  />
+			<text id="cookstep_fruitpudding1" name="Αφήνοντας την υπόλοιπη ζύμη"  />
+			<text id="cookstep_fruitpudding2" name="Ψήνω"  />
+			<text id="cookstep_fruitsalad1" name="κόβοντας φρούτα"  />
+			<text id="cookstep_fruitsalad2" name="προσθήκη σάλτσας"  />
+			<text id="cookstep_greensalad1" name="αναμειγνύοντας σάλτσα"  />
+			<text id="cookstep_greensalad2" name="Μαρινάροντας σαλάτα"  />
+			<text id="cookstep_gumbo1" name="σιγοψήνω κρεμμύδια"  />
+			<text id="cookstep_gumbo2" name="προσθήκη ρυζιού"  />
+			<text id="cookstep_hamburger1" name="Τηγανίζοντας μπιφτέκι"  />
+			<text id="cookstep_hamburger2" name="τακτοποίηση μπιφτεκιού"  />
+			<text id="cookstep_hotcherrywaffles1" name="Μαγειρεύοντας κεράσια"  />
+			<text id="cookstep_hotcherrywaffles2" name="Ψήνω βάφλες"  />
+			<text id="cookstep_jamspongepudding1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_jamspongepudding2" name="Ψήνω"  />
+			<text id="cookstep_lasagne1" name="σωτάροντας κιμά"  />
+			<text id="cookstep_lasagne2" name="Ψήνω λαζάνια"  />
+			<text id="cookstep_macncheese1" name="Γεμίζοντας την κατσαρόλα"  />
+			<text id="cookstep_macncheese2" name="Ψήνω"  />
+			<text id="cookstep_maplepancakes1" name="αναμειγνύοντας ζύμη"  />
+			<text id="cookstep_maplepancakes2" name="Φτιάχοντας τηγανίτες"  />
+			<text id="cookstep_marblecake1" name="Γεμίζοντας τη φόρμα του κέϊκ"  />
+			<text id="cookstep_marblecake2" name="Ψήνω"  />
+			<text id="cookstep_mexicansalad1" name="Μαγειρεύοντας φασόλια"  />
+			<text id="cookstep_mexicansalad2" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_minestrone1" name="Αχνίζοντας λαχανικά"  />
+			<text id="cookstep_minestrone2" name="προσθήκη ζυμαρικών"  />
+			<text id="cookstep_mixedsalad1" name="ανακατεύοντας σάλτσα"  />
+			<text id="cookstep_mixedsalad2" name="Μαρινάροντας σαλάτα"  />
+			<text id="cookstep_nasigoreng1" name="Μαγειρεύοντας κοτόπουλο"  />
+			<text id="cookstep_nasigoreng2" name="Αχνίζοντας λαχανικά"  />
+			<text id="cookstep_newyorkcheesecake1" name="ανάμιξη γέμισης"  />
+			<text id="cookstep_newyorkcheesecake2" name="Ψήνω κέϊκ"  />
+			<text id="cookstep_noodlesalad1" name="ανακατεύοντας μαγιονέζα"  />
+			<text id="cookstep_noodlesalad2" name="ανάμιξη συστατικών"  />
+			<text id="cookstep_omelette1" name="ψήνοντας αυγά"  />
+			<text id="cookstep_omelette2" name="χτυπώντας αυγά"  />
+			<text id="cookstep_onionsoup1" name="σωτάροντας κρεμμύδια"  />
+			<text id="cookstep_onionsoup2" name="Γκρατινάροντας"  />
+			<text id="cookstep_peasoup1" name="σωτάροντας κρεμμύδια"  />
+			<text id="cookstep_peasoup2" name="Μαγειρεύοντας σούπα"  />
+			<text id="cookstep_pizza1" name="Γαρνίροντας πίτσας"  />
+			<text id="cookstep_pizza2" name="Ψήνω πίτσα"  />
+			<text id="cookstep_pizzahawaii1" name="Γαρνίροντας Πίτσας"  />
+			<text id="cookstep_pizzahawaii2" name="Ψήνω πίτσα"  />
+			<text id="cookstep_pizzatonno1" name="Γαρνίροντας Πίτσας"  />
+			<text id="cookstep_pizzatonno2" name="Ψήνω πίτσα"  />
+			<text id="cookstep_porkroastwithcrackling1" name="εμπλουτίζοντας κρέας"  />
+			<text id="cookstep_porkroastwithcrackling2" name="Ψήνοντας"  />
+			<text id="cookstep_potatosalad1" name="βράζω πατάτες"  />
+			<text id="cookstep_potatosalad2" name="ανακατεύοντας μαγιονέζα"  />
+			<text id="cookstep_redberrycompote1" name="βράσιμο φρούτα"  />
+			<text id="cookstep_redberrycompote2" name="Γλύκανε"  />
+			<text id="cookstep_ricepudding1" name="βράζω ρυζόγαλο"  />
+			<text id="cookstep_ricepudding2" name="Κάνε σάλτσα μήλου"  />
+			<text id="cookstep_roastchicken1" name="Γεμίζοντας κοτόπουλο"  />
+			<text id="cookstep_roastchicken2" name="Ψήνοντας"  />
+			<text id="cookstep_sandwich1" name="Βουτυρώνω ψωμί"  />
+			<text id="cookstep_sandwich2" name="Γαρνίροντας τοστ"  />
+			<text id="cookstep_scouse1" name="Μαγειρεύοντας κρέας"  />
+			<text id="cookstep_scouse2" name="προσθήκη παντζαριών"  />
+			<text id="cookstep_spagetti1" name="σωτάροντας κιμά"  />
+			<text id="cookstep_spagetti2" name="Μαγειρεύοντας σάλτσα"  />
+			<text id="cookstep_spareribs1" name="Μαρινάροντας κρέας"  />
+			<text id="cookstep_spareribs2" name="σωτάρω κρέας"  />
+			<text id="cookstep_steak1" name="σωτάρω κρέας"  />
+			<text id="cookstep_steak2" name="τακτοποίηση σαλάτας"  />
+			<text id="cookstep_steakkidneypie1" name="μαγειρέψεις γέμιση"  />
+			<text id="cookstep_steakkidneypie2" name="Ψήνω"  />
+			<text id="cookstep_stew1" name="σωτάρω κρέας"  />
+			<text id="cookstep_stew2" name="Βράσιμο"  />
+			<text id="cookstep_stewedrhubarb1" name="Μαγειρεύοντας ραβέντι"  />
+			<text id="cookstep_stewedrhubarb2" name="Περιμένοντας να κρυώσει"  />
+			<text id="cookstep_strawberrycake1" name="Ψήνω βάση τούρτας"  />
+			<text id="cookstep_strawberrycake2" name="Διακοσμώντας κέϊκ"  />
+			<text id="cookstep_strawberrymousse1" name="αναμιγνύω φράουλες"  />
+			<text id="cookstep_strawberrymousse2" name="Αφρατεύοντας τη μους"  />
+			<text id="cookstep_stuffedpeppers1" name="Γεμίζοντας πιπεριές"  />
+			<text id="cookstep_stuffedpeppers2" name="Ψήνω πιπεριές"  />
+			<text id="cookstep_sundayfeast1" name="Μαρινάροντας κρέας"  />
+			<text id="cookstep_sundayfeast2" name="σωτάρω κρέας"  />
+			<text id="cookstep_sushi1" name="Μοιράζοντας συστατικά"  />
+			<text id="cookstep_sushi2" name="Τυλίγοντας"  />
+			<text id="cookstep_toadinhole1" name="αναμειγνύοντας ζύμη"  />
+			<text id="cookstep_toadinhole2" name="Ψήνω"  />
+			<text id="cookstep_toast1" name="Γαρνίροντας τοστ"  />
+			<text id="cookstep_toast2" name="Τηγανίζοντας τοστ"  />
+			<text id="cookstep_tofuburger1" name="Τηγανίζοντας μπιφτέκι tofu"  />
+			<text id="cookstep_tofuburger2" name="τακτοποίηση μπιφτεκιού"  />
+			<text id="cookstep_tomatosoup1" name="σωτάροντας κρεμμύδια"  />
+			<text id="cookstep_tomatosoup2" name="Μαγειρεύοντας ντομάτες"  />
+			<text id="cookstep_trifle1" name="Μαγειρεύοντας πουτίγκα"  />
+			<text id="cookstep_trifle2" name="Στρώνοντας ελάχιστα"  />
+			<text id="cookstep_veganstirfry1" name="Αχνίζοντας λαχανικά"  />
+			<text id="cookstep_veganstirfry2" name="μαγειρέψεις ρύζι"  />
+			<text id="cookstep_vegetablesoup1" name="σωτάροντας κρεμμύδια"  />
+			<text id="cookstep_vegetablesoup2" name="Μαγειρεύοντας σούπα"  />
+			<text id="cookstep_veggiecurry1" name="Μαγειρεύοντας ρύζι"  />
+			<text id="cookstep_veggiecurry2" name="βράσιμο κάρι"  />
+			<text id="cookstep_veggielasagne1" name="Στρώνοντας λαζάνια"  />
+			<text id="cookstep_veggielasagne2" name="Ψήνω λαζάνια"  />
+			<text id="cookstep_whitechoccheesecake1" name="αναμειγνύοντας συστατικά"  />
+			<text id="cookstep_whitechoccheesecake2" name="Ψήνω κέϊκ"  />
+			<text id="cookstep_whitechocmousse1" name="λιώνοντας σοκολάτα"  />
+			<text id="cookstep_whitechocmousse2" name="ψύχοντας μους"  />
+		</cookstep>
+		<coopmission>
+			<text id="coop_desc_long_1" name="Ξεκινάμε μία τάξη μαγειρικής για να τελειοποιήσουμε κάποια από τα πιάτα μας. Θέλεις να πάρεις μέρος?"  />
+			<text id="coop_desc_long_10" name="Η οικογένειά σου έρχεται για τα Χριστούγεννα και είσαι εσύ αυτός που επιλέχθηκε για να ετοιμάσει το Χριστουγεννιάτικο δείπνο.
+Απόλαυσέ το!"  />
+			<text id="coop_desc_long_11" name="Ένας πόλεμος με κέϊκ σχεδιάζεται και χρειαζόμαστε κέϊκ! Παρακαλώ ψήσε όσα περισσότερα κέϊκ μπορείς..."  />
+			<text id="coop_desc_long_12" name="Το συσσίτιο της πόλης χρειάζεται απεγνωσμένα σούπες. Θα μπορούσες να μαγειρέψεις μερικές σούπες οι οποίες θα αρέσουν σε όλους?"  />
+			<text id="coop_desc_long_13" name="Για ένα πάρτυ με Ασιατικό θέμα χρειαζόμαστε μερικά τυπικά Ασιατικά γεύματα. Γνωρίζεις κάποιες συνταγές για να μας φτιάξεις το βράδυ μας?"  />
+			<text id="coop_desc_long_14" name="Το διεθνές συνέδριο κατασκευαστών πρόκειται να ξεκινήσει και χρειαζόμαστε κάποια πραγματικά βαριά γεύματα. Έχεις έτοιμο κάτι για αληθινούς άντρες?"  />
+			<text id="coop_desc_long_15" name="Επισκέπτες από το Λονδίνο έρχοντε σύντομα και επιθυμούν να φάνε κάποια κατάλληλα γεύματα από το σπίτι τους. Θα μπορούσες να ετοιμάσεις κάτι?"  />
+			<text id="coop_desc_long_2" name="Σχεδιάζω ένα πάρτυ με θέμα Μεξικάνικο. Ακόμα χρειάζομαι κλασικό Μεξικάνικο φαγητό για αυτό. Μπορείς να με βοηθήσεις?"  />
+			<text id="coop_desc_long_3" name="Ένα αθλητικό κλαμπ από το Αμβούργο μας επισκέπτεται και θέλω να αισθάνονται όσο περισσότερο γίνεται οικεία. Χρειάζομαι κάποιον που μπορεί να μαγειρεύει πραγματικό υγιεινό φαγητό. Αισθάνεσαι έτσι?"  />
+			<text id="coop_desc_long_4" name="Σχεδιάζω ένα πάρτυ στον κήπο για πάρα πολλά άτομα. Έτσι χρειάζομαι πολύ φαγητό. Άκουσα ότι είσαι μία πραγματική αυθεντία τροφοδοσίας. Μπορείς να με βοηθήσεις?"  />
+			<text id="coop_desc_long_5" name="Στο πάρκο σκι της κάτω πόλης θα γίνει ένα τεράστιο πάρτι μετά-σκι και χρειάζεται πολύ ποσότητα νόστιμου φαγητού. Θα μπορούσες να τους βοηθήσεις?"  />
+			<text id="coop_desc_long_6" name="Το αφεντικό μου έρχεται απόψε και θέλω πραγματικά να τον εντυπωσιάσω με ένα νόστιμο γεύμα 4 πιάτων...Μπορείς να το τακτοποιήσεις?"  />
+			<text id="coop_desc_long_7" name="Η καντίνα του σχολείου πήρε φωτιά και τα παιδιά δεν έχουν τίποτα να φάνε! Μπορείς να μας βοηθήσεις και να μαγειρέψεις κάτι νόστιμο?"  />
+			<text id="coop_desc_long_8" name="Ο καλύτερος μου φίλος έχει ένα τεράστιο κάλεσμα γενεθλίων και ξέχασε να παραγγείλει φαγητό. Πολύς κόσμος πρόκειται να έρθει...
+Μπορείς να μας βοηθήσεις?"  />
+			<text id="coop_desc_long_9" name="Το χωριό έχει πάρτυ με Ιταλικό θέμα. Το μόνο που λείπει είναι το φαγητό. Πως είναι οι μαγειρικές σου ικανότητες?"  />
+			<text id="coop_desc_short_1" name="Γίνε η αυθεντία των ζυμαρικών!"  />
+			<text id="coop_desc_short_10" name="Φάτε μέχρι να πεταχτούν τα κουμπιά σας!"  />
+			<text id="coop_desc_short_11" name="Κάθε χτύπημα μετρά!"  />
+			<text id="coop_desc_short_12" name="Δεν υπάρχει τίποτα σαν τη σούπα!"  />
+			<text id="coop_desc_short_13" name="Πάντα πρόσθεσε λίγο ρύζι!"  />
+			<text id="coop_desc_short_14" name="Κρέας και πατάτες είναι αυτό που μας αρέσει!"  />
+			<text id="coop_desc_short_15" name="Όλα για την κοσμική Brit!"  />
+			<text id="coop_desc_short_2" name="Η Φιέστα Μεξικάνα στα καλύτερά της!"  />
+			<text id="coop_desc_short_3" name="Στιφάδο για τους επισκέπτες μου!"  />
+			<text id="coop_desc_short_4" name="Τοστ Χαβάης για το ψητό του κήπου!"  />
+			<text id="coop_desc_short_5" name="Πηγαίνοντας τη σοκολάτα στο βουνό από τυρί!"  />
+			<text id="coop_desc_short_6" name="Η μους σοκολάτας στα καλύτερά της!"  />
+			<text id="coop_desc_short_7" name="Εκπαιδεύοντας τη γεύση!"  />
+			<text id="coop_desc_short_8" name="Ψήσε πίτσα και συνεργάσου για ένα πάρτυ γενεθλίων!"  />
+			<text id="coop_desc_short_9" name="Πίτσα! Ζυμαρικά! Αρκετά!"  />
+			<text id="coop_title_1" name="ΜΑΘΗΜΑ ΜΑΓΕΙΡΙΚΗΣ"  />
+			<text id="coop_title_10" name="ΤΑ ΧΡΙΣΤΟΥΓΕΝΝΑ ΕΙΝΑΙ ΕΔΩ!"  />
+			<text id="coop_title_11" name="ΠΟΛΕΜΟΣ ΚΕΙΚ!"  />
+			<text id="coop_title_12" name="ΤΟ ΦΑΝΤΑΣΜΑ ΣΟΥΠΑΣ"  />
+			<text id="coop_title_13" name="Όλα Ασιατικά"  />
+			<text id="coop_title_14" name="ΓΙΝΕΤΑΙ ΒΑΡΥ!"  />
+			<text id="coop_title_15" name="ΠΟΛΥ ΒΡΕΤΑΝΙΚΟ!"  />
+			<text id="coop_title_2" name="Η Μεξικάνικη βραδυά"  />
+			<text id="coop_title_3" name="ΒΡΑΔΥΑ ΥΓΙΕΙΝΗΣ ΔΙΑΤΡΟΦΗΣ"  />
+			<text id="coop_title_4" name="ΠΑΡΤΥ ΣΤΟΝ ΚΗΠΟ"  />
+			<text id="coop_title_5" name="ΜΕΤΑ ΣΚΙ"  />
+			<text id="coop_title_6" name="ΠΑΡΤΥ ΔΕΙΠΝΟ"  />
+			<text id="coop_title_7" name="ΟΧΙ ΦΑΓΗΤΟ ΣΤΑ ΣΧΟΛΙΚΑ ΚΥΛΙΚΕΙΑ ΣΗΜΕΡΑ"  />
+			<text id="coop_title_8" name="ΠΑΡΤΥ ΓΕΝΕΘΛΙΩΝ"  />
+			<text id="coop_title_9" name="ΙΤΑΛΙΚΟΣ ΜΠΟΥΦΕΣ"  />
+		</coopmission>
+		<dialogs>
+			<text id="dialogwin_achievement_title" name="Επιτεύγματα"  />
+			<text id="dialogwin_avatarcreate_man"  />
+			<text id="dialogwin_avatarcreate_random" name="Άλλαξε εμφάνιση"  />
+			<text id="dialogwin_avatarcreate_txt_avatar_name" name="Όνομα:"  />
+			<text id="dialogwin_avatarcreate_txt_avatar_title" name="Δημιούργησε τον χαρακτήρα σου"  />
+			<text id="dialogwin_avatarcreate_woman"  />
+			<text id="dialogwin_avatarnameselect_copy" name="Το όνομα χρησιμοποιείται ήδη. Προτάσεις:"  />
+			<text id="dialogwin_avatarnameselect_title" name="Ωχ!"  />
+			<text id="dialogwin_avatar_btn_random" name="Σύμπτωση"  />
+			<text id="dialogwin_bonus_copy_achievement" name="Έφτασες το επίπεδο {0} αυτού του επιτεύγματος!
+Συγχαρητήρια!"  />
+			<text id="dialogwin_bonus_copy_counter" name="Μπορείς τώρα ν&#039;αγοράσεις έναν επιπλέον πάγκο."  />
+			<text id="dialogwin_bonus_copy_dish" name="Νέες συνταγές έχουν ξεκλειδωθεί για σένα:"  />
+			<text id="dialogwin_bonus_copy_expand" name="Επέκτεινες το καφέ σου!Τώρα έχεις περισσότερο χώρο για τους καλεσμένους σου, διακοσμήσεις και ακόμα περισσότερα!"  />
+			<text id="dialogwin_bonus_copy_fridge" name="Μπορείς τώρα ν&#039;αγοράσεις ένα επιπλέον ψυγείο."  />
+			<text id="dialogwin_bonus_copy_instant" name="Ένα ακόμα στιγμιαίο μαγείρεμα. Ένα κλικ και το πιάτο σου είναι έτοιμο να σερβιριστεί."  />
+			<text id="dialogwin_bonus_copy_level2" name="Τσέκαρέ το! Μπορείς επίσης να επεκτείνεις το καφέ σου για να έχεις περισσότερο χώρο για τους καλεσμένους σου!"  />
+			<text id="dialogwin_bonus_copy_login" name="Αυτό έγινε ενώ ήσουν μακριά:"  />
+			<text id="dialogwin_bonus_copy_newwaiter" name="Τώρα έχεις ένα νέο εργαζόμενο! Φέρε τους επισκέπτες!"  />
+			<text id="dialogwin_bonus_copy_stove" name="Μπορείς τώρα ν&#039;αγοράσεις έναν επιπλέον φούρνο."  />
+			<text id="dialogwin_bonus_copy_waiter" name="Μπορείς τώρα να προσλάβεις έναν επιπλέον σερβιτόρο."  />
+			<text id="dialogwin_bonus_title_achievement" name="Νέο επίτευγμα"  />
+			<text id="dialogwin_bonus_title_counter" name="Νέος πάγκος"  />
+			<text id="dialogwin_bonus_title_dish" name="Νέες συνταγές"  />
+			<text id="dialogwin_bonus_title_expand" name="Ζήτω!"  />
+			<text id="dialogwin_bonus_title_fridge" name="Νέο ψυγείο"  />
+			<text id="dialogwin_bonus_title_instant" name="Στιγμιαίο μαγείρεμα πιο συχνά"  />
+			<text id="dialogwin_bonus_title_level2" name="Επέκτεινε!"  />
+			<text id="dialogwin_bonus_title_login" name="Είσαι πίσω!"  />
+			<text id="dialogwin_bonus_title_newwaiter" name="Συγχαρητήρια"  />
+			<text id="dialogwin_bonus_title_stove" name="Νέος φούρνος"  />
+			<text id="dialogwin_bonus_title_waiter" name="Περισσότερο προσωπικό"  />
+			<text id="dialogwin_buytile_copy" name="Θέλεις ν&#039;αγοράσεις {0} πλακάκια για {1}?"  />
+			<text id="dialogwin_buytile_title" name="Αγόρασε πλακάκια?"  />
+			<text id="dialogwin_changepassword_copy_newpass" name="Νέος κωδικός:"  />
+			<text id="dialogwin_changepassword_copy_oldpass" name="Παλιός κωδικός:"  />
+			<text id="dialogwin_changepassword_title" name="Αλλαγή κωδικού"  />
+			<text id="dialogwin_clearcounter_cancelButton" name="Κράτησε"  />
+			<text id="dialogwin_clearcounter_okButton" name="Πέταξε"  />
+			<text id="dialogwin_clearcounter_title" name="Ένα γεύμα σερβίρεται από αυτόν τον πάγκο. Τι θέλεις να κάνεις μ&#039;αυτό?"  />
+			<text id="dialogwin_clearstove_btn_cancel" name="Κράτησε"  />
+			<text id="dialogwin_clearstove_btn_ok" name="Πέταξε"  />
+			<text id="dialogwin_clearstove_copy" name="Μπορείς να κάνεις ακόμα {0} &#039;Στιγμιαία μαγειρέματα&#039;"  />
+			<text id="dialogwin_clearstove_title" name="Ένα γεύμα ψήνεται στο φούρνο αυτό. Τι θέλεις να κάνεις μ&#039;αυτό?"  />
+			<text id="dialogwin_cookbook_income" name="{0} ανά σερβίρισμα"  />
+			<text id="dialogwin_cookbook_readyin" name="Έτοιμο σε: {0}"  />
+			<text id="dialogwin_cookbook_servings" name="Σερβιρίσματα: {0}"  />
+			<text id="dialogwin_coopextend_nomoney" name="Δεν έχεις αρκετά χρήματα για να επεκτείνεις αυτή τη Συνεργασία!"  />
+			<text id="dialogwin_coopreward_finish_0" name="Χρυσός"  />
+			<text id="dialogwin_coopreward_finish_1" name="Ασημένιο"  />
+			<text id="dialogwin_coopreward_finish_2" name="Χάλκινο"  />
+			<text id="dialogwin_coopreward_title_fail" name="Η Συνεργασία δεν έγινε!"  />
+			<text id="dialogwin_coopreward_title_success" name="Η συνεργασία έγινε με {0}"  />
+			<text id="dialogwin_coopshelp_copy" name="Εδώ μπορείς να ολοκληρώσεις τις μαγειρικές δουλειές μαζί με τους φίλους σου και να κερδίσεις εξτρά ΧΡ και Δολλάρια Καφέ.
+Όσο πιο γρήγορα τελειώσεις το καθήκον,τόσο υψηλότερη θα είναι η ανταμοιβή σου!
+
+Εάν τελειώνει ο χρόνος σου μπορείς πάντα να τον επεκτείνεις!
+
+Αλλά να θυμάσαι, θα λαμβάνεις την ανταμοιβή μόνο όταν κάνεις μια εισφορά!"  />
+			<text id="dialogwin_coopshelp_title" name="Τι είναι οι Συνεργασίες?"  />
+			<text id="dialogwin_coop_btn_action" name="Λεπτομέρειες"  />
+			<text id="dialogwin_coop_btn_activecoops" name="ΕΝΕΡΓΟ"  />
+			<text id="dialogwin_coop_btn_join" name="Πάρε μέρος σε"  />
+			<text id="dialogwin_coop_btn_newcoop" name="ΞΕΚΙΝΑ ΣΥΝΕΤΑΙΡΙΣΜΟ"  />
+			<text id="dialogwin_coop_btn_quit" name="Άφησε"  />
+			<text id="dialogwin_coop_extendtime_copy" name="Θέλεις να επεκτείνεις το χρόνο της Συνεργασίας για {0} χρυσό!Χρόνος χρυσού: {1} ώρες
+Χρόνος ασημένιου: {2} ώρες
+Χρόνος χάλκινου: {3} ώρες"  />
+			<text id="dialogwin_coop_extendtime_title" name="Χρειάζεσαι περισσότερο χρόνο?"  />
+			<text id="dialogwin_coop_maxdone" name="Έχεις ήδη ξεκινήσει μία Συνεργασία σήμερα! Μπορείς να ξεκινήσεις μία άλλη αύριο!"  />
+			<text id="dialogwin_coop_maxuser" name="Μέγιστος αριθμός των συμμετεχόντων: {0}"  />
+			<text id="dialogwin_coop_member" name="Μέλος της Συνεργασίας:"  />
+			<text id="dialogwin_coop_minlevel" name="Ελάχιστο επίπεδο για να μπεις στη συνεργασία: {0}"  />
+			<text id="dialogwin_coop_quit_copy" name="Θέλεις σίγουρα ν&#039;αφήσεις αυτή τη Συνεργασία?"  />
+			<text id="dialogwin_coop_subtitle" name="Πρέπει να μαγειρέψεις τα ακόλουθα:"  />
+			<text id="dialogwin_coop_timeInfo" name="Ολοκληρώνεται σε:"  />
+			<text id="dialogwin_coop_timeleft" name="Χρόνος που απομένει:"  />
+			<text id="dialogwin_coop_txt_noactive" name="Δεν υπάρχουν ενεργές Συνεργασίες αυτή τη στιγμή.
+Γιατί δε ξεκινάς μία!"  />
+			<text id="dialogwin_coop_txt_title" name="ΣΥΝΕΡΓΑΣΙΕΣ"  />
+			<text id="dialogwin_decoshophelp_copy" name="Αν σύρεις τα έπιπλα και τις διακοσμήσεις μέσα σε αυτό το πλαίσιο καί όχι πάνω στην ταμειακή μηχανή, θα αποθηκευτούν. Μπορείς να τα ξαναχρησιμοποιήσεις με το να τα τραβήξεις πίσω μέσα στο καφέ σου. Αυτό δε θα σου στοιχίσει τίποτα. Ο αριθμός των αντικειμένων είναι ορατός στο κόκκινο αυτοκόλλητο που είναι πάνω του."  />
+			<text id="dialogwin_decoshophelp_copy_1" name="Τα έπιπλα και οι διακοσμήσεις έχουν μία αξία πολυτέλειας. Στο σύνολο, αυτό ορίζει την αξία πολυτέλειας του καφέ σου! Πόσο πολυτελές είναι το καφέ σου?"  />
+			<text id="dialogwin_decoshophelp_title" name="Αποθήκευση διακοσμήσεων?"  />
+			<text id="dialogwin_decoshophelp_title_1" name="Αξία πολυτέλειας?"  />
+			<text id="dialogwin_dishmastery_copy_0" name="Κέρδισες ένα αστέρι για {0}!"  />
+			<text id="dialogwin_dishmastery_copy_1" name="Μοίρασε κάποια επιπλέον σερβιρίσματα με τους φίλους σου!"  />
+			<text id="dialogwin_dishmastery_info" name="Κάθε Μαεστρία που κερδίζεις κάνει τα γεύματά σου καλύτερα!"  />
+			<text id="dialogwin_dishmastery_title" name="Μία νέα Μαεστρία!"  />
+			<text id="dialogwin_fancycooking_title" name="Θέλεις ν&#039; αρωματίσεις αυτό το γεύμα με {0}?"  />
+			<text id="dialogwin_featureUnlocked_coop" name="Ξεκίνα μία Συνεργασία με τους φίλους σου!"  />
+			<text id="dialogwin_featureUnlocked_decoration" name="Τώρα έχεις πρόσβαση σε νέα διακοσμητικά αντικείμενα!"  />
+			<text id="dialogwin_featureUnlocked_fancy" name="Δώσε στα πιάτα σου ένα έξτρα άρωμα με τα φανταστικά συστατικά!"  />
+			<text id="dialogwin_featureUnlocked_frosty" name="Ανακάλυψε τη Μηχανή Ροφημάτων και σβήσε τη δίψα των καλεσμένων σου!"  />
+			<text id="dialogwin_featureUnlocked_marketplace" name="Βρες νέους φίλους στην αγορά!"  />
+			<text id="dialogwin_featureUnlocked_muffinman" name="Δοκίμασε την τύχη σου με τον Κύριο Μάφιν"  />
+			<text id="dialogwin_featureUnlocked_ranking" name="Επισκέψου άλλους παίκτες μέσω της βαθμολογίας!"  />
+			<text id="dialogwin_featureUnlocked_staff" name="Προσέλαβε ένα νέο σερβιτόρο για να μπορείς να σερβίρεις πολλούς καλεσμένους!"  />
+			<text id="dialogwin_featureUnlocked_wheeloffortune" name="Δοκίμασε την τύχη σου στον Τροχό της Τύχης!"  />
+			<text id="dialogwin_FriendShop_copy" name="Χρειάζεσαι ακόμα {0} φίλους δικτύου να σε βοηθήσουν να επεκτείνεις το καφέ σου!
+Μπορείς όμως να το αναθέσεις σε έναν τεχνίτη για {1} χρυσό!"  />
+			<text id="dialogwin_FriendShop_title" name="Νέοι φίλοι"  />
+			<text id="dialogwin_giftbox_close" name="κλείσιμο"  />
+			<text id="dialogwin_giftbox_friendlist_empty" name="Μπορείς να στέλνεις στους δικτυακούς σου φίλους ένα δώρο την ημέρα."  />
+			<text id="dialogwin_giftbox_friendlist_notavailable" name="Μπορείς να στείλεις δώρα στους φίλους από αύριο και έπειτα!"  />
+			<text id="dialogwin_giftbox_ggsgifts_empty" name="Κανένα δώρο! Θα λάβεις νέα δώρα με το μπόνους σύνδεσης!"  />
+			<text id="dialogwin_giftbox_mygifts_empty" name="Δεν έχεις πάρει καθόλου δώρα σήμερα. Στείλε μερικά στους φίλους σου, ίσως θα σου στείλουν κάτι πίσω."  />
+			<text id="dialogwin_giftbox_remove" name="πέταξε"  />
+			<text id="dialogwin_giftbox_send" name="στείλε"  />
+			<text id="dialogwin_giftbox_sendablegifts_empty" name="Κανένα δώρο σήμερα."  />
+			<text id="dialogwin_giftbox_title" name="Δώρα!"  />
+			<text id="dialogwin_giftbox_use" name="χρήση"  />
+			<text id="dialogwin_highscore_luxury" name="Πολυτέλεια"  />
+			<text id="dialogwin_highscore_name" name="Όνομα"  />
+			<text id="dialogwin_highscore_rank" name="Κατάταξη"  />
+			<text id="dialogwin_highscore_searchtext" name="Αναζήτηση Όνομα/Κατάταξη"  />
+			<text id="dialogwin_highscore_title" name="Κατάταξη"  />
+			<text id="dialogwin_ingamehelp_1_1" name="Πως μαγειρεύω ένα γεύμα?"  />
+			<text id="dialogwin_ingamehelp_1_2" name="Χρησιμοποίησε τους φούρνους για να ετοιμάσεις γεύματα για τους καλεσμένους σου. Για να το κάνεις αυτό, πρέπει να διαλέξεις μία συνταγή και να τη μαγειρέψεις κάνονοντας κλικ πολλές φορές."  />
+			<text id="dialogwin_ingamehelp_1_3" name="Θα βρεις μία επισκόπηση όλων των συνταγών και των απαιτούμενων συστατικών στο βιβλίο μαγειρικής."  />
+			<text id="dialogwin_ingamehelp_1_4" name="Θα βρεις τα απαιτούμενα συστατικά για τη συνταγή σου στο κατάστημα συστατικών."  />
+			<text id="dialogwin_ingamehelp_1_5" name="Όταν έχεις συγκεντρώσει όλα τα συστατικά, μπορείς να πατήσεις στο &quot;μαγείρεμα&quot; και να ετοιμάσεις ένα γεύμα."  />
+			<text id="dialogwin_ingamehelp_1_6" name="Ένα πιάτο είναι έτοιμο μετά από ένα προκαθορισμένο χρόνο. Μπορείς να το τοποθετήσεις επάνω στον πάγκο για να το σερβίρεις."  />
+			<text id="dialogwin_ingamehelp_1_7" name="Ένας φούρνος που έχει χρησιμοποιηθεί πρέπει να καθαριστεί πριν την επόμενη χρήση."  />
+			<text id="dialogwin_ingamehelp_2_1" name="Τι χρειάζεται να γνωρίζω για τα συστατικά?"  />
+			<text id="dialogwin_ingamehelp_2_2" name="Εδώ αποθήκευσες τα συστατικά που αγόρασες. Κάθε ψυγείο έχει περιορισμένες χωρητικότητες. Αλλά είναι πάντα καλό να αγοράσεις ένα αποθηκευτικό χώρο."  />
+			<text id="dialogwin_ingamehelp_2_3" name="Τα φανταστικά συστατικά θα προσθέσουν άρωμα στα φαγητά σου. Αν τα χρησιμοποιήσεις, θα λάβεις περισσότερες μερίδες και ΧΡ.  Επίσης δε πιάνουν χώρο στο ψυγείο σου."  />
+			<text id="dialogwin_ingamehelp_2_4" name="Μερικά συστατικά δεν είναι διαθέσιμα κάποιες φορές. Ο ταχυμεταφορέας θα σε βοηθήσει με αυτό. Για ένα μικρό φιλοδώρημα, θα έχεις πάντα ότι χρειάζεσαι."  />
+			<text id="dialogwin_ingamehelp_2_5" name="Αυτά τα συστατικά είναι πάντα διαθέσιμα :"  />
+			<text id="dialogwin_ingamehelp_3_1" name="Αξίες και άλλα."  />
+			<text id="dialogwin_ingamehelp_3_2" name="Αποκτάς πόντους εμπειρίας με το σερβίρισμα γευμάτων. Άλλες πιθανότητες είναι : Σερβίροντας σε άλλα καφέ, η επιτυχής ύπαρξη Συνεργασιών, βραβεία ή σερβίροντας ποτά."  />
+			<text id="dialogwin_ingamehelp_3_3" name="Η δημοτικότητά σου αποφασίζει πόσοι καλεσμένοι θα σε επισκεφθούν. Η δημοτικότητά σου αυξάνει όταν οι καλεσμένοι φεύγουν από το καφέ σου ικανοποιημένοι. Αλλά επίσης μπορεί να μειωθέι όταν καλεσμένοι είναι δυσαρεστημένοι. Οι καλεσμένοι είναι ικανοποιημένοι όταν παίρνουν κάτι να φάνε."  />
+			<text id="dialogwin_ingamehelp_3_4" name="Έχεις κερδίσει Δολλάρια Καφέ από την πώληση γευμάτων. Άλλες επιλογές είναι: δουλεύοντας σαν σερβιτόρος, επιτυχείς Συνεργασίες ή επιτεύγματα."  />
+			<text id="dialogwin_ingamehelp_3_5" name="Κάθε αντικείμενο στο μενού ανακαίνισης έχει μία αξία πολυτέλειας. Αυτή θα επηρεάσει τη δημοτικότητά σου. Όσο περισσότερο πολυτελές τόσο το καλύτερο..."  />
+			<text id="dialogwin_ingamehelp_3_6" name="Θα βρεις φούρνους, πάγκους, τραπέζια και άλλα αντικείμενα επίπλωσης στο μενού της διακόσμησης. Γίνε δημιουργικός!"  />
+			<text id="dialogwin_ingamehelp_3_7" name="Αν το καφέ σου γίνει πολύ μικρό, έχεις την επιλογή της επέκτασης για να κάνεις περισσότερο χώρο για τους καλεσμένους σου."  />
+			<text id="dialogwin_ingamehelp_4_1" name="Τι άλλο χρειάζεται να ξέρω?"  />
+			<text id="dialogwin_ingamehelp_4_2" name="Μπορείς να γνωρίσεις άλλους παίκτες, να ψάξεις για δουλειά ή απλά να συζητήσεις με άλλους παίκτες, στην αγορά."  />
+			<text id="dialogwin_ingamehelp_4_3" name="Κάνεις επιτεύγματα για όλα τα είδη ενεργειών και είναι επίσης μία πρόσθετη πηγή για ΧΡ και Δολλάρια καφέ."  />
+			<text id="dialogwin_ingamehelp_4_4" name="Χρησιμοποιώντας την αγορά, μπορείς να μισθώσεις άλλους παίκτες ως σερβιτόρους στο καφέ σου ή να γίνεις εσύ ο ίδιος  σερβιτόρος για κάποιον άλλον."  />
+			<text id="dialogwin_ingamehelp_4_5" name="Μία Συνεργασία είναι ένα συλλογικό έργο μαγειρικής, όπου μπορείς να παίξεις με άλλους παίκτες. Μια ανταμοιβή περιμένει σε περίπτωση επιτυχίας."  />
+			<text id="dialogwin_ingamehelp_4_6" name="Οι σερβιτόροι σου σερβίρουν τα τελειωμένα γεύματα στους πελάτες που περιμένουν και επίσης καθαρίζουν τα λερωμένα πιάτα από τα τραπέζια ."  />
+			<text id="dialogwin_ingamehelp_4_7" name="Έτοιμα μαγειρευμένα πιάτα που δεν τοποθετούνται πάνω σε ένα πάγκο εγκαίρως, θα χαλάσουν."  />
+			<text id="dialogwin_ingamehelp_ingredients" name="Συστατικά"  />
+			<text id="dialogwin_ingredient_all" name="Όλα"  />
+			<text id="dialogwin_ingredient_emptyfridge" name="Το ψυγείο σου είναι άδειο! Αν θέλεις να μαγειρέψεις κάτι πρέπει να αγοράσεις συστατικά από το κατάστημα συστατικών."  />
+			<text id="dialogwin_ingredient_fancy" name="Ειδικά συστατικά"  />
+			<text id="dialogwin_ingredient_fruits" name="Φρούτα"  />
+			<text id="dialogwin_ingredient_instore" name="x στην αποθήκη σου"  />
+			<text id="dialogwin_ingredient_meat" name="Κρέας"  />
+			<text id="dialogwin_ingredient_notinstock" name="Δεν υπάρχει σε απόθεμα σήμερα!"  />
+			<text id="dialogwin_ingredient_shoplayer" name="Κατάστημα συστατικών"  />
+			<text id="dialogwin_ingredient_storecapacity" name="Χωρητικότητα:"  />
+			<text id="dialogwin_ingredient_storeinused" name="Μέσα στο ψυγείο σου:"  />
+			<text id="dialogwin_ingredient_storelayer" name="Ψυγείο"  />
+			<text id="dialogwin_ingredient_vegatable" name="Χωρίς κρέας"  />
+			<text id="dialogwin_instantcooking_copy" name="Θέλεις να επιλέξεις Στιγμαίο Μαγείρεμα?
+Ακόμα {0} φορές δυνατό!"  />
+			<text id="dialogwin_instantcooking_title" name="Θέλεις να κάνεις τη
+ &#039;Στιγμαία μαγειρική&#039;?"  />
+			<text id="dialogwin_jobpaycheck_copy" name="Οι σκληρά εργαζόμενοι σερβιτόροι ανταμείβονται γενναιόδωρα! Εκτός από τα φιλοδωρήματά σου, έχεις επίσης κερδίσει εμπειρία."  />
+			<text id="dialogwin_jobpaycheck_title" name="Λογαριασμός"  />
+			<text id="dialogwin_levelup_copy" name="Έφτασες στο επίπεδο {0}!"  />
+			<text id="dialogwin_levelup_copy_1" name="Η ανταμοιβή σου:"  />
+			<text id="dialogwin_levelup_copy_2" name="Ενεργοποιημένο για σένα:"  />
+			<text id="dialogwin_levelup_title" name="ΑΝΕΒΗΚΕΣ ΕΠΙΠΕΔΟ"  />
+			<text id="dialogwin_lonelyingredient_copy" name="Ο σερβιτόρος βρήκε ένα κουτί με ένα μυστήριο συστατικό!
+
+Δώστο στους φίλους σου!"  />
+			<text id="dialogwin_lonelyingredient_title" name="Έκπληξη!"  />
+			<text id="dialogwin_lonelytip_copy" name="Ένας από τους καλεσμένους σου, σου άφησε ένα τεράστιο φιλοδώρημα!
+Δώσε ένα μέρος από αυτό στους φίλους σου!"  />
+			<text id="dialogwin_lonelytip_title" name="Ζήτω!"  />
+			<text id="dialogwin_muffinman_beforebet" name="Διάλεξε το στοίχημά σου. Αν κερδίσεις θα πάρεις πίσω τα διπλά!"  />
+			<text id="dialogwin_muffinman_btn_again" name="Ξανά!"  />
+			<text id="dialogwin_muffinman_btn_go" name="Πήγαινε!"  />
+			<text id="dialogwin_muffinman_header" name="Βρες τη γέμιση!"  />
+			<text id="dialogwin_muffinman_lostbet" name="Ω.Δε μπορείς να κερδίζεις πάντα.Ίσως θα ήθελες να δοκιμάσεις ξανά?"  />
+			<text id="dialogwin_muffinman_nomoney" name="Δεν έχεις αρκετά Δολλάρια Καφέ/Χρυσό για να βάλεις αυτό το στοίχημα!"  />
+			<text id="dialogwin_muffinman_nopayment" name="Αν θέλεις να παίξεις για Χρυσό πρέπει να έχεις φτάσει στο επίπεδο 10!"  />
+			<text id="dialogwin_muffinman_noregister" name="Μπορείς να παίξεις &quot;βρες τη γέμιση&quot; μόνο αν είσαι ένας εγγεγραμμένος παίκτης!"  />
+			<text id="dialogwin_muffinman_nosale" name="Δε μπορείς να πουλήσεις τον αρτοποϊό για μάφιν!"  />
+			<text id="dialogwin_muffinman_onlyonebuy" name="Μπορείς να βάλεις μόνο έναν αρτοποϊό μάφιν στο καφέ σου!"  />
+			<text id="dialogwin_muffinman_placedbet" name="Πολύ καλό! Ποιά μάφιν κρύβουνς τις γεμίσεις?"  />
+			<text id="dialogwin_muffinman_toohighbet" name="Δε μπορείς να στοιχηματίσεις τόσο πολύ!Το μέγιστο στοίχημα είναι {0} Χρυσό και {1} Δολλάρια Καφέ!"  />
+			<text id="dialogwin_muffinman_wonbet" name="Μιαμ!Βρήκες τη γέμιση!Ας δοκιμάσουμε πάλι."  />
+			<text id="dialogwin_nomoney_avatarchange" name="Δεν έχεις αρκετό Χρυσό για ν&#039;αλλάξεις ρούχα!"  />
+			<text id="dialogwin_nomoney_clean_copy" name="Δεν έχεις αρκετά Δολλάρια Καφέ για να καθαρίσεις το φούρνο σου."  />
+			<text id="dialogwin_nomoney_copy" name="Ωχ, δεν έχεις αρκετά Δολλάρια Καφέ/Χρυσό για να αγοράσεις αυτό το αντικείμενο!"  />
+			<text id="dialogwin_nomoney_courier" name="Ωχ, δεν έχεις αρκετά Δολλάρια Καφέ/Χρυσό για να πληρώσεις τον ταχυμεταφορέα!"  />
+			<text id="dialogwin_nomoney_instantcook_copy" name="Δεν έχεις αρκετό Χρυσό για να κάνεις στιγμιαίο μαγείρεμα."  />
+			<text id="dialogwin_nomoney_moregold" name="Αγόρασε Δολλάρια Καφέ/Χρυσό"  />
+			<text id="dialogwin_nomoney_npchire" name="Δεν έχεις αρκετό χρυσό για να προσλάβεις καινούριο σερβιτόρο!"  />
+			<text id="dialogwin_nomoney_ok" name="ΟΚ"  />
+			<text id="dialogwin_nomoney_title" name="Όχι αρκετά Δολλάρια Καφέ/Χρυσός"  />
+			<text id="dialogwin_noreward_copy" name="Κάποιος άλλος παίκτης πήρε την ανταμοιβή πριν από σένα!"  />
+			<text id="dialogwin_noreward_title" name="Κρίμα!"  />
+			<text id="dialogwin_perfectdish_copy" name="Έχεις τελειοποιήσει το {0} σου!
+Δώσε μερικά επιπλέον σερβιρίσματα στους φίλους σου!"  />
+			<text id="dialogwin_perfectdish_title" name="Τέλεια!"  />
+			<text id="dialogwin_presentreceived_copy" name="Το καλώς ήρθες δώρο των {0} έχει προστεθεί στο λογαριασμό  σου."  />
+			<text id="dialogwin_presentreceived_title" name="Το δώρο παραλήφθηκε!"  />
+			<text id="dialogwin_presentreminder_btn_send" name="Στείλε"  />
+			<text id="dialogwin_presentreminder_copy1" name="Απλά πάτησε στο σύνδεσμο του χρυσού που είναι στο  e-mail και μάζεψε {0} χρυσό!"  />
+			<text id="dialogwin_presentreminder_copy2" name="Ναι, στείλε {0} Χρυσό στη διεύθυνσή e-mail μου τώρα:"  />
+			<text id="dialogwin_presentreminder_title" name="{0} χρυσός για σένα!"  />
+			<text id="dialogwin_receiveitem_copy" name="Η ανταμοιβή σου είναι στο κιβώτιο δώρων σου!"  />
+			<text id="dialogwin_receiveitem_title" name="Ζήτω!"  />
+			<text id="dialogwin_receivemoney_copy" name="Η ανταμοιβή σου έχει πιστωθεί!"  />
+			<text id="dialogwin_receivemoney_title" name="Συγχαρητήρια!"  />
+			<text id="dialogwin_refreshfood_btn_clean" name="Καθάρισε"  />
+			<text id="dialogwin_refreshfood_btn_refresh" name="Αποθήκευσε το φαγητό"  />
+			<text id="dialogwin_refreshfood_title" name="Θέλεις να αποθηκεύσεις το γεύμα σου?"  />
+			<text id="dialogwin_register_agbs" name="Αποδοχή Όρων και Προϋποθέσεων Χρήσης"  />
+			<text id="dialogwin_register_mail" name="E-mail"  />
+			<text id="dialogwin_register_password" name="Κωδικός"  />
+			<text id="dialogwin_register_title" name="Εγγραφή"  />
+			<text id="dialogwin_sendgift_send" name="στείλε"  />
+			<text id="dialogwin_sendgift_titel" name="Στείλε σε..."  />
+			<text id="dialogwin_settings_email" name="Απέκλεισε τη λήψη e-mails"  />
+			<text id="dialogwin_settings_general" name="Γενικά"  />
+			<text id="dialogwin_settings_high" name="Υψηλή"  />
+			<text id="dialogwin_settings_low" name="Χαμηλή"  />
+			<text id="dialogwin_settings_medium" name="Μεσαία"  />
+			<text id="dialogwin_settings_quality" name="Ποιότητα"  />
+			<text id="dialogwin_shippingconfirmation_copy1" name="Πάτησε στο σύνδεσμο που είναι στο e-mail για να μαζέψεις το χρυσό."  />
+			<text id="dialogwin_shippingconfirmation_copy2" name="Δεν πήρες το e-mail ακόμα? Μπορεί να χρειαστούν μερικά λεπτά. Αν δε μπορείς να το βρεις ούτε στο φάκελο &quot;ανεπιθύμητα&quot;, η υποστήριξη ευχαρίστως θα σε βοηθήσει."  />
+			<text id="dialogwin_shippingconfirmation_title" name="Το χρυσό e-mail είναι στο δρόμο!"  />
+			<text id="dialogwin_smoothiemakerhelp_copy" name="Εδώ μπορείς ν&#039;αναμείξεις ποτά και να τα σερβίρεις στους πελάτες σου. Διάλεξε ένα ποτό και επέλεξε το &quot;ανάμειξε&quot;.
+
+Απλά πάτησε σε ένα &quot;διψασμένο&quot; πελάτη πριν καθίσουν για να σερβίρεις ένα ποτό.
+Οι &quot;διψασμένοι&quot; πελάτες απεικονίζονται με μία εικόνα να περιπλανάται πάνω από τα κεφάλια τους."  />
+			<text id="dialogwin_smoothiemakerhelp_title" name="Πως πουλώ ποτά?"  />
+			<text id="dialogwin_smoothiemaker_allserved_copy" name="Έχεις σερβίρει όλες τις μερίδες!
+Περίμενε μέχρι ν&#039;αδειάσει το Φρόστυ για να παράγεις νέα ποτά!"  />
+			<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Στο Κατάστημα"  />
+			<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Πρέπει ν&#039;αγοράσεις μία Μηχανή ροφημάτων για να σερβίρεις ποτά!"  />
+			<text id="dialogwin_smoothiemaker_nomoney_copy" name="Δεν έχεις αρκετά Δολλάρια Καφέ/Χρυσό για να αναμείξεις αυτό το ποτό!"  />
+			<text id="dialogwin_smoothiemaker_noservings_copy" name="Δεν έχουν μείνει καθόλου ποτά!
+Ανάμειξε κάτι καινούριο!"  />
+			<text id="dialogwin_smoothiemaker_onlyonebuy" name="Μπορείς να τοποθετήσεις μόνο μία Μηχανή ροφημάτων στο καφέ σου!"  />
+			<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY"  />
+			<text id="dialogwin_staffmanagement_btn_fire" name="Απόλυσε"  />
+			<text id="dialogwin_staffmanagement_favorite" name="Έργο?"  />
+			<text id="dialogwin_staffmanagement_favorite0" name="Καθάρισμα"  />
+			<text id="dialogwin_staffmanagement_favorite100" name="Σερβίρισμα"  />
+			<text id="dialogwin_staffmanagement_fire" name="Απόλυσε?"  />
+			<text id="dialogwin_staffmanagement_renamecopy" name="Δώσε ένα καινούριο όνομα στο σερβιτόρο σου."  />
+			<text id="dialogwin_staffmanagement_renametitle" name="Μετονόμασε?"  />
+			<text id="dialogwin_staff_hire" name="Προσέλαβε"  />
+			<text id="dialogwin_staff_management" name="Διαχείριση"  />
+			<text id="dialogwin_staff_new" name="Νέος σερβιτόρος"  />
+			<text id="dialogwin_staff_title" name="Οι σερβιτόροι σου:"  />
+			<text id="dialogwin_welcomeback_text" name="Λαμβάνεις σαν δώρο: {0} Χρυσό"  />
+			<text id="dialogwin_welcomeback_text2" name="Λαμβάνεις ως ένα δώρο: {0} Χρυσό και 3 δροσερά φανταστικά συστατικά."  />
+			<text id="dialogwin_welcomeback_text3" name=""  />
+			<text id="dialogwin_welcomeback_title" name="Καλώς ήρθες πίσω {0}!"  />
+			<text id="dialogwin_wheeloffortune_beforespin" name="Γύρνα τον Τροχό της Τύχης και κέρδισε σπουδαία δώρα!"  />
+			<text id="dialogwin_wheeloffortune_btn_go" name="Γύρνα!"  />
+			<text id="dialogwin_wheeloffortune_btn_towheel" name="Στον τροχό"  />
+			<text id="dialogwin_wheeloffortune_copy1" name="Είχες μια περιστροφή του Τροχού της Τύχης μέχρι τώρα?"  />
+			<text id="dialogwin_wheeloffortune_header" name="ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ!"  />
+			<text id="dialogwin_wheeloffortune_info" name="Το πρώτο γύρισμα της ημέρας είναι δωρεάν!"  />
+			<text id="dialogwin_wheeloffortune_info1" name="Κάθε επιπλέον περιστροφή σου στοιχίζει ένα Χρυσό!"  />
+			<text id="dialogwin_wheeloffortune_nomoney" name="Δεν έχεις αρκετό Χρυσό για να γυρίσεις τον Τροχό της Τύχης!"  />
+			<text id="dialogwin_wheeloffortune_noregister" name="Μόνο σαν εγγεγραμμένος παίκτης μπορείς να γυρίσεις τον Τροχό της Τύχης!"  />
+			<text id="dialogwin_wheeloffortune_nospace" name="Δεν έχεις καθόλου χώρο στο κουτί δώρων σου για τα βραβεία σου. Κάνε λίγο χώρο και μετά μπορείς να γυρίσεις τον Τροχό της Τύχης!"  />
+			<text id="dialogwin_wheeloffortune_title" name="Ο Τροχός της Τύχης!"  />
+			<text id="dialogwin_wheeloffortune_tryagain" name="Δοκίμασε ξανά!"  />
+			<text id="dialogwin_wheeloffortune_wonbet" name="Συγχαρητήρια!
+Το αντίτιμό σου:"  />
+			<text id="dialogwin_wheeloffortune_woncash" name="Συγχαρητήρια!
+Το βραβείο σου έχει ήδη απονομηθεί!"  />
+			<text id="dialogwin_wheeloffortune_wonfood" name="Συγχαρητήρια!
+Μπορείς να βρεις το δώρο σου μέσα στο κουτί δώρων σου!"  />
+			<text id="dialogwin_wheeloffortune_wongold" name="Κέρδισες τη χρυσή κατσαρόλα!"  />
+			<text id="dialogwin_wheeloffortune_wonitem" name="Συγχαρητήρια! 
+Μπορείς να βρεις το δώρο σου μέσα στο κουτί δώρων σου!"  />
+		</dialogs>
+		<error_codes>
+			<text id="achievement_error" name="Επίτευγμα"  />
+			<text id="achievement_errorcode_1" name="Σφάλμα"  />
+			<text id="cafechat_errorcode_23" name="Ο διαχειριστής έχει απενεργοποιήσει προσωρινά τη λειτουργία συζήτησής σου."  />
+			<text id="cafechat_errorcode_24" name="Παρακαλούμε μη σπαμμάρετε τη συζήτηση!"  />
+			<text id="cafewalk_errorcode_1" name="Πρόσεχε!"  />
+			<text id="cafewalk_errorcode_23" name="Δε μπορείς να πας εδώ."  />
+			<text id="cafe_error" name="Πρόσεχε!"  />
+			<text id="changepassword_error" name="Αλλαγή κωδικού"  />
+			<text id="changepassword_errorcode_0" name="Ο κωδικός σου άλλαξε επιτυχώς!"  />
+			<text id="changepassword_errorcode_1" name="Σφάλμα"  />
+			<text id="changepassword_errorcode_10" name="Συγγνώμη, αλλά αυτός δεν είναι ο παλιός κωδικός σου."  />
+			<text id="coop_errorcode_3" name="Το επίπεδό σου είναι πολύ χαμηλό για να μπεις σε αυτό το Συνεταιρισμό.
+Χρειάζεται να ξεκλειδώσεις μία τουλάχιστον ακόμα συνταγή."  />
+			<text id="coop_errorcode_7" name="Μπορείς να μπεις σε αυτή τη Συνεργασία μόνο στο επίπεδο {0}"  />
+			<text id="coop_errorcode_85" name="Η Συνεργασία αυτή είναι ήδη πλήρης."  />
+			<text id="courier_error" name="Προβλήματα παράδοσης"  />
+			<text id="courier_errorcode_40" name="Η αποθήκη σου δεν είναι αρκετά μεγάλη!"  />
+			<text id="courier_errorcode_42" name="Το συστατικό είναι τώρα διαθέσιμο στο κανονικό κατάστημα. Ρίξε μια γρήγορη ματιά!"  />
+			<text id="courier_errorcode_43" name="Η εταιρεία ταχυμεταφορών είναι υπερφορτωμένη με δουλειά και δε μπορεί να παραδόσει τα αντικείμενά σου."  />
+			<text id="createavatar_error" name="Πρόσεχε!"  />
+			<text id="createavatar_errorcode_12" name="Αυτό το όνομα ήδη χρησιμοποιείται."  />
+			<text id="createavatar_errorcode_15" name="Ο χρήστης έχει ήδη μια εικόνα."  />
+			<text id="createavatar_errorcode_18" name="Το όνομα είναι λάθος."  />
+			<text id="createavatar_error_invalide" name="Το όνομα χρήστη δε πρέπει να είναι κενό ή να περιέχει ειδικούς χαρακτήρες"  />
+			<text id="createavatar_error_nogender" name="Παρακαλώ διάλεξε το χαρακτήρα σου!"  />
+			<text id="editbuy_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editbuy_errorcode_3" name="Δεν έχεις φτάσει ακόμα στο επίπεδο που χρειάζεται για να ξεκλειδώσεις αυτό το αντικείμενο."  />
+			<text id="editbuy_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editbuy_errorcode_39" name="Η θέση αυτή δεν είναι έγκυρη. Παρακαλώ σύρε το αντικείμενο σε μία διαθέσιμη θέση στο Καφέ σου."  />
+			<text id="editextend_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editextend_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editextend_errorcode_53" name="Έχεις ήδη αγοράσει αυτή την επέκταση"  />
+			<text id="editextend_errorcode_54" name="Δε μπορείς ακόμη ν&#039; αγοράσεις αυτή την επέκταση."  />
+			<text id="editmode_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editmoveobj_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editmoveobj_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editmoveobj_errorcode_39" name="Η θέση αυτή δεν είναι έγκυρη. Παρακαλώ σύρε το αντικείμενο σε μία διαθέσιμη θέση στο Καφέ σου."  />
+			<text id="editrotateobj_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editrotateobj_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editrotateobj_errorcode_39" name="Η θέση αυτή δεν είναι έγκυρη. Παρακαλώ σύρε το αντικείμενο σε μία διαθέσιμη θέση στο Καφέ σου."  />
+			<text id="editsell_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editsell_errorcode_32" name="Το αντικείμενο δεν υπάρχει σε απόθεμα."  />
+			<text id="editsell_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editsell_errorcode_39" name="Η θέση αυτή δεν είναι έγκυρη. Παρακαλώ σύρε το αντικείμενο σε μία διαθέσιμη θέση στο Καφέ σου."  />
+			<text id="editstoreobj_errorcode_1" name="Πρόσεχε!"  />
+			<text id="editstoreobj_errorcode_37" name="Υπάρχει ένα πιάτο πάνω από αυτό το αντικείμενο!"  />
+			<text id="editstoreobj_errorcode_38" name="Μπορείς ν&#039;αλλάξεις το καφέ σου με το μενού προσαρμογή μόνο."  />
+			<text id="editstoreobj_errorcode_39" name="Η θέση αυτή δεν είναι έγκυρη. Παρακαλώ σύρε το αντικείμενο σε μία διαθέσιμη θέση στο Καφέ σου."  />
+			<text id="editstoreobj_errorcode_51" name="Αυτό το πεδίο είναι άδειο, δεν υπάρχει κάτι να πουλήσεις."  />
+			<text id="editstoreobj_removefailmin_counter" name="Χρειάζεται να έχεις τουλάχιστον έναν πάγκο."  />
+			<text id="editstoreobj_removefailmin_fridge" name="Χρειάζεται να έχεις τουλάχιστον ένα ψυγείο."  />
+			<text id="editstoreobj_removefailmin_stove" name="Χρειάζεται να έχεις τουλάχιστον ένα φούρνο."  />
+			<text id="editstoreobj_removefailmin_title" name="Πρόσεχε!"  />
+			<text id="editstoreobj_removefail_counter" name="Ο πάγκος πρέπει ν&#039;αδειάσει."  />
+			<text id="editstoreobj_removefail_door" name="Χρειάζεται να έχεις τουλάχιστον μία πόρτα."  />
+			<text id="editstoreobj_removefail_fridge" name="Έχεις πάρα πολλά συστατικά."  />
+			<text id="editstoreobj_removefail_stove" name="Ο φούρνος πρέπει να είναι άδειος."  />
+			<text id="editstoreobj_removefail_title" name="Πρόσεχε!"  />
+			<text id="edit_error" name="Πρόσεχε!"  />
+			<text id="error" name="Σφάλμα"  />
+			<text id="fullscreenerror_msg_copy" name="Η λειτουργία πλήρους οθόνης δεν είναι δυνατή"  />
+			<text id="fullscreenerror_msg_title" name="Πλήρης οθόνη:"  />
+			<text id="gift_error" name="Δεν είναι δυνατό!"  />
+			<text id="gift_errorcode_20" name="Δεν έχεις διαθέσιμο πάγκο για να σερβίρεις αυτό το πιάτο."  />
+			<text id="gift_errorcode_40" name="Δεν υπάρχει χώρος για να αποθηκεύσεις αυτό το συστατικό στο ψυγείο σου."  />
+			<text id="gift_errorcode_5" name="Αυτή η ενέργεια δε μπορεί να γίνει. Το δώρο δεν είναι γνωστό."  />
+			<text id="invitefriend_error" name="Απέτυχε η πρόσκληση ενός φίλου"  />
+			<text id="invitefriend_errorcode_13" name="Ο παίκτης έχει ήδη εγγραφεί!"  />
+			<text id="invitefriend_errorcode_14" name="Η διέθυνση e-mail δεν είναι έγκυρη!"  />
+			<text id="jobrefill_error" name="Με τίποτα!"  />
+			<text id="jobrefill_errorcode_1" name="Τα δικαιώματα εργασίας έχουν ξεπουληθεί αυτή τη στιγμή."  />
+			<text id="jobrefill_errorcode_61" name="Μπορείς να γεμίσεις τις άδειες εργασίας σου μόνο μία φορά την ημέρα."  />
+			<text id="joincafe_error" name="Δεν είναι δυνατό!"  />
+			<text id="joincafe_errorcode_20" name="Ιδιωτικό πάρτυ!Δεν υπάρχει ελεύθερος χώρος για περισσότερο."  />
+			<text id="joincafe_errorcode_21" name="Ήδη επισκέφτεσαι αυτό το καφέ"  />
+			<text id="joincafe_errorcode_22" name="Αυτό το καφέ δεν υπάρχει!"  />
+			<text id="level_error" name="Το Καφέ έχει πρόβλημα. Παρακαλώ επικοινώνησε με την ομάδα υποστήριξης των Goodgame Studios."  />
+			<text id="level_errorcode_1" name="Το καφέ σου δε μπορεί ν&#039;ανοίξει. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Goodgame Studios."  />
+			<text id="login_error" name="Πρόσεχε!"  />
+			<text id="login_errorcode_1" name="Σφάλμα"  />
+			<text id="login_errorcode_12" name="Ο χρήστης ήδη έχει εγγραφεί."  />
+			<text id="login_errorcode_13" name="Ο χρήστης ήδη έχει εγγραφεί."  />
+			<text id="login_errorcode_14" name="Το όνομα χρήστη ή ο κωδικός είναι λάθος!"  />
+			<text id="login_errorcode_15" name="Έχεις συνδεθεί."  />
+			<text id="login_errorcode_16" name="Η εικόνα σου έχει σφάλμα. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Goodgame Studios."  />
+			<text id="login_errorcode_wronglogin" name="Το όνομα χρήστη ή ο κωδικός είναι λάθος!"  />
+			<text id="lostpassword_error" name="Πρόσεχε!"  />
+			<text id="lostpassword_errorcode_1" name="Σφάλμα"  />
+			<text id="lostpassword_errorcode_11" name="Κανείς χρήστης δεν έχει εγγραφεί σε αυτή τη διεύθυνση."  />
+			<text id="marketplace_error" name="Αγορά"  />
+			<text id="marketplace_errorcode_20" name="Η αγορά είναι γεμάτη. Έλα πάλι αργότερα."  />
+			<text id="marketplace_errorcode_21" name="Βρίσκεσαι ήδη στην αγορά"  />
+			<text id="npcfire_errorcode_1" name="Δεν ήταν δυνατό ν&#039;απολύσεις το σερβιτόρο σου."  />
+			<text id="npchire_errorcode_1" name="Δεν ήταν εφικτό να προσλάβεις το νέο σερβιτόρο."  />
+			<text id="npcrename_errorcode_12" name="Τ&#039;όνομα δεν είναι έγκυρο!"  />
+			<text id="npc_error" name="Πρόσεχε!"  />
+			<text id="register_error" name="Η εγγραφή απέτυχε"  />
+			<text id="register_errorcode_1" name="Σφάλμα"  />
+			<text id="register_errorcode_10" name="Ο κωδικός που έγραψες δεν είναι σωστός."  />
+			<text id="register_errorcode_13" name="Κάποιος άλλος παίκτης έχει εγγραφεί με αυτή τη διέθυνση e-mail, λυπούμαστε."  />
+			<text id="register_errorcode_14" name="Η διεύθυνση e-mail που έχεις εισάγει δεν είναι σωστή."  />
+			<text id="server_msg_10" name="Θα γίνει επανεκκίνηση του σέρβερ. Θα είναι διαθέσιμος σε λίγο.
+Παρακαλώ αποσυνδέσου."  />
+			<text id="server_msg_title" name="Μήνυμα σέρβερ:"  />
+			<text id="shopbuy_error" name="Καθόλου χώρος!"  />
+			<text id="shopbuy_errorcode_40" name="Το ψυγείο σου είναι ήδη γεμάτο!"  />
+			<text id="shopdelete_errorcode_41" name="Το αντικείμενο δεν είναι διαθέσιμο"  />
+			<text id="smoothiemaker_error_alreadyserved" name="Αυτός ο καλεσμένος ήδη σερβίρεται!"  />
+			<text id="useraction_error" name="Πρόσεχε!"  />
+			<text id="useraction_errorcode_2" name="Ας το ονομάσουμε μία ημέρα!Αρκετή δουλειά για σήμερα!"  />
+			<text id="useraction_errorcode_62" name="Πρέπει να πάρεις ένα πιάτο από τον πάγκο πρώτα."  />
+			<text id="useraction_errorcode_63" name="Πριν πας για να καθαρίσεις, σέρβιρε πρώτα το γεύμα ή φέρτο πίσω στον πάγκο."  />
+			<text id="versioncheck_error" name="Παλιά έκδοση!"  />
+			<text id="versioncheck_errorcode_1" name="Ανανέωσε τη σελίδα."  />
+			<text id="waiter_name_invalide" name="Δε μπορείς να χρησιμοποιήσεις αυτό το όνομα για το σερβιτόρο σου."  />
+		</error_codes>
+		<feature>
+			<text id="featureDialog_0_text_0" name="Νέες διακοσμήσεις για να διαμορφώσεις το καφέ σου ακόμα περισσότερο!"  />
+			<text id="featureDialog_0_text_0_sozial" name="Απόκτησε ειδικές ανταμοιβές για τη σκληρή δουλειά σου!"  />
+			<text id="featureDialog_0_text_1" name="Αποκτησε έξτρα ΧΡ, Δολλάρια Καφέ ή Χρυσό για τη σκληρή δουλειά σου!"  />
+			<text id="featureDialog_0_text_1_sozial" name="Νέες διακοσμήσεις μέσα στο κατάστημά σου!"  />
+			<text id="featureDialog_0_text_2" name="Μάθε ποιός άλλος παίζει Καφέ!"  />
+			<text id="featureDialog_0_text_2_sozial" name="Μάθε ποιός άλλος παίζει Καφέ!"  />
+			<text id="featureDialog_10_text_0" name="Χρειάζεσαι περισσότερο χώρο για τους πελάτες ή τις διακοσμήσεις σου? Απέκτησε χώρο με τις νέες επεκτάσεις!"  />
+			<text id="featureDialog_11_text_0" name="Νέες και συναρπαστικές Συνεργασίες για σένα και τους φίλους σου!"  />
+			<text id="featureDialog_16_text_0" name="Τι απόλαυση! Απόλαυσε το καφέ σου τώρα με ήχο!"  />
+			<text id="featureDialog_16_text_1" name="Γίνε ένας κατασκευαστής πίτας με το νέο θέμα αρτοποιείου πίτας!"  />
+			<text id="featureDialog_17_text_0" name="Καλάααα Χριστούγεννα! Φτιάξε το δικό σου κατάστημα του Αι-Βασίλη και απόλαυσε τα νέα και πολύ Χριστουγεννιάτικης διακόσμησης αντικείμενα!"  />
+			<text id="featureDialog_18_text_0" name="Το Χριστουγεννιάτικο Πνεύμα έφτασε και σου φέρνει νέα Χριστουγεννιάτικα πιάτα και νέους Συνεταιρισμούς!"  />
+			<text id="featureDialog_19_text_0" name="Εκτόξευσε τη βαθμολογία σου και κάνε το καφέ σου το καλύτερο στην πόλη χρησιμοποιώντας την αξία της πολυτέλειας των επίπλων σου και των διακοσμήσεων!"  />
+			<text id="featureDialog_1_text_0" name="Απόκτησε ειδικές ανταμοιβές για τη σκληρή δουλειά σου!"  />
+			<text id="featureDialog_1_text_1" name="Νέες διακοσμήσεις μέσα στο κατάστημά σου!"  />
+			<text id="featureDialog_1_text_2" name="Μάθε ποιός άλλος παίζει Καφέ!"  />
+			<text id="featureDialog_20_text_0" name="Κάνε τα γεύματά σου να είναι τα καλύτερα με τις νέες Μαεστρείες!"  />
+			<text id="featureDialog_20_text_1" name="Τελευταία ευκαιρία για Χριστουγεννιάτικα γεύματα και Χειμερινές διακοσμήσεις!
+Μόνο μία εβδομάδα έμεινε!"  />
+			<text id="featureDialog_21_text_0" name="Κατέπληξε τους πελάτες σου με νέα και γευστικά πιάτα!"  />
+			<text id="featureDialog_22_text_0" name="Νέα επιτεύγματα περιμένουν για να σε βοηθήσουν να γίνεις ακόμα πιο επιτυχημένος!"  />
+			<text id="featureDialog_23_text_0" name="Μαγειρεύοντας μαζί είναι πιο διασκεδαστικό!Οι νέες Συνεργασίες σε περιμένουν!"  />
+			<text id="featureDialog_24_text_0" name="Το Πασχαλινό Λαγουδάκι άφησε κάτι στο καφέ σου!
+Ανακάλυψε τις νέες Πασχαλινές διακοσμήσεις!"  />
+			<text id="featureDialog_24_text_1" name="Ποτέ άλλοτε τα πουλερικά δεν ήταν τόσο επικερδή!
+Ανακάλυψε την Πάπια με πορτοκάλι!"  />
+			<text id="featureDialog_25_text_0" name="Πόσο τυχερός είσαι?
+Δοκίμασε την τύχη σου στο νέο αρτοποιείο Κέϊκ!"  />
+			<text id="featureDialog_26_text_0" name="Πόσο τυχερός είσαι?Γύρνα τον Τροχό της Τύχης στην Αγορά!"  />
+			<text id="featureDialog_27_text_0" name="Εκτόξευσε τη δημοτικότητά σου με τη νέα Μηχανή για Γλυκό Μαλλί! Διαθέσιμη στον Τροχό της Τύχης!"  />
+			<text id="featureDialog_28_text_0" name="ΣΗΜΕΡΑ ΜΟΝΟ! Είναι η τελευταία σου ευκαιρία να γυρίσεις τον τροχό και να κερδίσεις τη Μηχανή του Γλυκού Μαλλιού!"  />
+			<text id="featureDialog_29_text_0" name="Από εδώ και στο εξής μπορείς ν&#039;αλλάξεις τα ρούχα του χαρακτήρα σου οποιαδήποτε στιγμή!"  />
+			<text id="featureDialog_2_text_0" name="Συνάντησε και μίλησε με άλλους παίκτες!"  />
+			<text id="featureDialog_2_text_1" name="Νέα αντικείμενα με θέμα δείπνου!"  />
+			<text id="featureDialog_2_text_2" name="Επέκτεινε το καφέ σου ακόμη περισσότερο!"  />
+			<text id="featureDialog_30_text_0" name="Περισσότερος χώρος στο ψυγείο σου!
+Τα φανταστικά συστατικά σου δε θα πιάνουν καθόλου χώρου πλέον στο ψυγείο σου. Μπορείς ν&#039;αποθηκεύσεις όσα θέλεις."  />
+			<text id="featureDialog_30_text_1" name="Ξεκινώντας αμέσως μπορείς ν&#039;αγοράσεις επεκτάσεις χρησιμοποιώντας Δολλάρια Καφέ!"  />
+			<text id="featureDialog_31_text_0" name="Περισσότερος χώρος στο ψυγείο σου!
+Από τώρα και στο εξής, τα φανταστικά συστατικά δε θα υπολογίζονται πλέον στη χωρητικότητα του ψυγείου σου. Μπορείς να αποθηκεύσεις όσα από αυτά θέλεις."  />
+			<text id="featureDialog_31_text_1" name="Από τώρα και στο εξής, θα λαμβάνεις επεκτάσεις δωρεάν εφ&#039;όσον έχεις αρκετούς φίλους."  />
+			<text id="featureDialog_32_text_0" name="Είναι οι καλεσμένοι σου διψασμένοι?
+Τότε πάρε γρήγοτα τη δική σου Μηχανή ροφημάτων και δρόσισέ τους!"  />
+			<text id="featureDialog_33_text_0" name="Ανακάλυψε την ομελέτα!
+Το νέο και γρήγορο πιάτο στο βιβλίο μαγειρικής σου!"  />
+			<text id="featureDialog_3_text_0" name="Κέρδισε εξτρά Δολλάρια Καφέ και ΧΡ σαν σερβιτόρος σε άλλα καφέ!"  />
+			<text id="featureDialog_3_text_1" name="Νέες γευστικές συνταγές που θα εντυπωσιάσουν τους πελάτες σου!"  />
+			<text id="featureDialog_4_text_0" name="Συνάντησε και πρόσθεσε νέους φίλους στην αγορά!"  />
+			<text id="featureDialog_4_text_1" name="Νέες διακοσμήσεις δείπνου για να διαμορφώσεις το καφέ σου περισσότερο από ποτέ!"  />
+			<text id="featureDialog_5_text_0" name="Αύξησε το εισόδημα και τους ΧΡ των γευμάτων σου χρησιμοποιώντας τα νέα φανταστικά συστατικά!"  />
+			<text id="featureDialog_6_text_0" name="Λάβε και στείλε δώρα στους φίλους σου μέσα στο νέο κουτί δώρων!"  />
+			<text id="featureDialog_6_text_1" name="Αύξησε το εισόδημα και τους ΧΡ των γευμάτων σου χρησιμοποιώντας τα νέα φανταστικά συστατικά!"  />
+			<text id="featureDialog_7_text_0" name="Φέρε τους καουμπόϋ και καουγκερλς και ανέδειξε τα νέα αντικείμενα του σαλούν!"  />
+			<text id="featureDialog_8_text_0" name="Νέα γεύματα που κόβουν την ανάσα και θα καταπλήξουν τους πελάτες σου!"  />
+			<text id="featureDialog_9_text_0" name="Μάθε πως τα πήγες στις νεότερες βαθμολογίες!"  />
+			<text id="featureDialog_9_text_1" name="Δεν υπάρχει κανένα Ι στην ομάδα!Προκάλεσε τον εαυτό σου και τους φίλους σου με τους ΝΕΟΥΣ Συνεταιρισμούς!"  />
+			<text id="featureDialog_9_text_2" name="Ετοιμάσου να τρομάξεις του πελάτες σου με τις νέες Αποκριάτικες διακοσμήσεις!"  />
+			<text id="featureDialog_title" name="Νέα χαρακτηριστικά"  />
+			<text id="limitedfeatureDialog_12_copy_0" name="Αγόρασε τις αποκριάτικες διακοσμήσεις σου τώρα!Για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_12_copy_1" name="4 ΜΕΡΕΣ ΕΜΕΙΝΑΝ!"  />
+			<text id="limitedfeatureDialog_13_copy_0" name="Αγόρασε τις αποκριάτικες διακοσμήσεις σου τώρα!
+Για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_13_copy_1" name="3 ΜΕΡΕΣ ΕΜΕΙΝΑΝ!"  />
+			<text id="limitedfeatureDialog_14_copy_0" name="Αγόρασε τις αποκριάτικες διακοσμήσεις σου τώρα!
+Για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_14_copy_1" name="2 ΜΕΡΕΣ ΕΜΕΙΝΑΝ!"  />
+			<text id="limitedfeatureDialog_15_copy_0" name="Αγόρασε τις αποκριάτικες διακοσμήσεις σου τώρα!
+Για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_15_copy_1" name="ΣΗΜΕΡΑ ΜΟΝΟ!"  />
+			<text id="limitedfeatureDialog_2_copy_0" name="Αγόρασε τις αποκριάτικες διακοσμήσεις σου τώρα!
+Για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_3_copy_0" name="Ο Χειμώνας τελειώνει! Σύντομα οι χειμερινές διακοσμήσεις δε θα είναι διαθέσιμες πλέον!"  />
+			<text id="limitedfeatureDialog_5_copy_0" name="Αγόρασε τις Πασχαλινές σου διακοσμήσεις!
+Διαθέσιμες για περιορισμένο χρόνο μόνο!"  />
+			<text id="limitedfeatureDialog_time" name="{0} ΜΕΡΕΣ ΕΜΕΙΝΑΝ!"  />
+			<text id="limitedfeatureDialog_time_single" name="ΣΗΜΕΡΑ ΜΟΝΟ!"  />
+			<text id="limitedfeatureDialog_title" name="ΠΡΟΣΕΧΕ!"  />
+		</feature>
+		<feeds>
+			<text id="descriptionfeedcafe" name="Μόλις έκανα εγκατάσταση το Καφέ Goodgame. Θα ήθελες και εσύ να ανοίξεις το δικό σου καφέ και να ετοιμάσεις νόστιμα γεύματα? Τότε έλα και ρίξε μια ματιά!"  />
+			<text id="descriptionlongcafe" name="Το Καφέ Goodgame είναι ο καινούριος τίτλος από τη Goodgame Studios. Άνοιξε το δικό σου καφέ και εντυπωσίασε τους πελάτες σου με τις μαγειρικές σου ικανότητες. Μίσθωσε τους φίλους σου και ψώνισε για συστατικά τώρα! Αποφάσισε τι θα περιλαμβάνει το μενού της ημέρας και ανέπτυξε την επιχείρησή σου. Το καφέ σου θα είναι το πιο δημοφιλές σημείο συνάντησης της πόλης!"  />
+		</feeds>
+		<ingame_tooltips>
+			<text id="fridgetooltip_line1" name="Ψυγείο"  />
+			<text id="fridgetooltip_line2" name="Πάτησε για να ανοίξεις"  />
+			<text id="muffinmantooltip_line1" name="Αρτοποϊός μάφιν"  />
+			<text id="muffinmantooltip_line2" name="Πάτησε για να παίξεις!"  />
+			<text id="player_action" name="Ενέργειες:"  />
+			<text id="player_working" name="Χρόνος εργασίας"  />
+			<text id="preparestep_cleaning" name="καθαρίσεις το φούρνο"  />
+			<text id="preparestep_serving" name="Σερβίρισε το πιάτο"  />
+			<text id="smoothiemaker_line1" name="Μηχανή ροφημάτων"  />
+			<text id="smoothiemaker_line2" name="Πάτησε για να αναμείξεις!"  />
+			<text id="stovetooltip_clean1" name="Βρώμικος φούρνος"  />
+			<text id="stovetooltip_clean2" name="Πάτησε για να καθαρίσεις"  />
+			<text id="stovetooltip_empty1" name="Άδειος πάγκος"  />
+			<text id="stovetooltip_empty2" name="μαγειρέψεις κάτι"  />
+			<text id="stovetooltip_free" name="Πάτησε για να μαγειρέψεις"  />
+			<text id="stovetooltip_full1" name="Έτοιμο για σερβίρισμα:"  />
+			<text id="stovetooltip_full2" name="Σερβιρίσματα"  />
+			<text id="stovetooltip_prepare1" name="Πάτησε για να"  />
+			<text id="stovetooltip_ready1" name="μέχρι το πιάτο να χαλάσει"  />
+			<text id="stovetooltip_ready2" name="Πάτησε για να σερβίρεις"  />
+			<text id="stovetooltip_spoiled1" name="Χαλασμένο"  />
+			<text id="stovetooltip_spoiled2" name="Πάτησε για να καθαρίσεις"  />
+			<text id="wheeloffortunetooltip_line1" name="Τροχός της Τύχης!"  />
+			<text id="wheeloffortunetooltip_line2" name="Πάτησε για να παίξεις!"  />
+			<text id="wheeloffortunetooltip_line3" name="Το πρώτο γύρισμα είναι δωρεάν"  />
+		</ingame_tooltips>
+		<ingredients>
+			<text id="ingredient_apple" name="Μήλα"  />
+			<text id="ingredient_bacon" name="Μπέϊκον"  />
+			<text id="ingredient_bakingmix" name="Μείγμα ζύμης"  />
+			<text id="ingredient_ballpepper" name="Πιπεριές"  />
+			<text id="ingredient_banana" name="Μπανάνες"  />
+			<text id="ingredient_basil" name="Βασιλικό"  />
+			<text id="ingredient_beans" name="Φασόλια"  />
+			<text id="ingredient_beetroot" name="Παντζάρι"  />
+			<text id="ingredient_butter" name="Βούτυρο"  />
+			<text id="ingredient_carrots" name="Καρότα"  />
+			<text id="ingredient_cheese" name="Τυρί"  />
+			<text id="ingredient_cherries" name="Κεράσια"  />
+			<text id="ingredient_chicken" name="Κοτόπουλο"  />
+			<text id="ingredient_chili" name="Τσίλι"  />
+			<text id="ingredient_chocolate" name="Σοκολάτα"  />
+			<text id="ingredient_cinnamon" name="Κανέλα"  />
+			<text id="ingredient_cocktailcherry" name="Κοκτέϊλ με κεράσια"  />
+			<text id="ingredient_coconut" name="Καρύδες"  />
+			<text id="ingredient_cookies" name="Μπισκότα"  />
+			<text id="ingredient_coriander" name="Κόλιανδρο"  />
+			<text id="ingredient_cream" name="Κρέμα"  />
+			<text id="ingredient_cucumber" name="Αγγούρι"  />
+			<text id="ingredient_curryspice" name="Κάρι"  />
+			<text id="ingredient_duck" name="Πάπια"  />
+			<text id="ingredient_eggplant" name="Μελιτζάνα"  />
+			<text id="ingredient_eggs" name="Αυγά"  />
+			<text id="ingredient_fish" name="Ψάρι"  />
+			<text id="ingredient_flour" name="Αλεύρι"  />
+			<text id="ingredient_garlic" name="Σκόρδο"  />
+			<text id="ingredient_horseradish" name="Ρεπάνι"  />
+			<text id="ingredient_kidney" name="Νεφρά"  />
+			<text id="ingredient_lettuce" name="Μαρούλι"  />
+			<text id="ingredient_maplesyrup" name="Σιρόπι σφενδάμνου"  />
+			<text id="ingredient_meat" name="Κρέας"  />
+			<text id="ingredient_milk" name="Γάλα"  />
+			<text id="ingredient_mincemeat" name="Κιμάς"  />
+			<text id="ingredient_nutmeg" name="Μοσχοκάρυδο"  />
+			<text id="ingredient_oil" name="Λάδι"  />
+			<text id="ingredient_onion" name="Κρεμμύδια"  />
+			<text id="ingredient_orange" name="Πορτοκάλια"  />
+			<text id="ingredient_parsley" name="Μαϊντανό"  />
+			<text id="ingredient_pasta" name="Ζυμαρικά"  />
+			<text id="ingredient_peas" name="Μπιζέλια"  />
+			<text id="ingredient_pinapple" name="Ανανάς"  />
+			<text id="ingredient_potato" name="Πατάτες"  />
+			<text id="ingredient_quark" name="Κουάρκ"  />
+			<text id="ingredient_rhubarb" name="Ραβέντι"  />
+			<text id="ingredient_rice" name="Ρύζι"  />
+			<text id="ingredient_rosemary" name="Δενδρολίβανο"  />
+			<text id="ingredient_sausages" name="Λουκάνικα"  />
+			<text id="ingredient_spicemix" name="Μείγμα μπαχαρικών"  />
+			<text id="ingredient_strawberry" name="Φράουλες"  />
+			<text id="ingredient_sugar" name="Ζάχαρη"  />
+			<text id="ingredient_sweetcorn" name="Καλαμπόκι"  />
+			<text id="ingredient_tofu" name="Μανιτάρι"  />
+			<text id="ingredient_tomato" name="Ντομάτες"  />
+			<text id="ingredient_turkeymix" name="Μείγμα γαλοπούλας"  />
+			<text id="ingredient_vanilla" name="Βανίλια"  />
+			<text id="ingredient_vegiemix" name="Μείγμα λαχανικών"  />
+			<text id="ingredient_whitechocolat" name="Λευκή σοκολάτα"  />
+		</ingredients>
+		<loggedin_msg id=""  />
+		<panels>
+			<text id="panelwin_buddy_btn_morefriends" name="Περισσότεροι φίλοι!"  />
+			<text id="panelwin_deco_dragtip_copy" name="Για να χρησιμοποιήσεις αυτό το αντικείμενο, σύρε το μέσα στο καφέ σου."  />
+			<text id="panelwin_deco_dragtip_title" name="Παρακαλώ σημείωσε"  />
+			<text id="panelwin_deco_nomore_expansion" name="Δεν υπάρχουν επιπλέον διαθέσιμες επεκτάσεις ακόμα."  />
+			<text id="panelwin_deco_objectcount_counter" name="Πρέπει να φτάσεις στο επίπεδο {0} για να αγοράσεις έναν επιπλέον πάγκο. Ή μπορείς να σύρεις τον παλιό σου εδώ για να αγοράσεις έναν καινούριο."  />
+			<text id="panelwin_deco_objectcount_fridge" name="Πρέπει να φτάσεις στο επίπεδο {0} για να αγοράσεις ένα επιπλέον ψυγείο. Ή μπορείς να σύρεις το παλιό σου εδώ για να αγοράσεις ένα καινούριο."  />
+			<text id="panelwin_deco_objectcount_nomore_counter" name="Αυτή τη στιγμή δε μπορείς ν&#039;αγοράσεις περισσότερους πάγκους!"  />
+			<text id="panelwin_deco_objectcount_nomore_fridge" name="Αυτή τη στιγμή δε μπορείς ν&#039;αγοράσεις περισσότερα ψυγεία!"  />
+			<text id="panelwin_deco_objectcount_nomore_stove" name="Αυτή τη στιγμή δε μπορείς ν&#039;αγοράσεις περισσότερους φούρνους!"  />
+			<text id="panelwin_deco_objectcount_stove" name="Πρέπει να φτάσεις στο επίπεδο {0} για να αγοράσεις έναν επιπλέον φούρνο. Ή μπορείς να σύρεις τον παλιό σου εδώ για να αγοράσεις έναν καινούριο."  />
+			<text id="panelwin_login_email" name="Όνομα χρήστη/ E-mail"  />
+			<text id="panelwin_login_login" name="ΣΥΝΔΕΣΗ"  />
+			<text id="panelwin_login_lostpassword" name="Ξέχασες τον κωδικό σου?"  />
+			<text id="panelwin_login_password" name="Κωδικός"  />
+			<text id="panelwin_login_play" name="ΠΑΙΞΕ ΤΩΡΑ"  />
+			<text id="panelwin_login_register" name="ΕΓΓΡΑΦΗ"  />
+			<text id="panelwin_login_rememberpassword" name="Αποθήκευση κωδικού"  />
+			<text id="panelwin_name_cafe" name="ΚΑΦΕ"  />
+			<text id="panelwin_social_bot" name="Συζήτηση Καφέ"  />
+			<text id="panelwin_social_comein" name="μπήκαν στο καφέ"  />
+			<text id="panelwin_social_comeinmarketplace" name="έχει μπει στην αγορά"  />
+			<text id="panelwin_social_goout" name="έφυγε από το καφέ"  />
+			<text id="panelwin_social_gooutmarketplace" name="έφυγε από την αγορά"  />
+			<text id="panelwin_social_noingamefriends" name="Δεν έχεις ακόμα φίλους!"  />
+			<text id="panelwin_social_noplayerincafe" name="Είσαι τελείως μόνος σου εδώ αυτή τη στιγμή."  />
+			<text id="panelwin_social_say" name=":"  />
+			<text id="panelwin_social_standardanswer" name="Σύντομα θα μπορείς να μιλήσεις με άλλους παίκτες στο καφέ σου!"  />
+			<text id="panelwin_social_welcome_marketplace" name="Καλώς ήρθες! Επέλεξε το μαύρο πίνακα αν ψάχνεις για μια εργασία!"  />
+			<text id="panelwin_social_welcome_mycafe" name="Καλώς ήρθες"  />
+			<text id="panelwin_social_writeable" name="Πρέπει να κάνεις εγγραφή και να φτάσεις το επίπεδο 1 για να χρησιμοποιήσεις τη συζήτηση."  />
+		</panels>
+		<preparestep>
+			<text id="preparestep_bananasplit_banana" name="ξεφλουδίσεις μπανάνα"  />
+			<text id="preparestep_bananasplit_chocolate" name="ψιλοκόψεις τη σοκολάτα"  />
+			<text id="preparestep_bananasplit_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_bananasplit_milk" name="μετρήσεις γάλα"  />
+			<text id="preparestep_bananasplit_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_blackforestcherrycake_chocolate" name="τεμαχίσεις σοκολάτα"  />
+			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="καθαρίσεις κεράσια"  />
+			<text id="preparestep_blackforestcherrycake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_blackforestcherrycake_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_cheeseburger_cheese" name="κόψεις τυρί"  />
+			<text id="preparestep_cheeseburger_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_cheeseburger_mincemeat" name="Εμπλούτισε τον κιμά"  />
+			<text id="preparestep_cheeseburger_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_cheesedish_cheese" name="τεμαχίσεις τυρί"  />
+			<text id="preparestep_cheesefondue_cheese" name="λιώσεις τυρί"  />
+			<text id="preparestep_cheesefondue_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_cheesefondue_garlic" name="Λιώσε σκόρδο"  />
+			<text id="preparestep_cherriecake_cherries" name="μαγειρέψεις κεράσια"  />
+			<text id="preparestep_cherriecake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_cherriecake_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_cherriecake_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_cherrycompote_cherries" name="Βγάλε το κουκούτσι από τα κεράσια"  />
+			<text id="preparestep_cherrycompote_sugar" name="καραμελώσεις ζάχαρη"  />
+			<text id="preparestep_chickenburger_chicken" name="τεμαχίσεις κοτόπουλο"  />
+			<text id="preparestep_chickenburger_cucumber" name="τεμαχίσεις αγγούρι"  />
+			<text id="preparestep_chickenburger_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_chickenburger_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_chickensalad_chicken" name="Ετοίμασε κοτόπουλο"  />
+			<text id="preparestep_chickensalad_lettuce" name="πλύνεις μαρούλι"  />
+			<text id="preparestep_chickensalad_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_chickensalad_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_chickensoup_bacon" name="τεμαχίσεις μπέϊκον"  />
+			<text id="preparestep_chickensoup_chicken" name="τεμαχίσεις κοτόπουλο"  />
+			<text id="preparestep_chickensoup_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_chickensoup_pasta" name="Ζύγισε πάστα"  />
+			<text id="preparestep_chiliconcarne_bacon" name="τεμαχίσεις μπέϊκον"  />
+			<text id="preparestep_chiliconcarne_beans" name="Ξέπλυνε φασόλια"  />
+			<text id="preparestep_chiliconcarne_mincemeat" name="Εμπλούτισε τον κιμά"  />
+			<text id="preparestep_chiliconcarne_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_chiliconcarne_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_chocmousse_chocolate" name="λιώσεις σοκολάτα"  />
+			<text id="preparestep_chocmousse_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_chocmousse_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_chocolatecake_chocolate" name="λιώσεις σοκολάτα"  />
+			<text id="preparestep_chocolatecake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_chocolatecake_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_chocolatecake_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_chocolatecheesecake_chocolate" name="ψιλοκόψεις τη σοκολάτα"  />
+			<text id="preparestep_chocolatecheesecake_cookies" name="Θρυμμάτισε μπισκότα"  />
+			<text id="preparestep_chocolatecheesecake_milk" name="ζεστάνεις γάλα"  />
+			<text id="preparestep_chocolatecheesecake_quark" name="Ανάμιξε κουάρκ"  />
+			<text id="preparestep_chocolatefondue_chocolate" name="Δοκίμασε σοκολάτα"  />
+			<text id="preparestep_chocolatefondue_cream" name="μετρήσεις κρέμα"  />
+			<text id="preparestep_chocolatefondue_strawberry" name="πλύνεις φράουλες"  />
+			<text id="preparestep_christmasturkey_turkeymix" name="Ετοίμασε γέμιση γαλοπούλας"  />
+			<text id="preparestep_christmasturkey_vegiemix" name="Ξεπάγωσε λαχανικά"  />
+			<text id="preparestep_cookieplate_butter" name="λιώσεις βούτυρο"  />
+			<text id="preparestep_cookieplate_chocolate" name="ψιλοκόψεις τη σοκολάτα"  />
+			<text id="preparestep_cookieplate_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_cookieplate_sugar" name="καραμελώσεις ζάχαρη"  />
+			<text id="preparestep_cornonthecob_butter" name="Πρόσθεσε βούτυρο"  />
+			<text id="preparestep_cornonthecob_lettuce" name="πλύνεις μαρούλι"  />
+			<text id="preparestep_cornonthecob_sweetcorn" name="Πλύνε καλαμπόκι"  />
+			<text id="preparestep_curry_ballpepper" name="κόψεις πιπεριές"  />
+			<text id="preparestep_curry_coconut" name="Σπάσε καρύδες"  />
+			<text id="preparestep_curry_curryspice" name="μετρήσεις κάρι"  />
+			<text id="preparestep_curry_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_curry_peas" name="μαγειρέψεις μπιζέλια"  />
+			<text id="preparestep_duckalorange_butter" name="λιώσεις βούτυρο"  />
+			<text id="preparestep_duckalorange_duck" name="Ετοίμασε πάπια"  />
+			<text id="preparestep_duckalorange_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_duckalorange_orange" name="ξεφλουδίσεις πορτοκάλια"  />
+			<text id="preparestep_easterdish_chocolate" name="Δοκίμασε σοκολάτα"  />
+			<text id="preparestep_easterdish_eggs" name="Μέτρα αυγά"  />
+			<text id="preparestep_englishbreakfast_beans" name="μαγειρέψεις φασόλια"  />
+			<text id="preparestep_englishbreakfast_eggs" name="χτυπήσεις αυγά"  />
+			<text id="preparestep_englishbreakfast_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_englishbreakfast_sausages" name="Μέτρα λουκάνικα"  />
+			<text id="preparestep_fishandchips_fish" name="Ετοίμασε ψάρι"  />
+			<text id="preparestep_fishandchips_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_fishandchips_oil" name="ζεστάνεις λάδι"  />
+			<text id="preparestep_fishandchips_peas" name="μαγειρέψεις μπιζέλια"  />
+			<text id="preparestep_fishandchips_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_friedpotatoes_bacon" name="τηγανίσεις μπέϊκον"  />
+			<text id="preparestep_friedpotatoes_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_friedpotatoes_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_fruitpudding_bakingmix" name="Ανακάτεψε μείγμα"  />
+			<text id="preparestep_fruitpudding_spicemix" name="Ζύγισε μυρωδικά"  />
+			<text id="preparestep_fruitsalad_apple" name="ξεφλουδίσεις μήλα"  />
+			<text id="preparestep_fruitsalad_banana" name="ξεφλουδίσεις μπανάνες"  />
+			<text id="preparestep_fruitsalad_cherries" name="Βγάλε το κουκούτσι από τα κεράσια"  />
+			<text id="preparestep_fruitsalad_orange" name="ξεφλουδίσεις πορτοκάλια"  />
+			<text id="preparestep_greensalad_lettuce" name="πλύνεις μαρούλι"  />
+			<text id="preparestep_greensalad_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_greensalad_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_gumbo_curryspice" name="Ψήσε κάρι"  />
+			<text id="preparestep_gumbo_fish" name="κόψεις ψάρι"  />
+			<text id="preparestep_gumbo_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_gumbo_rice" name="μαγειρέψεις ρύζι"  />
+			<text id="preparestep_hamburger_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_hamburger_mincemeat" name="Εμπλούτισε τον κιμά"  />
+			<text id="preparestep_hamburger_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_hotcherrywaffles_cherries" name="Βγάλε το κουκούτσι από τα κεράσια"  />
+			<text id="preparestep_hotcherrywaffles_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_hotcherrywaffles_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_hotcherrywaffles_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_hotcherrywaffles_milk" name="ζεστάνεις γάλα"  />
+			<text id="preparestep_jamspongepudding_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_jamspongepudding_milk" name="ζεστάνεις γάλα"  />
+			<text id="preparestep_jamspongepudding_strawberry" name="Ετοίμασε φράουλες"  />
+			<text id="preparestep_jamspongepudding_sugar" name="καραμελώσεις ζάχαρη"  />
+			<text id="preparestep_lasagne_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_lasagne_mincemeat" name="Εμπλούτισε τον κιμά"  />
+			<text id="preparestep_lasagne_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_lasagne_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_macncheese_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_macncheese_cream" name="μετρήσεις κρέμα"  />
+			<text id="preparestep_macncheese_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_maplepancakes_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_maplepancakes_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_maplepancakes_maple" name="Δοκίμασε σιρόπι σφενδάμου"  />
+			<text id="preparestep_maplepancakes_milk" name="μετρήσεις γάλα"  />
+			<text id="preparestep_marblecake_butter" name="λιώσεις βούτυρο"  />
+			<text id="preparestep_marblecake_chocolate" name="λιώσεις σοκολάτα"  />
+			<text id="preparestep_marblecake_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_marblecake_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_mexicansalad_bacon" name="τηγανίσεις μπέϊκον"  />
+			<text id="preparestep_mexicansalad_beans" name="Μούλιασε τους γίγαντες"  />
+			<text id="preparestep_mexicansalad_onion" name="Σωτάρισε κρεμμύδια"  />
+			<text id="preparestep_mexicansalad_sweetcorn" name="μαγειρέψεις καλαμπόκι"  />
+			<text id="preparestep_minestrone_eggplant" name="κόψεις μελιτζάνα"  />
+			<text id="preparestep_minestrone_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_minestrone_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_mixedsalad_lettuce" name="πλύνεις μαρούλι"  />
+			<text id="preparestep_mixedsalad_peas" name="μαγειρέψεις μπιζέλια"  />
+			<text id="preparestep_mixedsalad_sweetcorn" name="μαγειρέψεις καλαμπόκι"  />
+			<text id="preparestep_mixedsalad_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_nasigoreng_chicken" name="κόψεις κοτόπουλο"  />
+			<text id="preparestep_nasigoreng_eggs" name="βράσεις αυγά"  />
+			<text id="preparestep_nasigoreng_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_nasigoreng_pinapple" name="κόψεις ανανά"  />
+			<text id="preparestep_nasigoreng_rice" name="μαγειρέψεις ρύζι"  />
+			<text id="preparestep_newyorkcheesecake_cookies" name="Θρυμμάτισε μπισκότα"  />
+			<text id="preparestep_newyorkcheesecake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_newyorkcheesecake_quark" name="Ανακάτεψε το τυρί"  />
+			<text id="preparestep_newyorkcheesecake_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_noodlesalad_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_noodlesalad_oil" name="χτυπήσεις λάδι"  />
+			<text id="preparestep_noodlesalad_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_noodlesalad_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_omelette_eggs" name="μετρώντας αυγά"  />
+			<text id="preparestep_onionsoup_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_onionsoup_garlic" name="Λιώσε σκόρδο"  />
+			<text id="preparestep_onionsoup_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_peasoup_bacon" name="τηγανίσεις μπέϊκον"  />
+			<text id="preparestep_peasoup_garlic" name="Λιώσε σκόρδο"  />
+			<text id="preparestep_peasoup_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_peasoup_peas" name="καθαρίσεις φασόλια"  />
+			<text id="preparestep_pizzahawaii_bacon" name="τεμαχίσεις μπέϊκον"  />
+			<text id="preparestep_pizzahawaii_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_pizzahawaii_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_pizzahawaii_pinapple" name="τεμαχίσεις ανανά"  />
+			<text id="preparestep_pizzahawaii_tomato" name="αναμίξεις ντομάτες"  />
+			<text id="preparestep_pizzatonno_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_pizzatonno_fish" name="τεμαχίσεις ψάρι"  />
+			<text id="preparestep_pizzatonno_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_pizzatonno_onion" name="κόψεις κρεμμύδια"  />
+			<text id="preparestep_pizzatonno_tomato" name="αναμίξεις ντομάτες"  />
+			<text id="preparestep_pizza_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_pizza_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_pizza_tomato" name="αναμίξεις ντομάτες"  />
+			<text id="preparestep_porkroastwithcrackling_carrots" name="ξεφλουδίσεις καρότα"  />
+			<text id="preparestep_porkroastwithcrackling_garlic" name="Λιώσε σκόρδο"  />
+			<text id="preparestep_porkroastwithcrackling_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_porkroastwithcrackling_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_potatosalad_cucumber" name="τεμαχίσεις αγγούρι"  />
+			<text id="preparestep_potatosalad_oil" name="χτυπήσεις λάδι"  />
+			<text id="preparestep_potatosalad_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_redberrycompote_cherries" name="καθαρίσεις κεράσια"  />
+			<text id="preparestep_redberrycompote_rhubarb" name="πλύνεις ραβέντι"  />
+			<text id="preparestep_redberrycompote_strawberry" name="πλύνεις φράουλες"  />
+			<text id="preparestep_redberrycompote_sugar" name="καραμελώσεις ζάχαρη"  />
+			<text id="preparestep_ricepudding_apple" name="ξεφλουδίσεις μήλα"  />
+			<text id="preparestep_ricepudding_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_ricepudding_milk" name="μετρήσεις γάλα"  />
+			<text id="preparestep_ricepudding_rice" name="Ζύγισε ρύζι"  />
+			<text id="preparestep_roastchicken_butter" name="λιώσεις βούτυρο"  />
+			<text id="preparestep_roastchicken_chicken" name="Ετοίμασε κοτόπουλο"  />
+			<text id="preparestep_roastchicken_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_sandwich_bacon" name="τεμαχίσεις μπέϊκον"  />
+			<text id="preparestep_sandwich_butter" name="Ζύγισε βούτυρο"  />
+			<text id="preparestep_sandwich_cheese" name="τεμαχίσεις τυρί"  />
+			<text id="preparestep_sandwich_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_sandwich_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_scouse_beetroot" name="κόψεις παντζάρια"  />
+			<text id="preparestep_scouse_cucumber" name="Τουρσί αγγούρι"  />
+			<text id="preparestep_scouse_eggs" name="τηγανίσεις αυγά"  />
+			<text id="preparestep_scouse_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_spagetti_mincemeat" name="Εμπλούτισε τον κιμά"  />
+			<text id="preparestep_spagetti_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_spagetti_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_spareribs_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_spareribs_oil" name="μετρήσεις λάδι"  />
+			<text id="preparestep_spareribs_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_spareribs_tomato" name="αναμίξεις ντομάτες"  />
+			<text id="preparestep_steakkidneypie_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_steakkidneypie_kidney" name="κόψεις νεφρά"  />
+			<text id="preparestep_steakkidneypie_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_steakkidneypie_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_steak_butter" name="Πρόσθεσε βούτυρο"  />
+			<text id="preparestep_steak_lettuce" name="πλύνεις μαρούλι"  />
+			<text id="preparestep_steak_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_steak_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_steak_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_stewedrhubarb_rhubarb" name="κόψεις ραβέντι"  />
+			<text id="preparestep_stewedrhubarb_sugar" name="καραμελώσεις ζάχαρη"  />
+			<text id="preparestep_stew_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_stew_oil" name="ζεστάνεις λάδι"  />
+			<text id="preparestep_stew_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_strawberrycake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_strawberrycake_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_strawberrycake_strawberry" name="Ετοίμασε φράουλες"  />
+			<text id="preparestep_strawberrymousse_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_strawberrymousse_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_strawberrymousse_strawberry" name="πλύνεις φράουλες"  />
+			<text id="preparestep_strawberrymousse_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_stuffedpeppers_ballpepper" name="ξύσεις πιπεριές"  />
+			<text id="preparestep_stuffedpeppers_eggs" name="χτυπήσεις αυγά"  />
+			<text id="preparestep_stuffedpeppers_rice" name="μαγειρέψεις ρύζι"  />
+			<text id="preparestep_sundayfeast_carrots" name="ξεφλουδίσεις καρότα"  />
+			<text id="preparestep_sundayfeast_meat" name="κόψεις κρέας"  />
+			<text id="preparestep_sundayfeast_peas" name="μαγειρέψεις μπιζέλια"  />
+			<text id="preparestep_sundayfeast_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_sushi_cucumber" name="τεμαχίσεις αγγούρι"  />
+			<text id="preparestep_sushi_fish" name="κόψεις ψάρι"  />
+			<text id="preparestep_sushi_rice" name="μαγειρέψεις ρύζι"  />
+			<text id="preparestep_toadinhole_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_toadinhole_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_toadinhole_sausages" name="Μέτρα λουκάνικα"  />
+			<text id="preparestep_toast_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_toast_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_toast_pinapple" name="κόψεις ανανά"  />
+			<text id="preparestep_tofuburger_flour" name="κοσκινίσεις αλεύρι"  />
+			<text id="preparestep_tofuburger_lettuce" name="πλύνεις σαλάτα"  />
+			<text id="preparestep_tofuburger_tofu" name="αναμίξεις μανιτάρια"  />
+			<text id="preparestep_tofuburger_tomato" name="τεμαχίσεις ντομάτες"  />
+			<text id="preparestep_tomatosoup_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_tomatosoup_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_tomatosoup_tomato" name="ξεφλουδίσεις ντομάτες"  />
+			<text id="preparestep_trifle_cookies" name="Ζύγισε μπισκότα"  />
+			<text id="preparestep_trifle_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_trifle_strawberry" name="Ετοίμασε φράουλες"  />
+			<text id="preparestep_trifle_sugar" name="μετρήσεις ζάχαρη"  />
+			<text id="preparestep_veganstirfry_carrots" name="Τεμάχισε καρότα"  />
+			<text id="preparestep_veganstirfry_peas" name="μαγειρέψεις μπιζέλια"  />
+			<text id="preparestep_veganstirfry_rice" name="Ζύγισε ρύζι"  />
+			<text id="preparestep_veganstirfry_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_vegetablesoup_onion" name="ψιλοκόψεις κρεμμύδια"  />
+			<text id="preparestep_vegetablesoup_potato" name="ξεφλουδίσεις πατάτες"  />
+			<text id="preparestep_vegetablesoup_tomato" name="κόψεις ντομάτες"  />
+			<text id="preparestep_veggiecurry_ballpepper" name="κόψεις πιπεριές"  />
+			<text id="preparestep_veggiecurry_coconut" name="Σπάσε καρύδες"  />
+			<text id="preparestep_veggiecurry_curryspice" name="μετρήσεις κάρι"  />
+			<text id="preparestep_veggiecurry_eggplant" name="κόψεις μελιτζάνα"  />
+			<text id="preparestep_veggiecurry_rice" name="Ζύγισε ρύζι"  />
+			<text id="preparestep_veggielasagne_cheese" name="τρίψεις τυρί"  />
+			<text id="preparestep_veggielasagne_eggplant" name="κόψεις μελιτζάνα"  />
+			<text id="preparestep_veggielasagne_pasta" name="βράσεις ζυμαρικά"  />
+			<text id="preparestep_veggielasagne_tomato" name="αναμίξεις ντομάτες"  />
+			<text id="preparestep_whitechoccheesecake_cookies" name="Θρυμμάτισε μπισκότα"  />
+			<text id="preparestep_whitechoccheesecake_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_whitechoccheesecake_milk" name="ζεστάνεις γάλα"  />
+			<text id="preparestep_whitechoccheesecake_quark" name="Ανάμιξε κουάρκ"  />
+			<text id="preparestep_whitechoccheesecake_whitechocolat" name="μετρήσεις σοκολάτα"  />
+			<text id="preparestep_whitechocmousse_cream" name="χτυπήσεις κρέμα"  />
+			<text id="preparestep_whitechocmousse_eggs" name="διαχωρίσεις αυγά"  />
+			<text id="preparestep_whitechocmousse_whitechocolat" name="λιώσεις σοκολάτα"  />
+		</preparestep>
+		<preparestep_fancy>
+			<text id="preparestep_bananasplit_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_blackforestcherrycake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_cheeseburger_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_cheesedish_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_cheesefondue_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_cherriecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_cherrycompote_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_chickenburger_chili" name="ψιλοκόψεις το τσίλι"  />
+			<text id="preparestep_chickensalad_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_chickensoup_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_chiliconcarne_chili" name="ψιλοκόψεις το τσίλι"  />
+			<text id="preparestep_chocmousse_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_chocolatecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_chocolatecheesecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_chocolatefondue_cinnamon" name="Πασπάλισε κανέλα"  />
+			<text id="preparestep_christmasturkey_rosemary" name="ψιλοκόψεις δενδρολίβανο"  />
+			<text id="preparestep_cookieplate_cinnamon" name="Πασπάλισε κανέλα"  />
+			<text id="preparestep_cornonthecob_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_curry_coriander" name="ψιλοκόψεις κόλιανδρο"  />
+			<text id="preparestep_duckalorange_cinnamon" name="Πασπάλισε κανέλα"  />
+			<text id="preparestep_easterdish_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_englishbreakfast_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_fishandchips_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_friedpotatoes_rosemary" name="ψιλοκόψεις δενδρολίβανο"  />
+			<text id="preparestep_fruitpudding_cinnamon" name="Πασπάλισε κανέλα"  />
+			<text id="preparestep_fruitsalad_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_gardensalad_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_greensalad_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_gumbo_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_hamburger_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_hotcherrywaffles_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_jamspongepudding_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_lasagne_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_macncheese_nutmeg" name="τρίψεις μοσχοκάρυδο"  />
+			<text id="preparestep_maplepancakes_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_marblecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_mexicansalad_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_minestrone_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_mixedsalad_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_nasigoreng_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_newyorkcheesecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_noodlesalad_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_omelette_chili" name="κόβοντας τσίλι"  />
+			<text id="preparestep_onionsoup_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_peasoup_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_pizzahawaii_chili" name="ψιλοκόψεις το τσίλι"  />
+			<text id="preparestep_pizzatonno_horseradish" name="τρίψεις ρεπάνι"  />
+			<text id="preparestep_pizza_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_porkroastwithcrackling_rosemary" name="ψιλοκόψεις δενδρολίβανο"  />
+			<text id="preparestep_potatosalad_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_redberrycompote_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_ricepudding_cinnamon" name="Πασπάλισε κανέλα"  />
+			<text id="preparestep_roastchicken_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_sandwich_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_scouse_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_spagetti_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_spareribs_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_steakkidneypie_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_steak_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_stewedrhubarb_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_stew_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_strawberrycake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_strawberrymousse_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_stuffedpeppers_parsley" name="ψιλοκόψεις μαϊντανό"  />
+			<text id="preparestep_sundayfeast_rosemary" name="ψιλοκόψεις δενδρολίβανο"  />
+			<text id="preparestep_sushi_horseradish" name="τρίψεις ρεπάνι"  />
+			<text id="preparestep_toadinhole_rosemary" name="ψιλοκόψεις δενδρολίβανο"  />
+			<text id="preparestep_toast_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_tofuburger_chili" name="ψιλοκόψεις το τσίλι"  />
+			<text id="preparestep_tomatosoup_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_trifle_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_veganstirfry_chili" name="κόψεις τσίλι"  />
+			<text id="preparestep_vegetablesoup_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_veggiecurry_coriander" name="ψιλοκόψεις κόλιανδρο"  />
+			<text id="preparestep_veggielasagne_basil" name="μαδήσεις βασιλικό"  />
+			<text id="preparestep_whitechoccheesecake_vanilla" name="ξύσεις βανίλια"  />
+			<text id="preparestep_whitechocmousse_vanilla" name="ξύσεις βανίλια"  />
+		</preparestep_fancy>
+		<recipe>
+			<text id="recipe_bananasplit" name="Μπανάνα σπλιτ"  />
+			<text id="recipe_beefstew" name="Βράσε"  />
+			<text id="recipe_blackforestcherrycake" name="Τούρτα μαύρο δάσος"  />
+			<text id="recipe_cheeseburger" name="Τσίσμπεργκερ"  />
+			<text id="recipe_cheesedish" name="Πιάτο τυριών"  />
+			<text id="recipe_cheesefondue" name="Φοντύ τυριού"  />
+			<text id="recipe_cherriecake" name="Τούρτα κεράσι"  />
+			<text id="recipe_cherrycompote" name="Κομπόστα κερασιού"  />
+			<text id="recipe_chickenburger" name="Κοτόπουλο μπιφτέκι"  />
+			<text id="recipe_chickensalad" name="Σαλάτα με κοτόπουλο"  />
+			<text id="recipe_chickensoup" name="Μίγμα κοτόπουλου"  />
+			<text id="recipe_chiliconcarne" name="Τσίλι κον Καρνέ"  />
+			<text id="recipe_chocmousse" name="Μους σοκολάτας"  />
+			<text id="recipe_chocolatecake" name="Τούρτα σοκολάτας"  />
+			<text id="recipe_chocolatecheesecake" name="Τσιζκέϊκ σοκολάτας"  />
+			<text id="recipe_chocolatefondue" name="Φοντύ σοκολάτας"  />
+			<text id="recipe_christmasturkey" name="Χριστουγεννιάτικο ψητό"  />
+			<text id="recipe_cookieplate" name="Πλάκα μπισκότου"  />
+			<text id="recipe_cornonthecob" name="Καλαμπόκι με τον κώνο"  />
+			<text id="recipe_curry" name="Κάρι"  />
+			<text id="recipe_duckalorange" name="Πάπια με πορτοκάλια"  />
+			<text id="recipe_easterdish" name="Χαρούμενο Πασχαλινό Καλάθι"  />
+			<text id="recipe_englishbreakfast" name="Αγγλικό πρωϊνό"  />
+			<text id="recipe_fishandchips" name="Ψάρι και τσιπς"  />
+			<text id="recipe_friedpotatoes" name="Τηγανητές πατάτες"  />
+			<text id="recipe_fruitpudding" name="Κέϊκ με φρούτα"  />
+			<text id="recipe_fruitsalad" name="Φρουτοσαλάτα"  />
+			<text id="recipe_greensalad" name="Πράσινη σαλάτα"  />
+			<text id="recipe_gumbo" name="Μπάμια"  />
+			<text id="recipe_hamburger" name="Χάμπουργκερ"  />
+			<text id="recipe_hotcherrywaffles" name="Βάφλες με καυτά κεράσια"  />
+			<text id="recipe_jamspongepudding" name="Πουτίγκα με μαρμελάδα"  />
+			<text id="recipe_lasagne" name="Λαζάνια"  />
+			<text id="recipe_macncheese" name="Mac &amp; Τυρί"  />
+			<text id="recipe_maplepancakes" name="Τηγανίτες με σφεντάμι"  />
+			<text id="recipe_marblecake" name="Κέϊκ με σφεντάμι"  />
+			<text id="recipe_mexicansalad" name="Σαλάτα με μεξικάνικα φασόλια"  />
+			<text id="recipe_minestrone" name="Μινεστρόνε"  />
+			<text id="recipe_mixedsalad" name="Ανάμικτη σαλάτα"  />
+			<text id="recipe_nasigoreng" name="Nasi Goreng"  />
+			<text id="recipe_newyorkcheesecake" name="Τσιζκέϊκ Νέα Υόρκη"  />
+			<text id="recipe_noodlesalad" name="Σαλάτα ζυμαρικών"  />
+			<text id="recipe_omelette" name="Ομελέτα"  />
+			<text id="recipe_onionsoup" name="Ψημένη κρεμμυδόσουπα"  />
+			<text id="recipe_peasoup" name="Σούπια με μπιζέλια"  />
+			<text id="recipe_pizza" name="Πίτσα"  />
+			<text id="recipe_pizzahawaii" name="Πίτσα Χαβάη"  />
+			<text id="recipe_pizzatonno" name="Πίτσα Τόνου"  />
+			<text id="recipe_porkroastwithcrackling" name="Ψητό χοιρινό φλαμπέ"  />
+			<text id="recipe_potatosalad" name="Πατατοσαλάτα"  />
+			<text id="recipe_redberrycompote" name="Κομπόστα με κόκκινα μούρα"  />
+			<text id="recipe_ricepudding" name="Πουτίγκα ρυζιού με σάλτσα μήλου"  />
+			<text id="recipe_roastchicken" name="Ψήσε κοτόπουλο"  />
+			<text id="recipe_sandwich" name="Σάντουιτς"  />
+			<text id="recipe_scouse" name="Στιφάδο"  />
+			<text id="recipe_spagetti" name="Μακαρόνια με κιμά"  />
+			<text id="recipe_spareribs" name="Παϊδάκια"  />
+			<text id="recipe_steak" name="Μπριζόλα"  />
+			<text id="recipe_steakkidneypie" name="Μπριζόλα και πίτα νεφρών"  />
+			<text id="recipe_stewedrhubarb" name="Κομπόστα με ραβέντι"  />
+			<text id="recipe_strawberrycake" name="Τούρτα με φράουλες"  />
+			<text id="recipe_strawberrymousse" name="Μους φράουλας"  />
+			<text id="recipe_stuffedpeppers" name="Γεμιστές πιπεριές"  />
+			<text id="recipe_sundayfeast" name="Κυριακάτικη γιορτή"  />
+			<text id="recipe_sushi" name="Σούσι"  />
+			<text id="recipe_toadinahole" name="Βάτραχος σε μία τρύπα"  />
+			<text id="recipe_toast" name="Τοστ Χαβάη"  />
+			<text id="recipe_tofuburger" name="Μπιφτέκι μανιταριού"  />
+			<text id="recipe_tomatosoup" name="Ντοματόσουπα"  />
+			<text id="recipe_trifle" name="Μηδαμινό"  />
+			<text id="recipe_veganstirfry" name="Ανακάτεψε τα τηγανητά"  />
+			<text id="recipe_vegetablesoup" name="Σούπα λαχανικών"  />
+			<text id="recipe_veggiecurry" name="Κάρυ λαχανικών"  />
+			<text id="recipe_veggielasagne" name="Λαζάνια με λαχανικά"  />
+			<text id="recipe_whitechoccheesecake" name="Τσιζκέϊκ με λευκή σοκολάτα"  />
+			<text id="recipe_whitechocmousse" name="Μους λευκής σοκολάτας"  />
+		</recipe>
+		<recipes_fastfood>
+			<text id="recipe_smoothiemaker_greensmoothie" name="Πράσινο ρόφημα"  />
+			<text id="recipe_smoothiemaker_kiba" name="Χυμός κεράσι μπανάνα"  />
+			<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada"  />
+			<text id="recipe_smoothiemaker_tomatojuice" name="Χυμός ντομάτας"  />
+		</recipes_fastfood>
+		<server>
+			<mail>
+				<text id="mail_invite_friend" name="Γειά σου %s!&lt;br /&gt;&lt;br /&gt;Μόλις ανακάλυψα αυτό το σπουδαίο online παιχνίδι &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει κατευθείαν στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Κάνε εγγραφή με αυτό το σύνδεσμο δωρεάν, για να δημιουργήσεις το δικό σου καφέ στο &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Μάθε πως είναι να έχεις το δικό σου καφέ.Κάνε τη δική σου επιχείρηση, μαγείρεψε σπουδαία γεύματα και δες ευτυχισμένους πελάτες να φεύγουν από το καφέ σου.&lt;br /&gt;&lt;br /&gt;Απόλαυσε το παιχνίδι και τους καλύτερους χαιρετισμούς,  %s"  />
+				<text id="mail_lost_pw" name="Γεια σου %s!&lt;br /&gt;&lt;br /&gt;Λαμβάνεις αυτό το e-mail αυτόματα επειδή ζήτησες ένα νέο κωδικό.&lt;br /&gt;Ο κωδικός είναι:%s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στη support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Ελπίζουμε ότι θα συνεχίσεις να διασκεδάζεις με το παιχνίδι μας!&lt;br /&gt;&lt;br /&gt;Η ομάδα σου στη &lt;br /&gt;Goodgamestudios.com"  />
+				<text id="mail_registration" name="Γειά σου,&lt;br /&gt;&lt;br /&gt;ευχαριστούμε για την εγγραφή σου και καλώς ήρθες στο &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Μπορείς να συνδεθείς οποιαδήποτε στιγμή με τα ακόλουθα στοιχεία: &lt;br /&gt;E-Mail: %s&lt;br /&gt;Κωδικός: %s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στην support@goodgamestudios.com&lt;br /&gt;&lt;br /Ελπίζουμε ότι θα ευχαριστήθείς το Καφέ Goodgame!&lt;br /&gt;&lt;br /&gt;Η ομάδα σας στη&lt;br /&gt;Goodgamestudios.com"  />
+			</mail>
+			<misc>
+				<text id="marketplace" name="Αγορά"  />
+			</misc>
+		</server>
+		<std_buttons>
+			<text id="btn_text_accept" name="Αποδοχή"  />
+			<text id="btn_text_cancle" name="Ακύρωση"  />
+			<text id="btn_text_goback" name="Πίσω"  />
+			<text id="btn_text_no" name="Όχι"  />
+			<text id="btn_text_notaccept" name="Άρνηση"  />
+			<text id="btn_text_okay" name="Εντάξει"  />
+			<text id="btn_text_payment" name="Αγόρασε Χρυσό / Δολλάρια Καφέ"  />
+			<text id="btn_text_share" name="Μοιράσου το με τους φίλους σου!"  />
+			<text id="btn_text_srchips" name="Κέρδισε Δολλάρια Καφέ"  />
+			<text id="btn_text_srgold" name="Κέρδισε χρυσό"  />
+			<text id="btn_text_yes" name="Ναι"  />
+		</std_buttons>
+		<tooltips>
+			<text id="tt_Basic_Achievement_Boughtdeco" name="Αριθμός των διακοσμήσεων που αγοράστηκαν"  />
+			<text id="tt_Basic_Achievement_Boughtingredients" name="Αριθμός των συστατικών που αγοράστηκαν"  />
+			<text id="tt_Basic_Achievement_Cookingcount" name="Αριθμός των γευμάτων που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Coopcount" name="Αριθμός από Συνεργασίες που συμπληρώθηκαν"  />
+			<text id="tt_Basic_Achievement_Coopgoldcount" name="Αριθμός Συνεργασιών που ολοκληρώθηκαν σε χρυσή κατάσταση"  />
+			<text id="tt_Basic_Achievement_Curiercount" name="Αριθμός των μεταφορικών παραδόσεων"  />
+			<text id="tt_Basic_Achievement_Differentdishes" name="Αριθμός των διαφορετικών γευμάτων που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Earnedchips" name="Κερδισμένα Δολλάρια Καφέ"  />
+			<text id="tt_Basic_Achievement_Fancycount" name="Αριθμός των φανταστικών συστατικών που χρησιμοποιήθηκαν"  />
+			<text id="tt_Basic_Achievement_Firenpc" name="Αριθμός των σερβιτόρων που απολύθηκαν"  />
+			<text id="tt_Basic_Achievement_Instantcount" name="Αριθμός των στιγμιαίων γευμάτων"  />
+			<text id="tt_Basic_Achievement_Jobclean" name="Αριθμός από πιάτα που μαζεύτηκαν σε εργασίες σερβιτόρων"  />
+			<text id="tt_Basic_Achievement_Jobserve" name="Αριθμός των πιάτων που σερβιρίστηκαν σε εργασίες σερβιτόρου"  />
+			<text id="tt_Basic_Achievement_Masteies" name="Αριθμός από Μαεστρείες που επιτεύχθηκαν"  />
+			<text id="tt_Basic_Achievement_Masteriesgold" name="Αριμός πραγματοποιημένων Χρυσών-Μαεστρειών"  />
+			<text id="tt_Basic_Achievement_Muffinmancash" name="Κέρδισε Δολλάρια Καφέ στο αρτοποιείο μάφιν."  />
+			<text id="tt_Basic_Achievement_Muffinmangold" name="Χρυσός που κερδίθηκε στο αρτοποιείο μάφιν"  />
+			<text id="tt_Basic_Achievement_Overcookedfoods" name="Αριθμός των σάπιων φαγητών"  />
+			<text id="tt_Basic_Achievement_Servingcountmeals" name="Αριθμός των κυρίων πιάτων που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Servingcountsalads" name="Αριθμός των σαλατών που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Servingcountsnacks" name="Αριθμός των σνακ που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Servingcountsoups" name="Αριθμός των σουπών που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Servingcountsweets" name="Αριθμός των ορεκτικών που ετοιμάστηκαν"  />
+			<text id="tt_Basic_Achievement_Servingcountvegans" name="Αριθμός των γευμάτων χορτοφάγων που μαγειρεύτηκαν"  />
+			<text id="tt_Basic_Achievement_Servingscount" name="Αριθμός των μερίδων που πουλήθηκαν"  />
+			<text id="tt_Basic_Achievement_Solditems" name="Αριθμός των διακοσμήσεων και επίπλων που πουλήθηκαν"  />
+			<text id="tt_Basic_Achievement_Spentchips" name="Δολλάρια Καφέ που ξόδεψες"  />
+			<text id="tt_Basic_Achievement_Spentgold" name="Χρυσός που ξοδεύτηκε"  />
+			<text id="tt_Basic_Achievement_Wheeloffortune" name="Αριθμός των νικών στον τροχό της τύχης"  />
+			<text id="tt_byAmount" name="{0} από {1}"  />
+			<text id="tt_byLevel" name="από Επίπεδο {0}"  />
+			<text id="tt_CafeActionPanel_btn_achievements" name="Επιτεύγματα"  />
+			<text id="tt_CafeActionPanel_btn_cookbook" name="Βιβλίο μαγειρικής"  />
+			<text id="tt_CafeActionPanel_btn_coop" name="Συνεργασίες"  />
+			<text id="tt_CafeActionPanel_btn_decoshop" name="Προσαρμογή"  />
+			<text id="tt_CafeActionPanel_btn_gifts" name="Δώρα"  />
+			<text id="tt_CafeActionPanel_btn_ingredientshop" name="Κατάστημα συστατικών"  />
+			<text id="tt_CafeActionPanel_btn_market" name="Αγορά"  />
+			<text id="tt_CafeActionPanel_btn_owncafe" name="Το καφέ μου"  />
+			<text id="tt_CafeActionPanel_btn_staff" name="Προσωπικό"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Βάσεις"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Αγόρι"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Κορίτσι"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Χρώμα μαλλιών"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Χρώμα δέρματος"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Κορυφές"  />
+			<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Στιγμιαίο μαγείρεμα"  />
+			<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Δε μπορείς να κάνεις άλλο &#039;Στιγμαίο μαγείρεμα&#039; σήμερα."  />
+			<text id="tt_CafeClearStoveDialog_instantButton" name="Στιγμιαίο μαγείρεμα"  />
+			<text id="tt_CafeCookBookDialog_0" name="Γλυκά"  />
+			<text id="tt_CafeCookBookDialog_1" name="Κυρίως γεύματα"  />
+			<text id="tt_CafeCookBookDialog_2" name="Σούπες"  />
+			<text id="tt_CafeCookBookDialog_3" name="Σαλάτες"  />
+			<text id="tt_CafeCookBookDialog_4" name="Επιλογή Χορτοφάγου"  />
+			<text id="tt_CafeCookBookDialog_5" name="Σνακ"  />
+			<text id="tt_CafeCookBookDialog_btn_cook" name="Μαγείρεμα"  />
+			<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Σου λείπουν κάποια συστατικά!"  />
+			<text id="tt_CafeCookBookDialog_btn_mastery" name="ακόμα {0} μέχρι το επίπεδο Μαεστρίας {1} Επέλεξε για λεπτομέρειες"  />
+			<text id="tt_CafeCookBookDialog_btn_shop" name="Κατάστημα συστατικών"  />
+			<text id="tt_CafeDekoShopPanel_btn_close" name="Πίσω στο καφέ σου"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko" name="Προσαρμογή"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Καρέκλες"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Διακοσμήσεις"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Πόρτες"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Τραπέζια"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Βάσεις κέϊκ"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Τοίχοι"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Διακοσμήσεις τοίχου"  />
+			<text id="tt_CafeDekoShopPanel_btn_expansion" name="Επεκτάσεις"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional" name="Λειτουργοί"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Πάγκοι"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Εξτρά"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Ψυγεία"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Φούρνοι"  />
+			<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Χρειάζεσαι ακόμα {0} φίλους δικτύου για ν&#039;αγοράσεις αυτή την επέκταση!"  />
+			<text id="tt_CafeDekoShopPanel_btn_sell" name="Για να πουλήσεις ένα αντικείμενο σύρε το εδώ"  />
+			<text id="tt_CafeDekoShopPanel_cashexpansion" name="Πρέπει να είσαι στο επίπεδο {0} έτσι ώστε ν&#039;αγοράσεις επεκτάσεις με Δολλάρια Καφέ."  />
+			<text id="tt_CafeDekoShopPanel_dragItem" name="Σύρε με μέσα στο καφέ σου"  />
+			<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Χρειάζεσαι την προηγούμενη επέκταση πριν να μπορέσεις να αγοράσεις την επόμενη."  />
+			<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Προσθήκη Δολλάρια Καφέ/Χρυσό"  />
+			<text id="tt_CafeIngredientShopDialog_btn_all" name="Όλα"  />
+			<text id="tt_CafeIngredientShopDialog_btn_buy" name="Αγορά"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Κρέατα &amp; γαλακτοκομικά"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Λαχανικά"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Φρούτα"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="φανταχτερά συστατικά"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Άλλο"  />
+			<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Ψυγείο"  />
+			<text id="tt_CafeIngredientShopDialog_btn_help" name="Τι είναι τα φανταχτερά συστατικά?"  />
+			<text id="tt_CafeIngredientShopDialog_btn_sell" name="Πώληση"  />
+			<text id="tt_CafeIngredientShopDialog_btn_shop" name="Κατάστημα συστατικών"  />
+			<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Μεταφορέας"  />
+			<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Διαθέσιμο μόνο στον
+Τροχό της Τύχης!"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Βοήθεια για τη δουλειά"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Ξαναγέμισε τις άδειες εργασίας"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Ψάξε για μια εργασία"  />
+			<text id="tt_CafeMasteryDialog_broncestar" name="μαγειρέψεις περισσότερες μερίδες!"  />
+			<text id="tt_CafeMasteryDialog_goldstar" name="Μαγείρεψε γρηγορότερα!"  />
+			<text id="tt_CafeMasteryDialog_silverstar" name="Απόκτησε περισσότερα ΧΡ!"  />
+			<text id="tt_CafeNamePanel_mc_luxury" name="Αξία πολυτέλειας του καφέ σου"  />
+			<text id="tt_CafeNamePanel_mc_rating" name="Δημοτικότητα του καφέ σου"  />
+			<text id="tt_CafeOptionPanel_btn_blockfriends" name="Απέκλεισε αίτημα φιλίας"  />
+			<text id="tt_CafeOptionPanel_btn_bugreport" name="Αναφορά bug"  />
+			<text id="tt_CafeOptionPanel_btn_changePass" name="Αλλαγή κωδικού"  />
+			<text id="tt_CafeOptionPanel_btn_custom" name="Άλλαξε τα ρούχα του χαρακτήρα"  />
+			<text id="tt_CafeOptionPanel_btn_faq" name="Συχνές Ερωτήσεις"  />
+			<text id="tt_CafeOptionPanel_btn_fullscreen" name="Πλήρης οθόνη"  />
+			<text id="tt_CafeOptionPanel_btn_help" name="Βοήθεια"  />
+			<text id="tt_CafeOptionPanel_btn_logout" name="Αποσύνδεση"  />
+			<text id="tt_CafeOptionPanel_btn_messages" name="Νέα"  />
+			<text id="tt_CafeOptionPanel_btn_music" name="Μουσική on/off"  />
+			<text id="tt_CafeOptionPanel_btn_news" name="Φόρουμ"  />
+			<text id="tt_CafeOptionPanel_btn_options" name="Επιλογές"  />
+			<text id="tt_CafeOptionPanel_btn_screenshot" name="Φωτογραφία"  />
+			<text id="tt_CafeOptionPanel_btn_sfx" name="Εφέ on/off"  />
+			<text id="tt_CafeOptionPanel_btn_socialgroup" name="Ομάδα"  />
+			<text id="tt_CafeOptionPanel_btn_sound" name="Ήχος"  />
+			<text id="tt_CafeOptionPanel_btn_support" name="Υποστήριξη"  />
+			<text id="tt_CafeOptionPanel_btn_verifyemail" name="Μάζεψε την ανταμοιβή"  />
+			<text id="tt_CafeOptionPanel_btn_wantfriends" name="Επιτρέψτε προσκλήσεις φιλίας"  />
+			<text id="tt_CafeOptionPanel_btn_zoom" name="Δες"  />
+			<text id="tt_CafeOptionPanel_btn_zoomIn" name="μεγέθυνση"  />
+			<text id="tt_CafeOptionPanel_btn_zoomOut" name="σμίκρυνση"  />
+			<text id="tt_CafeRegisterPanel_btn_register" name="Αποθήκευση &amp; εγγραφή"  />
+			<text id="tt_CafeSmoothiemaker_btn_mix" name="Ανάμειξε"  />
+			<text id="tt_CafeSmoothiemaker_serve" name="Σερβίρισε ποτό"  />
+			<text id="tt_CafeSocialPanel_btn_buddies" name="Φίλοι"  />
+			<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Προσέλευση παικτών"  />
+			<text id="tt_CafeSocialPanel_btn_chat" name="Συζήτηση"  />
+			<text id="tt_CafeSocialPanel_btn_findbuddies" name="Κάλεσε φίλους"  />
+			<text id="tt_CafeSocialPanel_btn_muteplayer" name="Σίγαση"  />
+			<text id="tt_CafeStaffDialog_rename" name="Νέο όνομα για το σερβιτόρό σου"  />
+			<text id="tt_CafeUserStatePanel_btn_adddollar" name="Προσθήκη Δολλάρια Καφέ/Χρυσό"  />
+			<text id="tt_CafeUserStatePanel_btn_refill" name="Ξαναγέμισε τις άδειες εργασίας"  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} ΧΡ για το επόμενο επίπεδο"  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="ΧΡ"  />
+			<text id="tt_highscore_luxury" name="Ταξινόμηση με αξία πολυτέλειας"  />
+			<text id="tt_highscore_xp" name="Ταξινόμηση με ΧΡ"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Επιτεύγματα"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Αίτημα φίλου"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_info" name="Πληροφορίες"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_job" name="Προσέλαβε"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Διώξε"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Τέλος φιλίας"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Επισκέψου το καφέ"  />
+			<text id="tt_Social_Achievement_Friendscount" name="Αριθμός των φίλων δικτύου"  />
+		</tooltips>
+		<tutorial>
+			<text id="tut_buymissingingredient_copy" name="Το &#039;0&#039; δίπλα στο μικρό ψυγείο δείχνει ότι δεν υπάρχουν καθόλου κρεμμύδια στο ψυγείο σου.
+Δίπλα από αυτό θα δεις την τιμή.
+Αγόρασε μία μονάδα κρεμμυδιών!"  />
+			<text id="tut_cafeopen_copy" name="Περίφημα! Δε χρειάζεται να περιμένεις πολύ για να φτάσουν οι πρώτοι επισκέπτες σου.
+Τώρα γνωρίζεις τα βασικά για το πως να διευθύνεις το καφέ σου. Γιατί δεν ψάχνεις τα υπόλοιπα μόνος σου.
+Καλή διασκέδαση!"  />
+			<text id="tut_cookmeal_copy" name="Ας ξεκινήσουμε!
+Δείξε τη σαλάτα τι έχεις!"  />
+			<text id="tut_cookopenshop_copy" name="Εδώ βρίσκεις τα απαραίτητα συστατικά, χρόνο μαγειρέματος και παροχές για κάθε συνταγή.
+Ω, όχι!Έχεις ξεμείνει από κρεμμύδια, αλλά μπορείς ν&#039;αγοράσεις μερικά."  />
+			<text id="tut_cookpreparecook_copy" name="Το πιο σημαντικό απ&#039;όλα είναι το φαγητό.Ας κάνουμε μία πράσινη σαλάτα. Κάνε κλικ στο φούρνο!"  />
+			<text id="tut_instantcook2_copy" name="Χρησιμοποίησε το &#039;Στιγμαίο μαγείρεμα&#039;.
+Αυτό στοιχίζει χρυσό και είναι βολικό."  />
+			<text id="tut_instantcook_copy" name="Συνήθως απαιτούνται περίπου τρία λεπτά για να ετοιμάσεις μία πράσινη σαλάτα. Αλλά μπορούμε να επιταχύνουμε τα πράγματα, το οποίο θα κάνουμε τώρα αμέσως."  />
+			<text id="tut_preparesteps_copy" name="Κάνε κλικ στο φούρνο μερικές φορές για να περάσεις από τα διαφορετικά βήματα προετοιμασίας."  />
+			<text id="tut_servedish_copy" name="Μπράβο!
+Τώρα το πιάτο χρειάζεται μόνο να σερβιριστεί.
+Τα 10 σερβιρίσματα δε θα κρατήσουν πολύ, έτσι σιγουρέψου να κάνεις περισσότερο φαγητό για τους πεινασμένους πελάτες σου!"  />
+			<text id="tut_start_copy" name="Γεια σου {0}, καλώς ήρθες στο νέο σου καφέ!
+Αυτή η σύντομη εισαγωγή θα σε βοηθήσει να μπεις στο θαυμάσιο κόσμο της γαστρονομίας."  />
+			<text id="tut_title" name="Εισαγωγή!"  />
+			<text id="tut_welcome_title" name="Καλώς ήρθες!"  />
+		</tutorial>
+		<generic_flash>
+			<alert>
+				<text id="generic_alert_bug" name="Σφάλμα"  />
+				<text id="generic_alert_connection_failed_copy" name="Συντήρηση. Παρακαλώ δοκιμάστε ξανά αργότερα!"  />
+				<text id="generic_alert_connection_failed_title" name="Εργασία σε εξέλιξη!"  />
+				<text id="generic_alert_connection_lost_copy" name="Η σύνδεση στο server απέτυχε. Παρακαλώ προσπαθήστε να επανασυνδεθείτε."  />
+				<text id="generic_alert_connection_lost_description" name="Αυτή τη στιγμή γίνονται εργασίες συντήρησης. Δυστυχώς πρέπει να γίνεται και αυτό που και που για να βάζουμε αναβαθμίσεις και καινούργιες λειτουργίες ή να διορθώσουμε κάποιο λάθος.&lt;br&gt;&lt;br&gt;
+Δουλεύουμε εντατικά για να μπορείτε να παίξετε όσο το δυνατόν γρηγορότερα."  />
+				<text id="generic_alert_connection_lost_promo" name="Δοκίμασε στο μεταξύ ένα από τα άλλα μας παιχνίδια!"  />
+				<text id="generic_alert_connection_lost_thanks" name="Σας ευχαριστούμε για την κατανόησή σας!"  />
+				<text id="generic_alert_connection_lost_title" name="Η σύνδεση διακόπηκε!"  />
+				<text id="generic_alert_error" name="Λάθος"  />
+				<text id="generic_alert_information" name="Προσοχή"  />
+				<text id="generic_alert_loggedout_copy" name="Έχεις αποσυνδεθεί επιτυχώς. Μη ξεχνάς: Κάθε μέρα υπάρχει ένα μπόνους σύνδεσης για σένα!"  />
+				<text id="generic_alert_loggedout_title" name="Τα λέμε αργότερα!"  />
+				<text id="generic_alert_warning" name="Προειδοποίηση"  />
+				<text id="generic_alert_watchout" name="Προσοχή!"  />
+				<text id="generic_alert_win7chromebug" name=""  />
+				<text id="generic_invalid_email_provider" name="Δεν επιτρέπονται διευθύνσεις e-mail από αυτόν τον προμηθευτή!"  />
+				<text id="generic_js_alert_firstsessiontracking_loading" name="Η ταχύτητα της σύνδεσής σας δείχνει να είναι πολύ αργή αυτή τη στιγμή. Παρακαλώ δοκιμάστε αργότερα!"  />
+				<text id="generic_js_alert_firstsessiontracking_registered" name="Πώς σας φαίνεται το παιχνίδι και τι μπορεί ακόμα να βελτιωθεί; Παρακαλώ, γράψτε τη γνώμη σας στο Goodgame Φόρουμ ή στην Ομάδα."  />
+				<text id="generic_js_alert_firstsessiontracking_unregistered" name="Προσοχή: Η πρόοδός σου αποθηκεύεται μόνο αν εγγραφείς!"  />
+				<text id="generic_register_error_invalidemail" name="Η διεύθυνση e-mail που έβαλες δεν είναι σωστή."  />
+				<text id="generic_report_muted_chattry" name="Δε μπορείς να χρησιμοποιήσεις την υπηρεσία του chat γιατί έχεις αποκλειστεί."  />
+			</alert>
+			<button>
+				<text id="generic_btn_accept" name="Αποδοχή"  />
+				<text id="generic_btn_cancel" name="Ακύρωση"  />
+				<text id="generic_btn_close" name="Κλείσιμο"  />
+				<text id="generic_btn_continue" name="Συνέχεια"  />
+				<text id="generic_btn_end" name="Τέλος"  />
+				<text id="generic_btn_endnow" name="Τερματισμός τώρα"  />
+				<text id="generic_btn_goback" name="Πίσω"  />
+				<text id="generic_btn_no" name="Όχι"  />
+				<text id="generic_btn_noshare" name="Μην ασχολείσαι!"  />
+				<text id="generic_btn_notaccept" name="Απόρριψη"  />
+				<text id="generic_btn_okay" name="Εντάξει"  />
+				<text id="generic_btn_reconnect" name="Επανασύνδεση"  />
+				<text id="generic_btn_refresh" name="Ανανέωση"  />
+				<text id="generic_btn_report" name="Αναφορά"  />
+				<text id="generic_btn_search" name="Αναζήτηση"  />
+				<text id="generic_btn_share" name="Μοιραστείτε!"  />
+				<text id="generic_btn_skip" name="Παράλειψη"  />
+				<text id="generic_btn_start" name="Έναρξη"  />
+				<text id="generic_btn_topayment" name="Φέρε!"  />
+				<text id="generic_btn_yes" name="Ναι"  />
+			</button>
+			<chat>
+				<text id="generic_chat_writeable" name="Πρέπει να εγγραφείς και να φτάσεις το επίπεδο1 για να χρησιμοποιήσεις το chat."  />
+			</chat>
+			<common>
+				<text id="generic_admin" name="Διαχείριση"  />
+				<text id="generic_animation" name="Προβολή κινούμενων εικόνων"  />
+				<text id="generic_bugreport" name="Πείτε μας για λάθη"  />
+				<text id="generic_changePass" name="Αλλαγή Κωδικού"  />
+				<text id="generic_comma" name=","  />
+				<text id="generic_conningsoon" name="*Προσεχώς*"  />
+				<text id="generic_date" name="Ημερομηνία"  />
+				<text id="generic_day" name="Ημέρα"  />
+				<text id="generic_dayformat" name="{0}.{1}."  />
+				<text id="generic_days" name="Ημέρες"  />
+				<text id="generic_day_short" name="Μ"  />
+				<text id="generic_decimalseparator" name="."  />
+				<text id="generic_email" name="Ηλεκτρονικό ταχυδρομείο"  />
+				<text id="generic_faq" name="Συχνές ερωτήσεις"  />
+				<text id="generic_forum" name="Φόρουμ"  />
+				<text id="generic_friend" name="Φίλος"  />
+				<text id="generic_friends" name="Φίλοι"  />
+				<text id="generic_general" name="Γενικά"  />
+				<text id="generic_ggs" name="Goodgame Studios"  />
+				<text id="generic_group" name="Ομάδα"  />
+				<text id="generic_guest" name="Επισκέπτης"  />
+				<text id="generic_help" name="Βοήθεια"  />
+				<text id="generic_high" name="Ψηλά"  />
+				<text id="generic_hour" name="Ώρα"  />
+				<text id="generic_hours" name="Ώρες"  />
+				<text id="generic_hour_short" name="Ωρ"  />
+				<text id="generic_limited" name="Περιορισμένος"  />
+				<text id="generic_logout" name="Αποσύνδεση"  />
+				<text id="generic_low" name="Χαμηλό"  />
+				<text id="generic_medium" name="Μεσαίο"  />
+				<text id="generic_minute" name="Λεπτό"  />
+				<text id="generic_minutes" name="Λεπτά"  />
+				<text id="generic_minute_short" name="Λεπ"  />
+				<text id="generic_moderator" name="Συντονιστής"  />
+				<text id="generic_month" name="month"  />
+				<text id="generic_months" name="months"  />
+				<text id="generic_music" name="Μουσική on/off"  />
+				<text id="generic_name" name="Όνομα"  />
+				<text id="generic_news" name="Νέες ιστορίες"  />
+				<text id="generic_options" name="Επιλογές"  />
+				<text id="generic_quality" name="Ποιότητα"  />
+				<text id="generic_register" name="Αποθήκευση και Εγγραφή"  />
+				<text id="generic_second" name="Δευτερόλεπτο"  />
+				<text id="generic_seconds" name="Δευτερόλεπτα"  />
+				<text id="generic_second_short" name="Δευ"  />
+				<text id="generic_sound" name="Ήχος οn/off"  />
+				<text id="generic_support" name="Υποστήριξη"  />
+				<text id="generic_today" name="Σήμερα"  />
+				<text id="generic_tomorrow" name="Σήμερα"  />
+				<text id="generic_tutorial" name="Οδηγός"  />
+				<text id="generic_username" name="Όνομα παίχτη"  />
+				<text id="generic_xp" name="ΠΕ"  />
+				<text id="generic_yesterday" name="Χθες"  />
+			</common>
+			<error>
+				<text id="generic_versioncheck_error" name="Παλιά έκδοση!"  />
+				<text id="generic_versioncheck_errorcode_1" name="Ανανέωση τη σελίδα"  />
+			</error>
+			<feeds id=""  />
+			<friends>
+				<text id="generic_friends_add_copy" name="Θέλεις να προσθέσεις τον {0} σαν φίλο?"  />
+				<text id="generic_friends_add_title" name="Αίτηση φίλου"  />
+				<text id="generic_friends_buddy_btn_morefriends" name="Περισσότεροι φίλοι!"  />
+				<text id="generic_friends_denied_copy" name="{0} αρνήθηκε το αίτημά σας."  />
+				<text id="generic_friends_denied_title" name="Άρνηση αίτησης!"  />
+				<text id="generic_friends_invite_badword_copy" name="Το όνομα που έβαλες δεν επιτρέπεται!"  />
+				<text id="generic_friends_invite_badword_title" name="Προσοχή!"  />
+				<text id="generic_friends_invite_error_copy" name="Για να καλέσεις φίλους πρέπει πρώτα να εγγραφείς."  />
+				<text id="generic_friends_invite_error_title" name="Εγγραφείτε πρώτα"  />
+			</friends>
+			<fullscreen>
+				<text id="generic_fullscreen_error_copy" name="Δεν είναι δυνατή η λειτουργία πλήρους οθόνης"  />
+			</fullscreen>
+			<languages>
+				<text id="generic_language_cs" name="Τσέχικα"  />
+				<text id="generic_language_da" name="Δανική"  />
+				<text id="generic_language_de" name="Γερμανικά"  />
+				<text id="generic_language_el" name="Ελληνικά"  />
+				<text id="generic_language_en" name="Αγγλικά"  />
+				<text id="generic_language_es" name="Ισπανικά"  />
+				<text id="generic_language_fi" name="Φινλανδικά"  />
+				<text id="generic_language_fr" name="Γαλλικά"  />
+				<text id="generic_language_hu" name="Ουγγρικά"  />
+				<text id="generic_language_id" name="Ινδονησιακά"  />
+				<text id="generic_language_it" name="Ιταλικά"  />
+				<text id="generic_language_ja" name="Ιαπωνικά"  />
+				<text id="generic_language_ko" name="Κορεάτικα"  />
+				<text id="generic_language_nl" name="Ολλανδικά"  />
+				<text id="generic_language_no" name="Νορβηγικά"  />
+				<text id="generic_language_pl" name="Πολωνικά"  />
+				<text id="generic_language_pt" name="Πορτογαλικά"  />
+				<text id="generic_language_pt_BR" name="Brazilian"  />
+				<text id="generic_language_ru" name="Ρωσικά"  />
+				<text id="generic_language_sv" name="Σουηδικά"  />
+				<text id="generic_language_tr" name="Τουρκικά"  />
+				<text id="generic_language_zh_CN" name="Κινέζικα (απλοποιημένα)"  />
+				<text id="generic_language_zh_TW" name="Κινέζικα (παραδοσιακά)"  />
+			</languages>
+			<login>
+				<text id="generic_login_banned" name="Ο λογαριασμός σας έχει αποκλειστεί! Παρακαλώ επικοινωνήστε με την υποστήριξη!"  />
+				<text id="generic_login_banned_2" name="Ο λογαριασμός σου κλειδώθηκε!
+
+Θα είναι κλειδωμένος μέχρι: {0}
+
+Αν έχεις ερωτήσεις σχετικά με το κλείδωμα, παρακαλούμε απευθύνσου στην ομάδα υποστήριξης."  />
+				<text id="generic_login_banned_3" name="Ο λογαριασμός σου κλειδώθηκε μόνιμα.
+
+Αν έχεις ερωτήσεις σχετικά με το κλείδωμα, παρακαλούμε απευθύνσου στην ομάδα υποστήριξης."  />
+				<text id="generic_login_banned_permanent" name="μόνιμα"  />
+				<text id="generic_login_facebook" name="Σύνδεση μέσω Facebook"  />
+				<text id="generic_login_login" name="ΣΥΝΔΕΣΗ"  />
+				<text id="generic_login_loginname" name="Όνομα χρήστη/ E-mail"  />
+				<text id="generic_login_lostpassword" name="Ξέχασες τον κωδικό σου?"  />
+				<text id="generic_login_lostpassword_copy" name="Εισάγετε τη διεύθυνση e-mail και θα σας στείλουμε το νέο κωδικό σας."  />
+				<text id="generic_login_lostpassword_title" name="Ξέχασες τον κωδικό σου?"  />
+				<text id="generic_login_newplayer" name="Καινούργιος εδώ;"  />
+				<text id="generic_login_password" name="Κωδικός"  />
+				<text id="generic_login_play" name="ΠΑΙΞΕ ΤΩΡΑ"  />
+				<text id="generic_login_playnow" name="Παίξε τώρα!"  />
+				<text id="generic_login_register" name="Εγγραφή"  />
+				<text id="generic_login_rememberpassword" name="Αποθήκευση κωδικού"  />
+				<text id="generic_login_wronglogin" name="Λάθος όνομα χρήστη ή κωδικός!"  />
+			</login>
+			<logout>
+				<text id="generic_logout_guest_copy" name="Εγγραφείτε για ν&#039;αποθηκεύσετε τη βαθμολογία σας!"  />
+				<text id="generic_logout_guest_title" name="Εγγραφή"  />
+			</logout>
+			<notification>
+				<text id="servershutdownpremonition_backin_copy" name="Το αργότερο σε {0} το παιχνίδι θα είναι και πάλι προσβάσιμο."  />
+				<text id="servershutdownpremonition_copy" name="Ο server του παιχνιδιού κλείνει σε {0}. Παρακαλώ αποσυνδέσου ή κάνε εγγραφή για ν&#039;αποθηκεύσεις τη βαθμολογία σου."  />
+				<text id="servershutdownpremonition_registered_copy" name="Ο σέρβερ του παιχνιδιού θα κλείσει σε {0} λόγω εργασιών συντήρησης."  />
+				<text id="servershutdown_copy" name="Ο server του παιχνιδιού αυτή τη στιγμή κλείνει. Σε μερικά λεπτά, θα μπορείς να συνδεθείς ξανά."  />
+				<text id="welcomeback_copy" name="Καλώς ήρθες πάλι! Εδώ υπάρχει κάτι να σε βοηθήσει να συνεχίσεις την πορεία σου!"  />
+				<text id="welcomeback_title" name="Γύρισες!"  />
+			</notification>
+			<password>
+				<text id="generic_change_password_copy_newpass" name="Νέος κωδικός:"  />
+				<text id="generic_change_password_copy_oldpass" name="Παλιός κωδικός:"  />
+				<text id="generic_change_password_copy_send" name="Ο νέος σας κωδικός στάλθηκε στη διεύθυνση e-mail σας."  />
+				<text id="generic_change_password_error_failed" name="Συγνώμη, αλλά αυτός δεν είναι ο παλιός κωδικός σου."  />
+				<text id="generic_change_password_error_success" name="Ο κωδικός σας άλλαξε με επιτυχία!"  />
+				<text id="generic_change_password_faild_copy" name="Ο νέος κωδικός σας πρέπει να έχει περισσότερα από δύο γράμματα και ο παλιός πρέπει να εισαχθεί σωστά!"  />
+				<text id="generic_change_password_faild_specialcharacters" name="Ο κωδικός σου δεν επιτρέπεται να είναι άδειος ή να περιέχει ειδικούς χαρακτήρες."  />
+				<text id="generic_change_password_faild_title" name="Εισάγετε τον κωδικό"  />
+				<text id="generic_change_password_title" name="Αλλαγή κωδικού"  />
+				<text id="generic_guest_change_password_faild_copy" name="Μπορείς να αλλάξεις τον κωδικό σου μόνο αν έχεις εγγραφεί!"  />
+				<text id="generic_guest_change_password_faild_title" name="Εγγραφείτε πρώτα"  />
+			</password>
+			<payment>
+				<text id="generic_discount_payment_title_general" name="More {0} for the money!"  />
+				<text id="generic_payment_48hdiscount_button" name="Περισσότερος χρυσός τις πρώτες 48 ώρες"  />
+				<text id="generic_payment_48hdiscount_button_general" name="Περισσότερο {0} στις πρώτες 48 ώρες"  />
+				<text id="generic_payment_48hdiscount_copy" name="Αγόρασε χρυσό στις πρώτες 48 ώρες και πάρε επιπλέον {0}% για επιλεγμένα πακέτα!"  />
+				<text id="generic_payment_48hdiscount_copy_1" name="Αγόρασε στις πρώτες 48 ώρες και πάρε σε όλα τα πακέτα επιπλέον {0}%!"  />
+				<text id="generic_payment_48hdiscount_copy_1_general" name="Μόνο 48 ώρες μετά την εγγραφή σου - Αγόρασε {0} πακέτα και πάρε {1}% εξτρά δωρεάν!"  />
+				<text id="generic_payment_48hdiscount_copy_general" name="Μόνο 48 ώρες μετά την εγγραφή σου - Αγόρασε επιλεγμένα πακέτα {0} και λάβε {1}% επιπλέον δωρεάν!"  />
+				<text id="generic_payment_btn" name="Στο Κατάστημα"  />
+				<text id="generic_payment_copy" name="Θα μεταφερθείτε στο κατάστημα πληρωμών."  />
+				<text id="generic_payment_discount_button" name="Τώρα {0}% περισσότερος χρυσός!"  />
+				<text id="generic_payment_discount_copy" name="Αγόρασε τώρα χρυσό και πάρε ένα bonus {0}%!"  />
+				<text id="generic_payment_discount_copy_general" name="Αγόρασε τώρα {0} και πάρε μπόνους {1}%!"  />
+				<text id="generic_payment_discount_general" name="Τώρα {0}% επιπλέον {1} για τα ίδια χρήματα!"  />
+				<text id="generic_payment_discount_generalshort" name="{0}% περισσότερο για τα ίδια χρήματα!"  />
+				<text id="generic_payment_discount_time" name="ΑΚΟΜΑ {0}!"  />
+				<text id="generic_payment_discount_title" name="Επιπλέον χρυσός!"  />
+				<text id="generic_payment_newPrices" name="Από τώρα! Διαρκώς χαμηλωμένες τιμές στο μαγαζί πληρωμών μας! Εξοικονόμησε αληθινά λεφτά!"  />
+				<text id="generic_payment_title" name="Κατάστημα πληρωμής"  />
+			</payment>
+			<progressbar>
+				<text id="loading_text_1" name="Ψάχνω τούνελ στο χωροχρόνο"  />
+				<text id="loading_text_10" name="Μοιράζω αντικείμενα στον κόσμο"  />
+				<text id="loading_text_11" name="Ζωγραφίζω γραφικά"  />
+				<text id="loading_text_12" name="Χρωματίζω τα κουμπιά"  />
+				<text id="loading_text_13" name="Κρύβω εκπλήξεις"  />
+				<text id="loading_text_14" name="Αναζητώ στοιχεία χρήστη"  />
+				<text id="loading_text_15" name="Διώχνω ζουζούνια"  />
+				<text id="loading_text_16" name="Ταΐζω τους προγραμματιστές"  />
+				<text id="loading_text_17" name="Μαστορεύω στον Client"  />
+				<text id="loading_text_18" name="Γυρνάω την κλεψύδρα"  />
+				<text id="loading_text_19" name="Κρυώνω το σύστημα"  />
+				<text id="loading_text_2" name="Λαδώνω τα γρανάζια"  />
+				<text id="loading_text_20" name="Είμαι σχεδόν έτοιμος"  />
+				<text id="loading_text_3" name="Γυρνάω τον τροχό του χάμστερ"  />
+				<text id="loading_text_4" name="Ζεσταίνω το σέρβερ"  />
+				<text id="loading_text_5" name="Ελπίζω όλα να παν καλά"  />
+				<text id="loading_text_6" name="Φέρνω τον εξολοθρευτή ζιζανίων"  />
+				<text id="loading_text_7" name="Υπολογίζω πολύπλοκο αλγόριθμο"  />
+				<text id="loading_text_8" name="Ρυθμίζω τους πυκνωτές ροής"  />
+				<text id="loading_text_9" name="Φτιάχνω αντικείμενα"  />
+				<text id="loading_text_default" name="Εκκίνηση"  />
+				<text id="loading_text_itemXML" name="Στοιχεία παιχνιδιού φορτώνονται"  />
+				<text id="progress_loadfiles" name="Γραφικά παιχνιδιού φορτώνονται..."  />
+				<text id="progress_serverconnection" name="Σύνδεση με το σέρβερ..."  />
+			</progressbar>
+			<register>
+				<text id="generic_register_agb_copy" name="Θα πρέπει να διαβάσετε και ν&#039; αποδεχτείτε τους όρους και τις προϋποθέσεις πρώτα! Επιβεβαίωσε πατώντας το κουμπί στα αριστερά και μπορείς να ξεκινήσεις!"  />
+				<text id="generic_register_agb_read" name="Ανάγνωση ΓΟΧ"  />
+				<text id="generic_register_alreadyavatar" name="Ο χρήστης έχει ήδη ένα άβαταρ."  />
+				<text id="generic_register_badword" name="Δεν επιτρέπεται να χρησιμοποήσεις {0} στο όνομά σου."  />
+				<text id="generic_register_btn_agb" name="Αποδοχή Όρων Χρήσης"  />
+				<text id="generic_register_btn_later" name="Αργότερα"  />
+				<text id="generic_register_btn_next" name="Συνέχεια"  />
+				<text id="generic_register_btn_save" name="Αποθήκευση"  />
+				<text id="generic_register_character" name="Δημιούργησε το χαρακτήρα σου"  />
+				<text id="generic_register_copy_0" name="Κάνε τώρα δωρεάν εγγραφή!"  />
+				<text id="generic_register_copy_1" name="Αποθήκευσε την πρόοδό σου στο παιχνίδι!"  />
+				<text id="generic_register_emaillong_copy" name="Δυστυχώς, η διεύθυνση e-mail είναι πολύ μεγάλη."  />
+				<text id="generic_register_emailwrong_copy" name="Η διεύθυνση e-mail που έβαλες δεν είναι σωστή."  />
+				<text id="generic_register_email_copy" name="Η διεύθυνση e-mail δε πρέπει να είναι άδεια ή να περιέχει ειδικούς χαρακτήρες."  />
+				<text id="generic_register_error" name="Η εγγραφή απέτυχε"  />
+				<text id="generic_register_errormistake" name="Σφάλμα"  />
+				<text id="generic_register_error_accountalreadyexists" name="Ένας άλλος παίκτης έχει εγγραφει με αυτή τη διεύθυνση e-mail, ζητούμε συγνώμη."  />
+				<text id="generic_register_forfree" name="Δωρεάν εγγραφή!"  />
+				<text id="generic_register_forfree1" name="Δωρεάν!"  />
+				<text id="generic_register_letsgo" name="ΦΥΓΑΜΕ!"  />
+				<text id="generic_register_namealreadyused" name="Το όνομα αυτό χρησιμοποιείται ήδη."  />
+				<text id="generic_register_namenotvalid" name="Το όνομα που έχεις εισάγει δεν είναι έγκυρο."  />
+				<text id="generic_register_passwordshort_copy" name="Ο κωδικός που έχεις εισάγει είναι πολύ μικρός. Πρέπει να περιέχει τουλάχιστον 4 χαρακτήρες."  />
+				<text id="generic_register_passwordwrong_copy" name="Ο κωδικός που έβαλες δεν είναι σωστός."  />
+				<text id="generic_register_password_copy" name="Ο κωδικός σας δε πρέπει να είναι κενός ή να περιέχει ειδικούς χαρακτήρες."  />
+				<text id="generic_register_receivenews" name="Receive News"  />
+				<text id="generic_register_rememberdata" name="Αποθήκευση στοιχείων"  />
+				<text id="generic_register_reward" name="Κάνε δωρεάν εγγραφή και πάρε {0} {1} δώρο!"  />
+				<text id="generic_register_subscribe" name="Εγγραφή"  />
+				<text id="generic_register_success" name="Η εγγραφή σου ήταν επιτυχής."  />
+				<text id="generic_register_title" name="Σφάλμα εγγραφής"  />
+				<text id="generic_register_unlock" name="Ξεκλείδωσε αυτή τη λειτουργία!"  />
+			</register>
+			<report>
+				<text id="generic_report_muted_badword1_copy" name="Παρακαλούμε προσέξτε τον τρόπο έκφρασης. Διαφορετικά θα αποκλειστείτε από το chat ή ο λογαριασμός σας θα κλείσει προσωρινά. Αιτιολογία: {0}"  />
+				<text id="generic_report_muted_badword2_copy" name="Δε μπορείς να χρησιμοποιήσεις την υπηρεσία του chat για τις επόμενες {0} λόγω επαναλαμβανόμενης κακής συμπεριφοράς. Αιτιολογία: {1}"  />
+				<text id="generic_report_muted_domain1" name="Μη γράφετε διευθύνσεις URL στο chat!"  />
+				<text id="generic_report_muted_reported_copy" name="Αρκετοί παίκτες έχουν κάνει παράπονα για σένα. Είσαι αποκλεισμένος από το chat για τις επόμενες {0}. Αιτιολογία: {1}"  />
+				<text id="generic_report_player_copy" name="Θέλεις πραγματικά ν&#039;αναφέρεις τον παίκτη {0}?
+Προσοχή! Υπερβολική χρήση αυτής της λειτουργίας θα επιφέρει μπλοκάρισμα του λογαριασμού σου."  />
+				<text id="generic_report_player_reason_0" name="Προσβολή"  />
+				<text id="generic_report_player_reason_1" name="σεξουαλική παρενόχληση"  />
+				<text id="generic_report_player_reason_2" name="φυλετική παρατήρηση"  />
+				<text id="generic_report_player_reason_3" name="Απειλή/εκβιασμός"  />
+				<text id="generic_report_player_reason_title" name="Αιτία αναφοράς"  />
+				<text id="generic_report_player_title" name="Αναφορά παίκτη?"  />
+				<text id="generic_report_reported_copy" name="Έχεις αναφερθεί στον διαχειριστή από έναν άλλο παίκτη. Αιτιολογία: {0}"  />
+			</report>
+			<worlds>
+				<text id="generic_connect" name="Σύνδεση"  />
+				<text id="generic_select_world" name="Επέλεξε κόσμο:"  />
+				<text id="generic_world" name="Κόσμος: {0}"  />
+				<text id="generic_world_international" name="Διεθνής: {0}"  />
+			</worlds>
+		</generic_flash>
+	</cafe>
+ 

@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- goodgamestudios CAFE - ar - 22 -->
+	<cafe>
+		<achievement>
+			<text id="Basic_Achievement_Boughtdeco" name="فاتح للشهية المحلية"  />
+			<text id="Basic_Achievement_Boughtingredients" name="قيصر المكونات"  />
+			<text id="Basic_Achievement_Cookingcount" name="القلي المجتهد"  />
+			<text id="Basic_Achievement_Coopcount" name="تعدد مهام الكعك"  />
+			<text id="Basic_Achievement_Coopgoldcount" name="العمل الدؤوب مع الة تبخير الماء"  />
+			<text id="Basic_Achievement_Curiercount" name="الطبخ الحصري"  />
+			<text id="Basic_Achievement_Differentdishes" name="تذوق الموهوب"  />
+			<text id="Basic_Achievement_Earnedchips" name="القزاز"  />
+			<text id="Basic_Achievement_Fancycount" name="الزميل الذيذ"  />
+			<text id="Basic_Achievement_Firenpc" name="دخان الحريق"  />
+			<text id="Basic_Achievement_Instantcount" name="المزارع غير الصبور"  />
+			<text id="Basic_Achievement_Jobclean" name="الموظب"  />
+			<text id="Basic_Achievement_Jobserve" name="الموزع"  />
+			<text id="Basic_Achievement_Masteies" name="الفرام  السريع"  />
+			<text id="Basic_Achievement_Masteriesgold" name="الفرام الذهبي"  />
+			<text id="Basic_Achievement_Muffinmancash" name="Generous Muffin"  />
+			<text id="Basic_Achievement_Muffinmangold" name="Golden Muffin"  />
+			<text id="Basic_Achievement_Overcookedfoods" name="الملك الدمار"  />
+			<text id="Basic_Achievement_Servingcountmeals" name="دسم المغكروتة"  />
+			<text id="Basic_Achievement_Servingcountsalads" name="المتذوق الطازج"  />
+			<text id="Basic_Achievement_Servingcountsnacks" name="صانع الوجبات الخفيفة"  />
+			<text id="Basic_Achievement_Servingcountsoups" name="الطباخ الماهر"  />
+			<text id="Basic_Achievement_Servingcountsweets" name="الخباز مشغول"  />
+			<text id="Basic_Achievement_Servingcountvegans" name="مزهر القرنبيط"  />
+			<text id="Basic_Achievement_Servingscount" name="مطعم العائلة"  />
+			<text id="Basic_Achievement_Solditems" name="بائع الاثاث والديكور"  />
+			<text id="Basic_Achievement_Spentchips" name="اكثر قدرة على الانفاق"  />
+			<text id="Basic_Achievement_Spentgold" name="صاحب المطعم الذهبي"  />
+			<text id="Basic_Achievement_Wheeloffortune" name="Spinning Spud"  />
+			<text id="Social_Achievement_Friendscount" name="الشواء الجماعي"  />
+		</achievement>
+		<alerts>
+			<text id="alert_addcash_copy" name="بامكانك هناذهب \مقهى الدولار الشراء او الكسب."  />
+			<text id="alert_addcash_title" name="الدفع للتسوق"  />
+			<text id="alert_addFriend_copy" name="تريد إضافة {0} كصديق؟"  />
+			<text id="alert_addFriend_denied_copy" name="ورفضت {0} طلبك للأسف."  />
+			<text id="alert_addFriend_denied_title" name="رفض طلب!"  />
+			<text id="alert_addFriend_title" name="دعوة الصديق"  />
+			<text id="alert_addgold_copy" name="يجب عليك التسجيل لشراء هنا!"  />
+			<text id="alert_addgold_title" name="سجل"  />
+			<text id="alert_avatarcustom_copy" name="You cannot change while you are working!"  />
+			<text id="alert_buytiles_copy" name="1. اختيار البلاط \ N2. حدد باستخدام زر الماوس المنطقة المطلوب في مقهى الخاصة بك. \ N3. الافراج"  />
+			<text id="alert_buytiles_title" name="بلاط المكان؟"  />
+			<text id="alert_changePasswordFaild_copy" name="كلمة السر الجديدة يجب أن تكون أطول من حرفين ، وأن تكون قد ادخلت كلمة المرور القديمة بشكل صحيح!"  />
+			<text id="alert_changePasswordFaild_title" name="كلمة السر"  />
+			<text id="alert_clearstove_cancelButton" name="إبقاء"  />
+			<text id="alert_clearstove_okButton" name="التخلي عن"  />
+			<text id="alert_clearstove_title" name="من هذا البار تستطيع توزيع طبق الطعام. هل تريد ان تحتفظ بطبق الطعام؟"  />
+			<text id="alert_counter_outofreach_copy" name="العداد غير موصول حاول مرة في  تحويله!"  />
+			<text id="alert_counter_outofreach_title" name="إنتباه!"  />
+			<text id="alert_dekoshop_humanwaiter_copy" name="طالما عمل لاعبين آخرين, ندل  في القهوة الخاص بك ، لا يمكنك تغييرالوضع."  />
+			<text id="alert_dekoshop_humanwaiter_title" name="لا تعمل!"  />
+			<text id="alert_dekoshop_kickplayer_copy" name="هناك لاعبين آخرين معك في المقهى. هل تريد طردالاعبين  لتحويل وتغيير القائمة"  />
+			<text id="alert_dekoshop_kickplayer_title" name="إنتباه!"  />
+			<text id="alert_FancyCooking_copy" name="هل تريدطبق طعام متبل بمكونات الفانسي ومن قبل {0} {1} إكس بي والحصول على حصص اضافية؟"  />
+			<text id="alert_FancyCooking_title" name="مكونات الفان سي"  />
+			<text id="alert_fancyinfo_copy" name="هل تتبل الاطباق بالمكونات الفانس, يمكنك ان تصل الى  20%واكثر من الاجزاء اكس بي!"  />
+			<text id="alert_fancyinfo_title" name="مكونات الفان سي!"  />
+			<text id="alert_giftboxfull_copy" name="صندوق الهدايا الخاص بك إمتلأ ! لا يمكنك قبول الهدايا الجديدة من أصدقائك !"  />
+			<text id="alert_giftboxfull_title" name="لا يوجد مكان!"  />
+			<text id="alert_guestchangepassword_copy" name="يمكنك فقط تغيير كلمة السر الخاصة بك كلاعب مسجل!"  />
+			<text id="alert_guestchangepassword_title" name="سجل الأول"  />
+			<text id="alert_guestcoop_copy" name="عليك ان تسجل اولا لتلعب بالجمعية التعاونية!"  />
+			<text id="alert_guestinvitefriend_copy" name="في حال كنت مسجلاً  يمكنك دعوة أصدقاؤك"  />
+			<text id="alert_guestinvitefriend_title" name="سجل الأول"  />
+			<text id="alert_guestlogout_copy" name="سجل لحفظ اللعبة!"  />
+			<text id="alert_guestlogout_title" name="سجل"  />
+			<text id="alert_help_copy" name="يجب عليك ان تساعد نفسك أولا..."  />
+			<text id="alert_help_title" name="مساعدة"  />
+			<text id="alert_invitefriend_confirmed_copy" name="!شكرا لنشر الكلمة!"  />
+			<text id="alert_invitefriend_confirmed_title" name="مدعو!"  />
+			<text id="alert_invitefriend_copy" name="اعطي  الاسم وعنوان البريد الالكتروني لصديقك  لدعوته."  />
+			<text id="alert_invitefriend_mail" name="عنوان البريد الإلكتروني للصديق:"  />
+			<text id="alert_invitefriend_myname" name="اسمك :"  />
+			<text id="alert_invitefriend_name" name="اسم صديق:"  />
+			<text id="alert_invitefriend_title" name="دعوة صديق"  />
+			<text id="alert_jobhelp_copy1" name="1. احضار الاكل من البار2. خدمة الضيف المنتظر"  />
+			<text id="alert_jobhelp_copy2" name="1.احضار الصحن من الطاولة&lt;و المزيد&gt; و 2 . احضرها الى البار"  />
+			<text id="alert_jobhelp_header1" name="خدمة الضيوف"  />
+			<text id="alert_jobhelp_header2" name="توضيب  الصحون"  />
+			<text id="alert_jobhelp_title" name="مسؤولياتك"  />
+			<text id="alert_jobrefill_copy" name="يجب عليك التسجيل قبل قادرة على العمل."  />
+			<text id="alert_jobrefill_title" name="سجل"  />
+			<text id="alert_lostpassword_copy" name="اعطي عنوانك البريدي  ونحن نرسل لك الرقم السري."  />
+			<text id="alert_lostpassword_title" name="نسيت كلمة السر"  />
+			<text id="alert_marketplace_jobcancled_copy" name="{0}وقدعرض عملك للأسف مرفوض."  />
+			<text id="alert_marketplace_jobcancled_title" name="رفض وظيفة"  />
+			<text id="alert_marketplace_jobempty_copy" name="اذونات  العمل نفدت اليوم لديكم."  />
+			<text id="alert_marketplace_jobempty_title" name="اذونات العمل استهلكت !"  />
+			<text id="alert_marketplace_jobhired_copy" name="{0}الوظيفة الخاصة بك قد قبلت!"  />
+			<text id="alert_marketplace_jobhired_title" name="إستلم الوظيفة"  />
+			<text id="alert_marketplace_job_copy" name="وقد عرض عليك من {0} إلى مستوى  {1} وظيفة للنادل.
+هل تقبل بذلك؟"  />
+			<text id="alert_marketplace_job_title" name="يوجد وظيفة!"  />
+			<text id="alert_marketplace_noticeboard_copy" name="قم بالتسجيل هنا بحثا عن عمل, وإذا كنت مجتهد يمكنك ملء 
+أذونات الوظيفة للعمل."  />
+			<text id="alert_marketplace_noticeboard_title" name="أذونات العمل"  />
+			<text id="alert_marketplace_playerjobempty_copy" name="لاعب عمل  بما فيه الكفاية"  />
+			<text id="alert_marketplace_playerjobempty_title" name="رفض وظيفة"  />
+			<text id="alert_marketplace_playerleaved_copy" name="ألاعب  ترك  السوق."  />
+			<text id="alert_marketplace_playerleaved_title" name="عفوا"  />
+			<text id="alert_nofreecounter_copy" name="ليس لديك بار فارغ."  />
+			<text id="alert_nofreecounter_title" name="عفوا!"  />
+			<text id="alert_nofridge_copy" name="ليس عندك اي ثلاجة في المقهى الخاص بك, قم بتغيير وضعك  واسحب ثلاجة الى المقهى."  />
+			<text id="alert_nofridge_title" name="لا يوجد  ثلاجة?!"  />
+			<text id="alert_nojobpermission_copy" name="You need job permissions if you want to look for a job."  />
+			<text id="alert_nojobpermission_title" name="Watch out!"  />
+			<text id="alert_register_agb_copy" name="ويمكن أن لا تخلو من شروط وأحكام. مجرد قراءة وتأكيد مع الزر على اليسار. ثم بإمكانك بدء اللعبة!"  />
+			<text id="alert_register_email_copy" name="يجب أن لايكون عنوان البريد الإلكتروني فارغاً أو يحتوي على أحرف خاصة."  />
+			<text id="alert_register_password_copy" name="كلمة السر الخاصة بك لا يمكن أن تكون فارغة أو تحتوي على أحرف خاصة."  />
+			<text id="alert_register_title" name="التسجيل خطأ"  />
+			<text id="alert_seekingjob_copy" name="يجب عليك التسجيل قبل قادرة على العمل."  />
+			<text id="alert_seekingjob_title" name="سجل"  />
+			<text id="alert_selldeco_copy" name="هل تريد حقا بيع البضاعة لي {0}؟"  />
+			<text id="alert_selldeco_title" name="بيع؟"  />
+			<text id="alert_sellitem_copy" name="هل تريد حقا بيع   بضاعة واحدة  من{0}"  />
+			<text id="alert_sellitem_title" name="بيع؟"  />
+			<text id="alert_smoothiemaker_full_copy" name="There still are some drinks in your Frosty!
+Serve them to your guests, then you can mix something new!"  />
+			<text id="alert_smoothiemaker_outofreach_copy" name="Your Frosty is not available. Why don&#039;t you try switching things up?"  />
+			<text id="alert_smoothiemaker_storage_copy" name="There still are some drinks in your Frosty!
+If you put it into storage, you will lose the remaining portions!"  />
+			<text id="alert_stafffire_copy" name="هل انت  تريد  حقا ان تتخلى عن ناد لك المخلص ?"  />
+			<text id="alert_stafffire_title" name="طرد الناد ل?"  />
+			<text id="alert_staffhire_copy" name="اعطي  خادمك إسماً جديد."  />
+			<text id="alert_staffhire_title" name="نصب جديد"  />
+			<text id="alert_storefull_copy" name="ثلاجتك مليئة-يجب! عليك بيع المكونات ليصبح عندك مكان!"  />
+			<text id="alert_storefull_title" name="الثلاجة ممتلئ!"  />
+			<text id="alert_stove_outofreach_copy" name="الفرن غير موصول .حاول مرة في التحويل"  />
+			<text id="alert_stove_outofreach_title" name="انتباه!"  />
+			<text id="alert_unlockitem_copy" name="اسمح للعنصر سوف يرسل لك أكثر من  ساعي بريد المدينة! وحصريا له ثمنه."  />
+			<text id="alert_unlockitem_title" name="ساعي التسليم؟"  />
+			<text id="alert_userkicked_copy" name="أنت طردت من المقهى."  />
+			<text id="alert_userkicked_title" name="طرد!"  />
+			<text id="alert_workinghero_copy" name="الطباخ يتوجب عله ان يعمل!"  />
+			<text id="alert_workinghero_title" name="الانتظار!"  />
+		</alerts>
+		<commons>
+			<text id="addgold" name="المزيد من الذهب"  />
+			<text id="buy" name="شراء"  />
+			<text id="cash" name="مقهى دولار امريكى"  />
+			<text id="comingsoon" name="قريبا"  />
+			<text id="day" name="يوم"  />
+			<text id="days" name="أيام"  />
+			<text id="friends" name="{0} أصدقاء"  />
+			<text id="gold" name="ذهب"  />
+			<text id="hour" name="ساعة"  />
+			<text id="hours" name="ساعات"  />
+			<text id="level" name="المستوى"  />
+			<text id="logout" name="تسجيل الخروج"  />
+			<text id="mastery" name="مستوى النجمة"  />
+			<text id="minute" name="دقيقة"  />
+			<text id="minutes" name="دفائق"  />
+			<text id="new" name="الجديد!"  />
+			<text id="second" name="ثانية"  />
+			<text id="seconds" name="االثوانى"  />
+			<text id="sell" name="بيع"  />
+			<text id="usable_character" name="للاستعمال الطابع"  />
+			<text id="XofY" name="من {0} الى {1}"  />
+			<text id="xp" name="إكس بي"  />
+		</commons>
+		<cookstep>
+			<text id="cookstep_bananasplit1" name="تبريد الايس كريم &lt;البوظة"  />
+			<text id="cookstep_bananasplit2" name="تقطيع الموز"  />
+			<text id="cookstep_blackforestcherrycake1" name="خلط المكونات"  />
+			<text id="cookstep_blackforestcherrycake2" name="خبز الكعكة"  />
+			<text id="cookstep_cheeseburger1" name="قلي اللحم المفروم"  />
+			<text id="cookstep_cheeseburger2" name="تحضير البرغر"  />
+			<text id="cookstep_cheesedish1" name="تحضير الجبنة"  />
+			<text id="cookstep_cheesedish2" name="جبنة الدولاب"  />
+			<text id="cookstep_cheesefondue1" name="شواء الخبز"  />
+			<text id="cookstep_cheesefondue2" name="تذويب الجبنة"  />
+			<text id="cookstep_cherriecake1" name="خلط المكونات"  />
+			<text id="cookstep_cherriecake2" name="خبز الكعكة"  />
+			<text id="cookstep_cherrycompote1" name="طبخ الكرز"  />
+			<text id="cookstep_cherrycompote2" name="يترك ليبرد"  />
+			<text id="cookstep_chickenburger1" name="الدجاج مقلي"  />
+			<text id="cookstep_chickenburger2" name="تحضير البرغر"  />
+			<text id="cookstep_chickensalad1" name="قلى الدجاج"  />
+			<text id="cookstep_chickensalad2" name="رائحة السلطة"  />
+			<text id="cookstep_chickensoup1" name="قلي شحم الخنزير"  />
+			<text id="cookstep_chickensoup2" name="طبخ الشوربة"  />
+			<text id="cookstep_chiliconcarne1" name="قلي اللحم المفروم"  />
+			<text id="cookstep_chiliconcarne2" name="طبخ الفلفل الحار"  />
+			<text id="cookstep_chocmousse1" name="خلط المكونات"  />
+			<text id="cookstep_chocmousse2" name="تبريد  الكريمه"  />
+			<text id="cookstep_chocolatecake1" name="خلط المكونات"  />
+			<text id="cookstep_chocolatecake2" name="خبز"  />
+			<text id="cookstep_chocolatecheesecake1" name="تذويب الشوكلا"  />
+			<text id="cookstep_chocolatecheesecake2" name="خبز الكعكة"  />
+			<text id="cookstep_chocolatefondue1" name="Melting chocolate"  />
+			<text id="cookstep_chocolatefondue2" name="Adding cream"  />
+			<text id="cookstep_christmasturkey1" name="حساء الخضار"  />
+			<text id="cookstep_christmasturkey2" name="شواء الديك الحبشي"  />
+			<text id="cookstep_cookieplate1" name="قطع العجين"  />
+			<text id="cookstep_cookieplate2" name="خبز  البسكويت"  />
+			<text id="cookstep_cornonthecob1" name="طبخ الذرة"  />
+			<text id="cookstep_cornonthecob2" name="تقديم السلطة"  />
+			<text id="cookstep_curry1" name="قلي المكونات"  />
+			<text id="cookstep_curry2" name="إضافة جوز الهند"  />
+			<text id="cookstep_duckalorange1" name="حشي البطة"  />
+			<text id="cookstep_duckalorange2" name="شوي البطة"  />
+			<text id="cookstep_easterdish1" name="تذوق الشوكولاته"  />
+			<text id="cookstep_easterdish2" name="سلق البيض"  />
+			<text id="cookstep_englishbreakfast1" name="طبخ الفاصولياء"  />
+			<text id="cookstep_englishbreakfast2" name="قلي النقانق"  />
+			<text id="cookstep_fishandchips1" name="قلي"  />
+			<text id="cookstep_fishandchips2" name="هرس البازلاء"  />
+			<text id="cookstep_friedpotatoes1" name="طبخ البطاطا"  />
+			<text id="cookstep_friedpotatoes2" name="قلى البطاطا"  />
+			<text id="cookstep_fruitpudding1" name="تحريك العجين"  />
+			<text id="cookstep_fruitpudding2" name="خبز"  />
+			<text id="cookstep_fruitsalad1" name="تقطيع الفاكهة"  />
+			<text id="cookstep_fruitsalad2" name="خلط الصلصة"  />
+			<text id="cookstep_greensalad1" name="تحريك الصلصة"  />
+			<text id="cookstep_greensalad2" name="ترك السلطة تتشرب"  />
+			<text id="cookstep_gumbo1" name="حساء المكونات"  />
+			<text id="cookstep_gumbo2" name="خلط الرز"  />
+			<text id="cookstep_hamburger1" name="قلي  البرغر"  />
+			<text id="cookstep_hamburger2" name="تحضير البرغر"  />
+			<text id="cookstep_hotcherrywaffles1" name="طبخ الكرز"  />
+			<text id="cookstep_hotcherrywaffles2" name="قلي اللحوم"  />
+			<text id="cookstep_jamspongepudding1" name="تخلط المكونات"  />
+			<text id="cookstep_jamspongepudding2" name="خبز"  />
+			<text id="cookstep_lasagne1" name="قلي اللحم المفروم"  />
+			<text id="cookstep_lasagne2" name="خبز لازانيا"  />
+			<text id="cookstep_macncheese1" name="ملئ  صحن الفرن"  />
+			<text id="cookstep_macncheese2" name="شواء"  />
+			<text id="cookstep_maplepancakes1" name="خلط العجينة"  />
+			<text id="cookstep_maplepancakes2" name="شوي  عجة البيض"  />
+			<text id="cookstep_marblecake1" name="ملء النموذج"  />
+			<text id="cookstep_marblecake2" name="خبز"  />
+			<text id="cookstep_mexicansalad1" name="طبخ لفاصوليا"  />
+			<text id="cookstep_mexicansalad2" name="مزج     المكونات"  />
+			<text id="cookstep_minestrone1" name="حساء الخضار"  />
+			<text id="cookstep_minestrone2" name="أضف معكرونة"  />
+			<text id="cookstep_mixedsalad1" name="تحريك الصلصة"  />
+			<text id="cookstep_mixedsalad2" name="ترك السلطة تتشرب"  />
+			<text id="cookstep_nasigoreng1" name="طبخ الدجاج"  />
+			<text id="cookstep_nasigoreng2" name="حساء الخضار"  />
+			<text id="cookstep_newyorkcheesecake1" name="مزيج الحشو"  />
+			<text id="cookstep_newyorkcheesecake2" name="خبز الكعكة"  />
+			<text id="cookstep_noodlesalad1" name="خفق المايونيز"  />
+			<text id="cookstep_noodlesalad2" name="مزج المكونات"  />
+			<text id="cookstep_omelette1" name="Season eggs"  />
+			<text id="cookstep_omelette2" name="Fold eggs"  />
+			<text id="cookstep_onionsoup1" name="حساء البصل"  />
+			<text id="cookstep_onionsoup2" name="خبز الجبنة"  />
+			<text id="cookstep_peasoup1" name="حساء البصل"  />
+			<text id="cookstep_peasoup2" name="طبخ الشوربة"  />
+			<text id="cookstep_pizza1" name="تحضير البيتزا"  />
+			<text id="cookstep_pizza2" name="خبز البيتزا"  />
+			<text id="cookstep_pizzahawaii1" name="تحضير البيتزا"  />
+			<text id="cookstep_pizzahawaii2" name="خبز البيتزا"  />
+			<text id="cookstep_pizzatonno1" name="تحضير البيتزا"  />
+			<text id="cookstep_pizzatonno2" name="خبز البيتزا"  />
+			<text id="cookstep_porkroastwithcrackling1" name="تتبيل اللحوم"  />
+			<text id="cookstep_porkroastwithcrackling2" name="قلي"  />
+			<text id="cookstep_potatosalad1" name="طبخ البطاطا"  />
+			<text id="cookstep_potatosalad2" name="خفق المايونيز"  />
+			<text id="cookstep_redberrycompote1" name="الفاكهة"  />
+			<text id="cookstep_redberrycompote2" name="حلو"  />
+			<text id="cookstep_ricepudding1" name="طبخ الرز بلحليب"  />
+			<text id="cookstep_ricepudding2" name="طهي صلصة التفاح"  />
+			<text id="cookstep_roastchicken1" name="حشي    الدجاج"  />
+			<text id="cookstep_roastchicken2" name="قلى"  />
+			<text id="cookstep_sandwich1" name="زبدة الخبز"  />
+			<text id="cookstep_sandwich2" name="تحضير الخبزالمحمص"  />
+			<text id="cookstep_scouse1" name="طبخ اللحوم"  />
+			<text id="cookstep_scouse2" name="أضف الشمندر"  />
+			<text id="cookstep_spagetti1" name="قلي اللحم المفروم"  />
+			<text id="cookstep_spagetti2" name="طبخ الصلصة"  />
+			<text id="cookstep_spareribs1" name="ادخال اللحمة"  />
+			<text id="cookstep_spareribs2" name="شوي اللحمة"  />
+			<text id="cookstep_steak1" name="شوي اللحمة"  />
+			<text id="cookstep_steak2" name="رائحة السلطة"  />
+			<text id="cookstep_steakkidneypie1" name="طبخ الحشوة"  />
+			<text id="cookstep_steakkidneypie2" name="خبز"  />
+			<text id="cookstep_stew1" name="قلى اللحوم"  />
+			<text id="cookstep_stew2" name="تشويح"  />
+			<text id="cookstep_stewedrhubarb1" name="طبخ راوند"  />
+			<text id="cookstep_stewedrhubarb2" name="يترك ليبرد"  />
+			<text id="cookstep_strawberrycake1" name="خبز  أرضية الكعكة"  />
+			<text id="cookstep_strawberrycake2" name="إعداد كعكة"  />
+			<text id="cookstep_strawberrymousse1" name="هرس الفراولة"  />
+			<text id="cookstep_strawberrymousse2" name="رغوة الموسية"  />
+			<text id="cookstep_stuffedpeppers1" name="ملء فلفل"  />
+			<text id="cookstep_stuffedpeppers2" name="خبز الفلفل"  />
+			<text id="cookstep_sundayfeast1" name="ادخال اللحمة"  />
+			<text id="cookstep_sundayfeast2" name="قلي اللحمة"  />
+			<text id="cookstep_sushi1" name="توزيع المكونات"  />
+			<text id="cookstep_sushi2" name="لفة"  />
+			<text id="cookstep_toadinhole1" name="خلط العجينة"  />
+			<text id="cookstep_toadinhole2" name="شوي"  />
+			<text id="cookstep_toast1" name="تحضير الخبزالمحمص"  />
+			<text id="cookstep_toast2" name="قلي الخبز المحمص"  />
+			<text id="cookstep_tofuburger1" name="قلي التوفو"  />
+			<text id="cookstep_tofuburger2" name="تحضير البرغر"  />
+			<text id="cookstep_tomatosoup1" name="قلى البصل"  />
+			<text id="cookstep_tomatosoup2" name="طبخ الطماطم"  />
+			<text id="cookstep_trifle1" name="طبخ الكستر"  />
+			<text id="cookstep_trifle2" name="صف طبقات كعكة الفاكهة"  />
+			<text id="cookstep_veganstirfry1" name="حساء الخضار"  />
+			<text id="cookstep_veganstirfry2" name="طبخ الرز"  />
+			<text id="cookstep_vegetablesoup1" name="قلى البصل"  />
+			<text id="cookstep_vegetablesoup2" name="طبخ الحساء"  />
+			<text id="cookstep_veggiecurry1" name="طبخ الرز"  />
+			<text id="cookstep_veggiecurry2" name="تسبيك الكارى"  />
+			<text id="cookstep_veggielasagne1" name="صف  رقائق اللازانيا"  />
+			<text id="cookstep_veggielasagne2" name="شوي  لازانيا"  />
+			<text id="cookstep_whitechoccheesecake1" name="خلط المكونات"  />
+			<text id="cookstep_whitechoccheesecake2" name="خبز الكعكة"  />
+			<text id="cookstep_whitechocmousse1" name="تذويب الشوكلا"  />
+			<text id="cookstep_whitechocmousse2" name="تبريد الكريمه"  />
+		</cookstep>
+		<coopmission>
+			<text id="coop_desc_long_1" name="نحن نستضيف فئة الطبخ لاتقان بعض الأطباق. هل تريد الانضمام؟"  />
+			<text id="coop_desc_long_10" name="عائلتك اتت لزيارتك وانت لديك مهمة, كمشرف رئسي يمكنك طهي الطعام لعيد الميلاد المجيد. طعاما شهيا!"  />
+			<text id="coop_desc_long_11" name="من المقرر  محاربة في الكعك، ونحن بحاجة  لكعك بلا نهاية! اخبز لنا من الممكن عدد كبير  من الكعك ..."  />
+			<text id="coop_desc_long_12" name="The town&#039;s soup kitchen is in desperate need of soups. Could you cook a few soups which really everyone likes?"  />
+			<text id="coop_desc_long_13" name="For an Asian themed party we need a few typical Asian dishes. Do you know any recipes to make our evening?"  />
+			<text id="coop_desc_long_14" name="The national builder conference is about to start and we need some really hefty meals. Do have something ready for real men?"  />
+			<text id="coop_desc_long_15" name="Visitors from London are coming soon and wish to eat some proper meals from their home. Could you whip something up?"  />
+			<text id="coop_desc_long_2" name="أنا أخطط  لإحتفال على شكل تكس مكس  وبحاجة لطعام مناسب.  هل يمكنك مساعدتي هناك؟"  />
+			<text id="coop_desc_long_3" name="سيزورني ضيوف من نادي رياضي في هامبورغ واريد ان يشعروا كأنهم في منزلهم  لذلك انا بحاجة الى شخص خبير بطهي طعام اهل هامبورغ .هل ترغب بهذا؟"  />
+			<text id="coop_desc_long_4" name="سأنظم حفل حديقة ضخم وبحاجة الى الكثير من الطعام لإسعادضيوفي ولقد سمعت انك معلم في تقديم الطعام وتحضيره هل بإمكانك مساعدتي؟"  />
+			<text id="coop_desc_long_5" name="نظمت حديقة المدينة حفلة التزلج ايه بريس ومازالوا بحاجة للكثير من الطعام اللذيذ هل بامكانك المساعدة؟"  />
+			<text id="coop_desc_long_6" name="رئيسي في العمل سياتي للعشاء معي  واريد ان افاجاءه بتحضير اربع وجبات .. المقبلات الشوربة الوجبة الرئيسية الحلو&gt;  هل تستطيع ان تحضر لنا هذه الوجبات؟"  />
+			<text id="coop_desc_long_7" name="احترقت مدرسة الطبخ  والاطفال  ليس لديهم ماياكلون هل يمكنك مساعدتنا في طبخ اشياء لذيذة؟"  />
+			<text id="coop_desc_long_8" name="صديقي المفضل يحتفل بعيد ميلاده ولكنه لم يهتم بالطعام  وهناك الكثير من الناس الذين يشعرون بلجوع هل يمكنك مساعدتنا؟"  />
+			<text id="coop_desc_long_9" name="مهرجان القرية مع شعار ايطاليا لا يزال معلقا الشئ الوحيد المفقود هو الغذاء وماذا عن مهارتك الخاصة بالطبخ؟"  />
+			<text id="coop_desc_short_1" name="كن مشرف على السباغيتي البولونيز!"  />
+			<text id="coop_desc_short_10" name="تناول الطعام حتى ينفجر السروال!"  />
+			<text id="coop_desc_short_11" name="كل ضرب  بحساب!"  />
+			<text id="coop_desc_short_12" name="لا يوجد شيء مثل الحساء!"  />
+			<text id="coop_desc_short_13" name="الأرز هو دائما هناك"  />
+			<text id="coop_desc_short_14" name="نحن نحب اللحوم والبطاطا"  />
+			<text id="coop_desc_short_15" name="كل شيء عن البريطانيين من العالم!"  />
+			<text id="coop_desc_short_2" name="المهرجان المكسيكي يشتمل  بالكل!"  />
+			<text id="coop_desc_short_3" name="الابس كاوز&lt;اكلة المانية مع اللحم والبيض&gt; للضيوف من هامبورغ!"  />
+			<text id="coop_desc_short_4" name="جهز خبز هواي المحمص لحفلات الحديقة!"  />
+			<text id="coop_desc_short_5" name="مع الشوكولا على سطح الجبنة!"  />
+			<text id="coop_desc_short_6" name="موس الشوكولا من احسن ما يكون!"  />
+			<text id="coop_desc_short_7" name="العين تاكل قبل الفم!"  />
+			<text id="coop_desc_short_8" name="إخبز البيتزا أنت والاخرون لحفل عيد الميلاد!"  />
+			<text id="coop_desc_short_9" name="البيتزا! المعكرونة! باستا!"  />
+			<text id="coop_title_1" name="دورة تدريبية لطبخ"  />
+			<text id="coop_title_10" name="انه عيد الميلادالمجيد!"  />
+			<text id="coop_title_11" name="معركة الكعكة"  />
+			<text id="coop_title_12" name="حساء الكاسبر"  />
+			<text id="coop_title_13" name="كل آسيا"  />
+			<text id="coop_title_14" name="سيصبح دسم"  />
+			<text id="coop_title_15" name="جدا البريطاني!"  />
+			<text id="coop_title_2" name="مساء تكس مكس"  />
+			<text id="coop_title_3" name="مساءالهانزية"  />
+			<text id="coop_title_4" name="حفلة في الحديقة"  />
+			<text id="coop_title_5" name="بعد التزلج"  />
+			<text id="coop_title_6" name="حفل عشاء"  />
+			<text id="coop_title_7" name="الغيت وجبة الطعام المدرسية"  />
+			<text id="coop_title_8" name="حفلة عيدالميلاد"  />
+			<text id="coop_title_9" name="بوفيهالإيطالية"  />
+		</coopmission>
+		<dialogs>
+			<text id="dialogwin_achievement_title" name="الجوائز"  />
+			<text id="dialogwin_avatarcreate_man"  />
+			<text id="dialogwin_avatarcreate_random" name="تغيير المظهر"  />
+			<text id="dialogwin_avatarcreate_txt_avatar_name" name="الاسم:"  />
+			<text id="dialogwin_avatarcreate_txt_avatar_title" name="خلق الطابع الخاص بك"  />
+			<text id="dialogwin_avatarcreate_woman"  />
+			<text id="dialogwin_avatarnameselect_copy" name="إسم موجود.  إقتراح  أسماء:"  />
+			<text id="dialogwin_avatarnameselect_title" name="عفوا!"  />
+			<text id="dialogwin_avatar_btn_random" name="Coincidence"  />
+			<text id="dialogwin_bonus_copy_achievement" name="لقد وصلت الى مستوى {0} تهانينا لك هذه الجائزة!"  />
+			<text id="dialogwin_bonus_copy_counter" name="بامكانك الان شراء  بار أخر."  />
+			<text id="dialogwin_bonus_copy_dish" name="كانت هناك وصفات جديدة لتفعيلها لاجلك:"  />
+			<text id="dialogwin_bonus_copy_expand" name="بامكانك التوسيع لان اصبح لديك مساحة اكبر للضيوف والديكور و اكثر بكثير!"  />
+			<text id="dialogwin_bonus_copy_fridge" name="يمكنك الآن أن تشتري آخر البراد."  />
+			<text id="dialogwin_bonus_copy_instant" name="مرة اخرى الطبخ السريع بنقرة واحدة والطعام جاهز للخدمة."  />
+			<text id="dialogwin_bonus_copy_level2" name="هل رأيت؟ يمكنك أيضا توسيع مقهى الخاصة بك والحصول على مزيد من المساحة لضيوفك!"  />
+			<text id="dialogwin_bonus_copy_login" name="وقد كان هذا يحدث في القهوة الخاص بك عندما كنت بعيدا:"  />
+			<text id="dialogwin_bonus_copy_newwaiter" name="لديك الآن موظف جديد في المقهى!يمكن للنزلاء أن يأتوا!"  />
+			<text id="dialogwin_bonus_copy_stove" name="يمكنك ان تشتري الان فرن جديد."  />
+			<text id="dialogwin_bonus_copy_waiter" name="يمكنك ألان  تأجير خادم اخر."  />
+			<text id="dialogwin_bonus_title_achievement" name="جائزة جديدة"  />
+			<text id="dialogwin_bonus_title_counter" name="بار جديد"  />
+			<text id="dialogwin_bonus_title_dish" name="وصفات جديدة"  />
+			<text id="dialogwin_bonus_title_expand" name="مرحى!"  />
+			<text id="dialogwin_bonus_title_fridge" name="ثلاجة جديدة"  />
+			<text id="dialogwin_bonus_title_instant" name="التراسل الفوري للطبخ المتكرر"  />
+			<text id="dialogwin_bonus_title_level2" name="توسيع!"  />
+			<text id="dialogwin_bonus_title_login" name="عدت!"  />
+			<text id="dialogwin_bonus_title_newwaiter" name="تحية"  />
+			<text id="dialogwin_bonus_title_stove" name="فرن جديد"  />
+			<text id="dialogwin_bonus_title_waiter" name="مزيد من الموظفين"  />
+			<text id="dialogwin_buytile_copy" name="هل تريد {0} شراء ل {1} البلاط ?"  />
+			<text id="dialogwin_buytile_title" name="شراء البلاط؟"  />
+			<text id="dialogwin_changepassword_copy_newpass" name="كلمة السر الجديدة:"  />
+			<text id="dialogwin_changepassword_copy_oldpass" name="كلمة السر القديمة:"  />
+			<text id="dialogwin_changepassword_title" name="تغيير كلمة السر"  />
+			<text id="dialogwin_clearcounter_cancelButton" name="إبقاء"  />
+			<text id="dialogwin_clearcounter_okButton" name="رمى"  />
+			<text id="dialogwin_clearcounter_title" name="من هذا البارتستطيع التعامل مع طبق الطعام.                ماذا تريد ان تفعل به؟"  />
+			<text id="dialogwin_clearstove_btn_cancel" name="إبقاء"  />
+			<text id="dialogwin_clearstove_btn_ok" name="رمى"  />
+			<text id="dialogwin_clearstove_copy" name="اليوم بامكانك للمرة {0} ان تنهي بسرعة الطهي."  />
+			<text id="dialogwin_clearstove_title" name="الطبخ يتم الان على هذا الفرن .                            ماذاتريد ان تفعل به؟"  />
+			<text id="dialogwin_cookbook_income" name="{0}لكل وجبة"  />
+			<text id="dialogwin_cookbook_readyin" name="{0}: جاهزة في"  />
+			<text id="dialogwin_cookbook_servings" name="الوجبات : {0}"  />
+			<text id="dialogwin_coopextend_nomoney" name="You haven&#039;t got enough money to extend this Co-Op!"  />
+			<text id="dialogwin_coopreward_finish_0" name="الذهب"  />
+			<text id="dialogwin_coopreward_finish_1" name="الفضة"  />
+			<text id="dialogwin_coopreward_finish_2" name="برونز"  />
+			<text id="dialogwin_coopreward_title_fail" name="المشاريع التعاونية لم تنجح"  />
+			<text id="dialogwin_coopreward_title_success" name="نجحت المشاريع التعاونية مع {0}"  />
+			<text id="dialogwin_coopshelp_copy" name="يمكنك مع اصدقائك ان تنجز مهمات الطبخ وتكسب اكس بي ومقهى الدولار  في حال انجزت المهمة في وقت اسرع ترتفع المكافاة وفي حال كان الوقت قصير فيمكنك المتابعة في  اي وقت  وعليك ان تتذكر  انك تحصل على المكافاة اذا استمريت في العمل!"  />
+			<text id="dialogwin_coopshelp_title" name="ماهوى السند الجمعيات التعاونية؟"  />
+			<text id="dialogwin_coop_btn_action" name="تفاصيل"  />
+			<text id="dialogwin_coop_btn_activecoops" name="تنشط"  />
+			<text id="dialogwin_coop_btn_join" name="مساهمة"  />
+			<text id="dialogwin_coop_btn_newcoop" name="ابدأ الجمعية التعاونية"  />
+			<text id="dialogwin_coop_btn_quit" name="اِنْصَرَفَ"  />
+			<text id="dialogwin_coop_extendtime_copy" name="هل تريد التمديد في الجمعية التعاونيةمن  {0} ذهب الى {1}ساعة؟"  />
+			<text id="dialogwin_coop_extendtime_title" name="مزيد من الوقت؟"  />
+			<text id="dialogwin_coop_maxdone" name="أنت بدأت اليوم بالتعاونية!
+يمكنك  غداً أن تبدأ مرةً أخرى!"  />
+			<text id="dialogwin_coop_maxuser" name="الحد الأقصى لحجم المجموعة : {0}"  />
+			<text id="dialogwin_coop_member" name="أنت  تريد أن تترك هذا التعاون  اوب حقاً ؟"  />
+			<text id="dialogwin_coop_minlevel" name="الحد الأقصى لمستوى المشاركة : {0}"  />
+			<text id="dialogwin_coop_quit_copy" name="هل تريد أن تترك هذه التعاونية حقاً؟"  />
+			<text id="dialogwin_coop_subtitle" name="عليك أن تطبخ"  />
+			<text id="dialogwin_coop_timeInfo" name="القيام به في :"  />
+			<text id="dialogwin_coop_timeleft" name="بقى  من  الزمن"  />
+			<text id="dialogwin_coop_txt_noactive" name="حاليا لم يتم احداث جمعيات تعاونية  ابداء  بواحدة!"  />
+			<text id="dialogwin_coop_txt_title" name="الجمعيات التعاونية"  />
+			<text id="dialogwin_decoshophelp_copy" name="إذا قمت بسحب أثاث أو الزينة في شريط وليس على سجل النقدية ، ويتم تخزينها. يمكنك التعادل مرة أخرى في المقهى الخاص بك لا يكلفك المال. الكمية  تراها ملصقة بالأحمر."  />
+			<text id="dialogwin_decoshophelp_copy_1" name="الفرش والديكور لديهم قيمة الذي عندما تجمر تحديد قيمة قهى الخاص!
+كم تكون قيمة قهى الخاص؟"  />
+			<text id="dialogwin_decoshophelp_title" name="تخزين ديكورات الأثاث  ؟"  />
+			<text id="dialogwin_decoshophelp_title_1" name="قيمة الفخامة"  />
+			<text id="dialogwin_dishmastery_copy_0" name="كنت قد حزت على نجمة ل {0} !"  />
+			<text id="dialogwin_dishmastery_copy_1" name="تعطي أصدقائك ولكن من وجبات قليلة اضافية!"  />
+			<text id="dialogwin_dishmastery_info" name="مع كل نجمة خاصة بك  الاطباق مربحة دائما!"  />
+			<text id="dialogwin_dishmastery_title" name="نجمة جديدة!"  />
+			<text id="dialogwin_fancycooking_title" name="هل تريد مع {0} تتبيل الاظباق؟"  />
+			<text id="dialogwin_featureUnlocked_coop" name="Start a Co-Op together with your friends!"  />
+			<text id="dialogwin_featureUnlocked_decoration" name="You now have access to new decorational items!"  />
+			<text id="dialogwin_featureUnlocked_fancy" name="Give your dishes some extra spice with fancy ingredients!"  />
+			<text id="dialogwin_featureUnlocked_frosty" name="Discover the Frosty and quench the thirst of your guests!"  />
+			<text id="dialogwin_featureUnlocked_marketplace" name="Find new friends at the marketplace!"  />
+			<text id="dialogwin_featureUnlocked_muffinman" name="Try your luck with Muffin Man!"  />
+			<text id="dialogwin_featureUnlocked_ranking" name="Visit other players via the ranking!"  />
+			<text id="dialogwin_featureUnlocked_staff" name="Hire a new waiter in order to be able to serve lots of guests!"  />
+			<text id="dialogwin_featureUnlocked_wheeloffortune" name="Try your luck at the Wheel of Fortune!"  />
+			<text id="dialogwin_FriendShop_copy" name="انت بحاجة {0} لاصدقائك بلشبكة لمساعدتك في بناء القهوى  او تكليف عامل {1} بارع بلذهب!"  />
+			<text id="dialogwin_FriendShop_title" name="أصدقاء جدد"  />
+			<text id="dialogwin_giftbox_close" name="إغلاق"  />
+			<text id="dialogwin_giftbox_friendlist_empty" name="ىمكتك ارسال هدية مرة واحدة فقظ في اليوم لكل صديق في الشبكة."  />
+			<text id="dialogwin_giftbox_friendlist_notavailable" name="يمكنك إرسال قبالة الغد الهدايا  لأصدقائك!"  />
+			<text id="dialogwin_giftbox_ggsgifts_empty" name="لا توجد هديا!لكن مع المكافأت اليومية يمكنك الحصول على هدايا مجانية ."  />
+			<text id="dialogwin_giftbox_mygifts_empty" name="لم يرسل لك اي هدية,ارسل الى اصدقائك هدية, ربما يرسلون لك واحدة ردا على هديتك."  />
+			<text id="dialogwin_giftbox_remove" name="التخلي عن"  />
+			<text id="dialogwin_giftbox_send" name="تقدم"  />
+			<text id="dialogwin_giftbox_sendablegifts_empty" name="اليوم ، هناك للأسف لا توجد هدايا."  />
+			<text id="dialogwin_giftbox_title" name="الهدايا!"  />
+			<text id="dialogwin_giftbox_use" name="استخدام"  />
+			<text id="dialogwin_highscore_luxury" name="الفخامة"  />
+			<text id="dialogwin_highscore_name" name="إسم"  />
+			<text id="dialogwin_highscore_rank" name="رتب"  />
+			<text id="dialogwin_highscore_searchtext" name="البحث عن الإسم وترتيب"  />
+			<text id="dialogwin_highscore_title" name="الترتيب"  />
+			<text id="dialogwin_ingamehelp_1_1" name="How do I cook a dish?"  />
+			<text id="dialogwin_ingamehelp_1_2" name="Use the stoves to prepare dishes for your guests. In order to do so, you need to select a recipe and cook it by clicking several times."  />
+			<text id="dialogwin_ingamehelp_1_3" name="You will find an overview of all recipes and needed ingredients in the cookbook."  />
+			<text id="dialogwin_ingamehelp_1_4" name="You will find the ingredients needed for your recipe in the ingredients shop."  />
+			<text id="dialogwin_ingamehelp_1_5" name="When you have gathered all the ingredients, you can click on cook and prepare a dish."  />
+			<text id="dialogwin_ingamehelp_1_6" name="A dish is ready after a pre-defined amount of time. You can put it on the counter in order to serve it."  />
+			<text id="dialogwin_ingamehelp_1_7" name="A used stove is dirty and must be cleaned before the next use."  />
+			<text id="dialogwin_ingamehelp_2_1" name="What do I need to know about ingredients?"  />
+			<text id="dialogwin_ingamehelp_2_2" name="This is where you store the ingredients you purchased. Every fridge has limited capacities. But it is always good to buy an inventory."  />
+			<text id="dialogwin_ingamehelp_2_3" name="Fancy ingredients will add spice to your dishes. If you use them, you get more portions and XP. They also do not take up space in your fridge."  />
+			<text id="dialogwin_ingamehelp_2_4" name="Some ingredients are unavailable sometimes. The courier can help you with this. For a small tip, you&#039;ll always have everything you need."  />
+			<text id="dialogwin_ingamehelp_2_5" name="These ingredients are always available:"  />
+			<text id="dialogwin_ingamehelp_3_1" name="Values and Co."  />
+			<text id="dialogwin_ingamehelp_3_2" name="You get experience points by serving dishes. Other possibilities are: Waitressing in other cafes, the successful existence of Co-Ops, awards or serving drinks."  />
+			<text id="dialogwin_ingamehelp_3_3" name="Your popularity decides how many guests visit you. Your popularity increase when guests leave your cafe satisfied. But it can also go down when guests are dissatisfied. Guests are satisfied when they get something to eat."  />
+			<text id="dialogwin_ingamehelp_3_4" name="You earn Cafédollars by selling meals. Other options are: working as a server, successful Co-Ops or achievements."  />
+			<text id="dialogwin_ingamehelp_3_5" name="Every item in the renovation menu has a luxury value. This will influence your popularity. The more luxurious the better..."  />
+			<text id="dialogwin_ingamehelp_3_6" name="You will find stoves, counters, tables and other items of furniture in the renovation menu. Get creative!"  />
+			<text id="dialogwin_ingamehelp_3_7" name="Should your cafe become too small, you have the option of expanding and making more room for your guests."  />
+			<text id="dialogwin_ingamehelp_4_1" name="What else do I need to know?"  />
+			<text id="dialogwin_ingamehelp_4_2" name="You can get to know other players, look for work or just chat with other players at the marketplace."  />
+			<text id="dialogwin_ingamehelp_4_3" name="You get achievements for all kinds of actions and they are also an additional source for XP and Cafédollars."  />
+			<text id="dialogwin_ingamehelp_4_4" name="By using the marketplace, you can hire other players as waiters in your cafe or become a waiter for someone else yourself."  />
+			<text id="dialogwin_ingamehelp_4_5" name="A Co-Op is a collective cooking project, which you can play with other players. There is a reward waiting in case of success."  />
+			<text id="dialogwin_ingamehelp_4_6" name="Your waiters serve the finished dishes to your waiting customers and clean the dirty dishes off the tables as well."  />
+			<text id="dialogwin_ingamehelp_4_7" name="Already cooked dishes that are not put on a counter in time will spoil."  />
+			<text id="dialogwin_ingamehelp_ingredients" name="Ingredients"  />
+			<text id="dialogwin_ingredient_all" name="جميع"  />
+			<text id="dialogwin_ingredient_emptyfridge" name="للاسف الثلاجة فارغة ,ليكون بإمكانك تحضير طعام جديد يتوجب عليك  التسوق للحصول على مكونات الطعام."  />
+			<text id="dialogwin_ingredient_fancy" name="المكونات الخاصة"  />
+			<text id="dialogwin_ingredient_fruits" name="الفواكه"  />
+			<text id="dialogwin_ingredient_instore" name="xمخزن"  />
+			<text id="dialogwin_ingredient_meat" name="اللحوم"  />
+			<text id="dialogwin_ingredient_notinstock" name="اليوم ليس هنا!"  />
+			<text id="dialogwin_ingredient_shoplayer" name="المكونات للتسوق"  />
+			<text id="dialogwin_ingredient_storecapacity" name="القدرة:"  />
+			<text id="dialogwin_ingredient_storeinused" name="في الثلاجة:"  />
+			<text id="dialogwin_ingredient_storelayer" name="ثلاجة"  />
+			<text id="dialogwin_ingredient_vegatable" name="نباتي"  />
+			<text id="dialogwin_instantcooking_copy" name="Do you want to apply Instant Cooking?
+Still {0} times possible!"  />
+			<text id="dialogwin_instantcooking_title" name="هل تريد انهاء الطبخ  فورا؟"  />
+			<text id="dialogwin_jobpaycheck_copy" name="النادل المجتهد له مكافأة مع اكرامية المال!
+ويمكنك جمع الخبرة."  />
+			<text id="dialogwin_jobpaycheck_title" name="تسوية"  />
+			<text id="dialogwin_levelup_copy" name="لقد وصلت إلى مستوى جديد"  />
+			<text id="dialogwin_levelup_copy_1" name="Your reward:"  />
+			<text id="dialogwin_levelup_copy_2" name="Activated for you:"  />
+			<text id="dialogwin_levelup_title" name="لأعلى مستوى"  />
+			<text id="dialogwin_lonelyingredient_copy" name="وقد وجدت خادمك صندوق مع مكونات سرية! أعطيهم لأصدقائك!"  />
+			<text id="dialogwin_lonelyingredient_title" name="مفاجأة!"  />
+			<text id="dialogwin_lonelytip_copy" name="وقد أعطى ضيف لك الكثير من المال !أعطي قسم لأصدقائك!"  />
+			<text id="dialogwin_lonelytip_title" name="مر حى!"  />
+			<text id="dialogwin_muffinman_beforebet" name="اختيار المبلغ الخاص بك. عندما تفوز تاخذه مرتين !"  />
+			<text id="dialogwin_muffinman_btn_again" name="مرة أخرى!"  />
+			<text id="dialogwin_muffinman_btn_go" name="الذهاب!"  />
+			<text id="dialogwin_muffinman_header" name="البحث عن التعبئة"  />
+			<text id="dialogwin_muffinman_lostbet" name="سيئ للغاية. يمكن للمرء أيضا لا يفوز دائما! ربما في المرة القادمة..."  />
+			<text id="dialogwin_muffinman_nomoney" name="لم يكن لديك ما يكفي من القهوة الدولار / الذهب لهذا التطبيق!"  />
+			<text id="dialogwin_muffinman_nopayment" name="إذا كنت تريد أن تلعب على الذهب يجب عليك ان تشتري على الافل مرة واحدة!"  />
+			<text id="dialogwin_muffinman_noregister" name="انت فقط يسمح لك  كلاعب مسجل، &quot;ابحث عن التعبئة للعب &quot;!"  />
+			<text id="dialogwin_muffinman_nosale" name="لا يجوز لك بيع خباز الكعك !"  />
+			<text id="dialogwin_muffinman_onlyonebuy" name="يمكنك وضع فقط خباز الكعك في مقهى الخاص بك!"  />
+			<text id="dialogwin_muffinman_placedbet" name="جيد جدا! في اية كعكة توجد الحشوه?"  />
+			<text id="dialogwin_muffinman_toohighbet" name="You can&#039;t bet that much! Your maximum bet is {0} Gold and {1} Cafédollars!"  />
+			<text id="dialogwin_muffinman_wonbet" name="م م م ، لذيذ! انت وجدت الحشوه! انها مجرد محاولة وحاول مرة أخرى."  />
+			<text id="dialogwin_nomoney_avatarchange" name="You haven&#039;t got enough Gold to change clothes!"  />
+			<text id="dialogwin_nomoney_clean_copy" name="لم يكن لديك ما يكفي من القهوة دولار لتنظيف الفرن الخاص بك."  />
+			<text id="dialogwin_nomoney_copy" name="عفوا ، لسوء الحظ ليس لديك ما يكفي من القهوةالدولار / الذهب لشراء هذا المنتج!"  />
+			<text id="dialogwin_nomoney_courier" name="ليس عندك مقهى الدولار او الذهب الكافي للدفع للساعي!"  />
+			<text id="dialogwin_nomoney_instantcook_copy" name="لم يكن لديك ما يكفي من القهوة دولار للاستعداد لطهي الطعام على الفور."  />
+			<text id="dialogwin_nomoney_moregold" name="مقهى الدولار/ذهب   شراء"  />
+			<text id="dialogwin_nomoney_npchire" name="ليس عندك الذهب الكافي لتوظيف نادل جديد!"  />
+			<text id="dialogwin_nomoney_ok" name="موافق"  />
+			<text id="dialogwin_nomoney_title" name="لا يكفي مقهى الدولار  / الذهب"  />
+			<text id="dialogwin_noreward_copy" name="لسوء الحظ  المكافاة اخذها  لاعب آخر!"  />
+			<text id="dialogwin_noreward_title" name="للا سف!"  />
+			<text id="dialogwin_perfectdish_copy" name="طبختك  اليوم {0}  جيدة جدا ! أعطي قسم لأصدقائك!"  />
+			<text id="dialogwin_perfectdish_title" name="جيد!"  />
+			<text id="dialogwin_presentreceived_copy" name="Your welcome present of {0} has been added to your account."  />
+			<text id="dialogwin_presentreceived_title" name="Gift received!"  />
+			<text id="dialogwin_presentreminder_btn_send" name="Send"  />
+			<text id="dialogwin_presentreminder_copy1" name="Simply click on the gold link in the e-mail and collect {0} gold!"  />
+			<text id="dialogwin_presentreminder_copy2" name="Yes, send {0} Gold to my e-mail address now:"  />
+			<text id="dialogwin_presentreminder_title" name="{0} gold for you!"  />
+			<text id="dialogwin_receiveitem_copy" name="تجد مكافاتك في صندوق الهدايا الخاص بك"  />
+			<text id="dialogwin_receiveitem_title" name="مر حى!"  />
+			<text id="dialogwin_receivemoney_copy" name="مكافاتك اصبحت في رصيدك"  />
+			<text id="dialogwin_receivemoney_title" name="تها نينا!"  />
+			<text id="dialogwin_refreshfood_btn_clean" name="تنظيف"  />
+			<text id="dialogwin_refreshfood_btn_refresh" name="حفظ الطعام"  />
+			<text id="dialogwin_refreshfood_title" name="هل تريد حفظ طعامك ?"  />
+			<text id="dialogwin_register_agbs" name="شروط القبول"  />
+			<text id="dialogwin_register_mail" name="البريد الإلكتروني"  />
+			<text id="dialogwin_register_password" name="كلمة السر"  />
+			<text id="dialogwin_register_title" name="سجل"  />
+			<text id="dialogwin_sendgift_send" name="تقدم"  />
+			<text id="dialogwin_sendgift_titel" name="تقدم ل..."  />
+			<text id="dialogwin_settings_email" name="Block receipt of e-mails"  />
+			<text id="dialogwin_settings_general" name="General"  />
+			<text id="dialogwin_settings_high" name="High"  />
+			<text id="dialogwin_settings_low" name="Low"  />
+			<text id="dialogwin_settings_medium" name="Medium"  />
+			<text id="dialogwin_settings_quality" name="Quality"  />
+			<text id="dialogwin_shippingconfirmation_copy1" name="Click on the link in the e-mail in order to collect the gold."  />
+			<text id="dialogwin_shippingconfirmation_copy2" name="Haven&#039;t gotten the e-mail yet? It can take a couple of minutes. If you can&#039;t find it in the spam folder either at that time, our support will gladly assist you."  />
+			<text id="dialogwin_shippingconfirmation_title" name="Gold e-mail on its way!"  />
+			<text id="dialogwin_smoothiemakerhelp_copy" name="Here you can mix drinks and serve them to your customers.
+Choose a drink and click &quot;mix&quot;.
+
+Just click on a &quot;thirsty&quot; customer before they take a seat to serve a drink.
+The &quot;thirsty&quot; customers are visualized by an icon hovering over their heads."  />
+			<text id="dialogwin_smoothiemakerhelp_title" name="How do I sell drinks?"  />
+			<text id="dialogwin_smoothiemaker_allserved_copy" name="You have served all portions!
+Wait until the Frosty is empty in order to produce new drinks!"  />
+			<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="To the Shop"  />
+			<text id="dialogwin_smoothiemaker_nofrosty_copy" name="You have to purchase a Frosty in order to serve drinks!"  />
+			<text id="dialogwin_smoothiemaker_nomoney_copy" name="You haven&#039;t got enough Cafédollars/Gold to mix this drink!"  />
+			<text id="dialogwin_smoothiemaker_noservings_copy" name="You haven&#039;t got any drinks left!
+Mix something new!"  />
+			<text id="dialogwin_smoothiemaker_onlyonebuy" name="You can only place one Frosty in your cafè!"  />
+			<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY"  />
+			<text id="dialogwin_staffmanagement_btn_fire" name="طرد"  />
+			<text id="dialogwin_staffmanagement_favorite" name="النشاط؟"  />
+			<text id="dialogwin_staffmanagement_favorite0" name="توضيب"  />
+			<text id="dialogwin_staffmanagement_favorite100" name="تقديم"  />
+			<text id="dialogwin_staffmanagement_fire" name="رفض؟"  />
+			<text id="dialogwin_staffmanagement_renamecopy" name="اعطى اسم جديد للنادل :"  />
+			<text id="dialogwin_staffmanagement_renametitle" name="إعادة تسمية؟"  />
+			<text id="dialogwin_staff_hire" name="جرب"  />
+			<text id="dialogwin_staff_management" name="إدارة"  />
+			<text id="dialogwin_staff_new" name="النادل الخاص"  />
+			<text id="dialogwin_staff_title" name="خادمك"  />
+			<text id="dialogwin_welcomeback_text" name="You receive as a present: {0} Gold"  />
+			<text id="dialogwin_welcomeback_text2" name="You receive as a present: {0} Gold and 3 cool fancy ingredients."  />
+			<text id="dialogwin_welcomeback_text3" name=""  />
+			<text id="dialogwin_welcomeback_title" name="Welcome back {0}!"  />
+			<text id="dialogwin_wheeloffortune_beforespin" name="Spin the Wheel of Fortune and win great prizes!"  />
+			<text id="dialogwin_wheeloffortune_btn_go" name="Spin!"  />
+			<text id="dialogwin_wheeloffortune_btn_towheel" name="To the wheel"  />
+			<text id="dialogwin_wheeloffortune_copy1" name="Had a spin on the Wheel of Fortune yet?"  />
+			<text id="dialogwin_wheeloffortune_header" name="WHEEL OF FORTUNE!"  />
+			<text id="dialogwin_wheeloffortune_info" name="The first spin per day is for free!"  />
+			<text id="dialogwin_wheeloffortune_info1" name="Every further spin costs you one Gold!"  />
+			<text id="dialogwin_wheeloffortune_nomoney" name="You haven&#039;t got enough Gold to spin the Wheel of Fortune!"  />
+			<text id="dialogwin_wheeloffortune_noregister" name="Only as a registered player you can spin the Wheel of Fortune!"  />
+			<text id="dialogwin_wheeloffortune_nospace" name="You haven&#039;t got any space in your giftbox for your prizes!Make some space then you can spin the Wheel of Forntune!"  />
+			<text id="dialogwin_wheeloffortune_title" name="The Wheel of Fortune!"  />
+			<text id="dialogwin_wheeloffortune_tryagain" name="Try again!"  />
+			<text id="dialogwin_wheeloffortune_wonbet" name="Congratulations!
+Your price:"  />
+			<text id="dialogwin_wheeloffortune_woncash" name="Congratulations!
+Your price has already been rewarded!"  />
+			<text id="dialogwin_wheeloffortune_wonfood" name="Congratulations!
+You can find your price in your giftbox!"  />
+			<text id="dialogwin_wheeloffortune_wongold" name="You won the pot of Gold!"  />
+			<text id="dialogwin_wheeloffortune_wonitem" name="Congratulations!
+You can find your price in your inventory!"  />
+		</dialogs>
+		<error_codes>
+			<text id="achievement_error" name="جائزة"  />
+			<text id="achievement_errorcode_1" name="خطأ"  />
+			<text id="cafechat_errorcode_23" name="تم تعطيل الدرد شة مؤقتا من قبل المسؤول."  />
+			<text id="cafechat_errorcode_24" name="من فضلك,الدرد شة كاملة غير مسموح للمتطفل!"  />
+			<text id="cafewalk_errorcode_1" name="إنتباه!"  />
+			<text id="cafewalk_errorcode_23" name="لا تستطيع المرور  عند هذه النقطة."  />
+			<text id="cafe_error" name="إنتباه!"  />
+			<text id="changepassword_error" name="تغيير كلمة السر"  />
+			<text id="changepassword_errorcode_0" name="وكان تغيير كلمة المرور بنجاح!"  />
+			<text id="changepassword_errorcode_1" name="خطأ"  />
+			<text id="changepassword_errorcode_10" name="عذرا ، لكن ليست هذه  كلمة السر القديمة الخاصة بك."  />
+			<text id="coop_errorcode_3" name="لديك مستوى منخفض جدا للمشاركة في هذه التعاونية."  />
+			<text id="coop_errorcode_7" name="يمكنك المشاركة في الجمعية التعاونية حتى المستوى {0}."  />
+			<text id="coop_errorcode_85" name="This Co-Op is already full."  />
+			<text id="courier_error" name="مشاكل في التسليم"  />
+			<text id="courier_errorcode_40" name="!قدرة التخزين  الخاصة  بك   ليست كافية!"  />
+			<text id="courier_errorcode_42" name="وفي الوقت نفسه يكون العنصر متوفر في المتجر العادي انظر بسرعة!"  />
+			<text id="courier_errorcode_43" name="ساعي البريد مشغول ولا يمكن تسليم المنتج الخاص بك."  />
+			<text id="createavatar_error" name="!إنتباه!"  />
+			<text id="createavatar_errorcode_12" name="تم منحك الاسم."  />
+			<text id="createavatar_errorcode_15" name=".المستخدم لديه بلفعل رمز."  />
+			<text id="createavatar_errorcode_18" name="الاسم الذي أدخلته غير صحيح."  />
+			<text id="createavatar_error_invalide" name="اسم المستخدم الخاص بك يجب الا يكون فارغا او يحتوي على احرف خاصة."  />
+			<text id="createavatar_error_nogender" name="الرجاء اختيار شخصية!"  />
+			<text id="editbuy_errorcode_1" name="إنتباه!"  />
+			<text id="editbuy_errorcode_3" name="كنت لم تصل بعد إلى مستوى الحد الأدنى لشراء هذه البنود!"  />
+			<text id="editbuy_errorcode_38" name=".يمكنك تغيير المقهى الخاص بك  فقط عند وضع اعادة البناء."  />
+			<text id="editbuy_errorcode_39" name="الموقف غير صحيح اسحب الكائن الى المساحة الفارغة من المقهى الخاص بك."  />
+			<text id="editextend_errorcode_1" name="إنتباه!"  />
+			<text id="editextend_errorcode_38" name="يمكنك تغيير المقهى الخاص بك فقط عند وضع اعادة البناء."  />
+			<text id="editextend_errorcode_53" name="لديك بالفعل هذا التمديد."  />
+			<text id="editextend_errorcode_54" name="هذا التمديد غير مسموح لك شراءه حتى الان."  />
+			<text id="editmode_errorcode_1" name="إنتباه!"  />
+			<text id="editmoveobj_errorcode_1" name="إنتباه!"  />
+			<text id="editmoveobj_errorcode_38" name="يمكنك تغيير المقهى الخاص بك فقط عند وضع اعادة البناء."  />
+			<text id="editmoveobj_errorcode_39" name="الموقف غير صحيح اسحب الكائن الى المساحة الفارغة من المقهى الخاص بك."  />
+			<text id="editrotateobj_errorcode_1" name="إنتباه!"  />
+			<text id="editrotateobj_errorcode_38" name="يمكنك تغيير المقهى الخاص بك فقط عند وضع اعادة البناء."  />
+			<text id="editrotateobj_errorcode_39" name="الموقف غير صحيح اسحب الكائن الى المساحة الفارغة من المقهى الخاص بك."  />
+			<text id="editsell_errorcode_1" name="إنتباه!"  />
+			<text id="editsell_errorcode_32" name="هذاالعنصر غير موجود في المخزن."  />
+			<text id="editsell_errorcode_38" name="يمكنك تغيير المقهى الخاص بك فقط عند وضع اعادة البناء."  />
+			<text id="editsell_errorcode_39" name="الموقف غير صحيح اسحب الكائن الى المساحة الفارغة من المقهى الخاص بك."  />
+			<text id="editstoreobj_errorcode_1" name="إنتباه!"  />
+			<text id="editstoreobj_errorcode_37" name="من هذه المادة لايزال موجودا طبق  الاكل!"  />
+			<text id="editstoreobj_errorcode_38" name="يمكنك تغيير المقهى الخاص بك فقط عند وضع اعادة البناء."  />
+			<text id="editstoreobj_errorcode_39" name="الموقف غير صحيح اسحب الكائن الى المساحة الفارغة من المقهى الخاص بك."  />
+			<text id="editstoreobj_errorcode_51" name="الحقل فارغ لايوجد هنا شيء للبيع."  />
+			<text id="editstoreobj_removefailmin_counter" name="يجب على الأقل يكون عندك  بار."  />
+			<text id="editstoreobj_removefailmin_fridge" name="يجب على الأقل يكون عندك براد."  />
+			<text id="editstoreobj_removefailmin_stove" name="يجب على الأقل يكون عندك فرن."  />
+			<text id="editstoreobj_removefailmin_title" name="إنتباه!"  />
+			<text id="editstoreobj_removefail_counter" name="البار  يجب أن يكون فارغاً."  />
+			<text id="editstoreobj_removefail_door" name="عليك أن تتمسك ببابك."  />
+			<text id="editstoreobj_removefail_fridge" name="لديك الكثير من المكونات."  />
+			<text id="editstoreobj_removefail_stove" name="يجب أن يكون الفرن فارغاً."  />
+			<text id="editstoreobj_removefail_title" name="إنتباه!"  />
+			<text id="edit_error" name="إنتباه!"  />
+			<text id="error" name="خطأ"  />
+			<text id="fullscreenerror_msg_copy" name="تكبيرالشاشة غير ممكن"  />
+			<text id="fullscreenerror_msg_title" name="صورة كاملة:"  />
+			<text id="gift_error" name="لا تعمل!"  />
+			<text id="gift_errorcode_20" name="لايوجد لديك بار فارغ لتقدمة طبق الطعام."  />
+			<text id="gift_errorcode_40" name="لا يوجد مكان لديك في التلاجة, لتخزين تلك المكونات."  />
+			<text id="gift_errorcode_5" name="لايمكن تنفيذ العمل لان الهدية غير معروفة"  />
+			<text id="invitefriend_error" name="للاسف فشلت في دعوة صديق."  />
+			<text id="invitefriend_errorcode_13" name="هذا اللاعب مسجل بلفعل!"  />
+			<text id="invitefriend_errorcode_14" name="العنوان البريدي غير صحيح!"  />
+			<text id="jobrefill_error" name="لا تعمل!"  />
+			<text id="jobrefill_errorcode_1" name="حالياً أذو نات العمل قد بيعت."  />
+			<text id="jobrefill_errorcode_61" name="يمكنك ملء أذو نات عملك مرة واحدة  فقط  في اليوم."  />
+			<text id="joincafe_error" name="لا تعمل!"  />
+			<text id="joincafe_errorcode_20" name="مجتمع مغلق. للأسف  لم يعد لأحد مكان في الداخل."  />
+			<text id="joincafe_errorcode_21" name="كنت بالفعل في هذا المقهى!"  />
+			<text id="joincafe_errorcode_22" name="للأسف لم يعد في مقهى!"  />
+			<text id="level_error" name="المقهى خطأ. الرجاء إبلاغ الدعم."  />
+			<text id="level_errorcode_1" name="ليس بامكانك افتتاح مقهى. الرجاء ابلاغ استوديوهات دعم اللعبة الجيدة."  />
+			<text id="login_error" name="إنتباه!"  />
+			<text id="login_errorcode_1" name="خطأ"  />
+			<text id="login_errorcode_12" name="يتم تسجيل المستخدم مسبقا."  />
+			<text id="login_errorcode_13" name="المستخدم مسجل بالفعل."  />
+			<text id="login_errorcode_14" name="الاسم المستخدم أو كلمة مرور غير صحيحة!"  />
+			<text id="login_errorcode_15" name="قد تم تسجيل دخولك"  />
+			<text id="login_errorcode_16" name="الرمز الخاص بك خاطئ الرجاء الاتصال بالدعم."  />
+			<text id="login_errorcode_wronglogin" name="اسم المستخدم أو كلمة مرور غير صحيحة!"  />
+			<text id="lostpassword_error" name="إنتباه!"  />
+			<text id="lostpassword_errorcode_1" name="خطأ"  />
+			<text id="lostpassword_errorcode_11" name="تحت هذا العنوان لم يتم تسجيل اي مستخدم!"  />
+			<text id="marketplace_error" name="السوق"  />
+			<text id="marketplace_errorcode_20" name="السوق هو بالفعل كامل ، حاول مرة أخرى لاحقا."  />
+			<text id="marketplace_errorcode_21" name=".تجد نفسك بالفعل في السوق."  />
+			<text id="npcfire_errorcode_1" name="لا يمكن ان يكون خادمك مفصولا."  />
+			<text id="npchire_errorcode_1" name="الخادم الجديد لايمكن تعيينه."  />
+			<text id="npcrename_errorcode_12" name="اسم غير صالح!"  />
+			<text id="npc_error" name="إنتباه!"  />
+			<text id="register_error" name="فشل سجل"  />
+			<text id="register_errorcode_1" name="خطأ"  />
+			<text id="register_errorcode_10" name="عنوان البريد الإلكتروني الذي قمت بإدخاله غير صحيح"  />
+			<text id="register_errorcode_13" name="عذرا لقد تم تسجيل هذا العنوان البريدي  من قبل لاعب."  />
+			<text id="register_errorcode_14" name="عنوان البريد الإلكتروني الذي قمت بإدخاله غير صحيح."  />
+			<text id="server_msg_10" name="اعادة تشغيل الجهاز الحاسب قريبا سيستمر  اضضغط على اف5 لتحديث هذه الصفحة."  />
+			<text id="server_msg_title" name="رسالة الجهاز الحاسب:"  />
+			<text id="shopbuy_error" name="لا مجال!"  />
+			<text id="shopbuy_errorcode_40" name="الثلاجة  ممتلئة  بالفعل!"  />
+			<text id="shopdelete_errorcode_41" name="المادة غير متوفرة."  />
+			<text id="smoothiemaker_error_alreadyserved" name="This guest is already being served!"  />
+			<text id="useraction_error" name="إنتباه!"  />
+			<text id="useraction_errorcode_2" name="إنتهى عملك !أنت عملت ما يكفي من العم!"  />
+			<text id="useraction_errorcode_62" name="يجب عليك أولا الحصول على الظبق من البار."  />
+			<text id="useraction_errorcode_63" name="قبل ان ترفع الاشياء ,خذ الطبق للضيف او اعده الى البار."  />
+			<text id="versioncheck_error" name="نسخة قديمة!"  />
+			<text id="versioncheck_errorcode_1" name=".تحديث الصفحة."  />
+			<text id="waiter_name_invalide" name="إسم هذا النادل غير مسموح."  />
+		</error_codes>
+		<feature>
+			<text id="featureDialog_0_text_0" name="ديكورات جديدة لجعل المقهى الخاص اكثر جمالا!"  />
+			<text id="featureDialog_0_text_0_sozial" name="اجعل عملك في المقهى مكافاة!"  />
+			<text id="featureDialog_0_text_1" name="اعمل عمل اضافي ي مقهى الدولار تحصل على اكس بي او ذهب مكافاة!"  />
+			<text id="featureDialog_0_text_1_sozial" name="ديكورات جديدة في المحل!"  />
+			<text id="featureDialog_0_text_2" name="اعرف من الذي مازال يلعب في المقهى!"  />
+			<text id="featureDialog_0_text_2_sozial" name="معرفة من مازال  يلعب في المقهى!"  />
+			<text id="featureDialog_10_text_0" name="تريد المزيد من المساحة لضيوفك أو للزينة؟  يمكنك الان الحصول على ملحقات جديدة!"  />
+			<text id="featureDialog_11_text_0" name="جديدة ومثيرة الجمعيات التعاونية لك ولي أصدقائك!"  />
+			<text id="featureDialog_16_text_0" name="يمكنك الان  في مقهكك  لاستما ع    الصوت"  />
+			<text id="featureDialog_16_text_1" name="مع تزيين المخبز الجديد تصبح خباز للمطبخ!"  />
+			<text id="featureDialog_17_text_0" name="عيد ميلاد سعيد! تزين مقهكك الخاص بعيد الميلاد الرائع يجلب لك القطب الشمالي!"  />
+			<text id="featureDialog_18_text_0" name="روح عيد الميلاد المجيد تنتقل  مع أطباق جديدة والجمعيات الجديدة !"  />
+			<text id="featureDialog_19_text_0" name="زيد  محبة مقهى الخاص و جعلها من أجمل مقهى مع الفرش والديكور !"  />
+			<text id="featureDialog_1_text_0" name="دع عمللك في المقهى مكافأة!"  />
+			<text id="featureDialog_1_text_1" name="الديكورات الجديدة في المحل!"  />
+			<text id="featureDialog_1_text_2" name="معرفة من مازال يلعب في المقهى!"  />
+			<text id="featureDialog_20_text_0" name="افعل من اطباقك قائمة النجوم اللذيذة!"  />
+			<text id="featureDialog_20_text_1" name="فقط اسبوع! لآخر فرصة للزينة عيد الميلاد وأطباق الشتاء!"  />
+			<text id="featureDialog_21_text_0" name="ادهش ضيوفك مع اطباق جديدة و لذيذة!"  />
+			<text id="featureDialog_22_text_0" name="جوائز جديدة في انتظاركم وتساعدك على أن تصبح أكثر نجاحا!"  />
+			<text id="featureDialog_23_text_0" name="Cooking together is more fun! The new Co-Ops await you!"  />
+			<text id="featureDialog_24_text_0" name="في عيد الفصح كان الأرنب مجتهد. والديكورات الجديدة موجودة!"  />
+			<text id="featureDialog_24_text_1" name="Never ever has poultry been so profitable!
+Discover the Duck à l&#039;orange!"  />
+			<text id="featureDialog_25_text_0" name="How lucky are you?
+Try your luck on the new Muffin baker!"  />
+			<text id="featureDialog_26_text_0" name="How lucky are you? Spin the Wheel of Fortune on the Market place!"  />
+			<text id="featureDialog_27_text_0" name="Boost your popularity with the new cotton candy machine!
+Available at the Wheel of Fortune!"  />
+			<text id="featureDialog_28_text_0" name="TODAY ONLY! This is your last chance to spin the wheel and win the cotton candy machine!"  />
+			<text id="featureDialog_29_text_0" name="From now on you can change your character&#039;s clothes at any time!"  />
+			<text id="featureDialog_2_text_0" name="تلبية الاعبين الاخرين للدرد شة!"  />
+			<text id="featureDialog_2_text_1" name="موضوعات المعدات للمطعم الجديد!"  />
+			<text id="featureDialog_2_text_2" name="بناء مقهى الخاص أكثر من ذلك!"  />
+			<text id="featureDialog_30_text_0" name="More space in your fridge!
+Your fancy ingredients will no longer take up any space in your fridge. You can store as many as you like."  />
+			<text id="featureDialog_30_text_1" name="Starting immediately you can buy expansions using Cafédollars!"  />
+			<text id="featureDialog_31_text_0" name="More space in your fridge!
+From now on, the fancy ingredients will no longer be included in the capacity of your fridge. You can store as many of them as you want."  />
+			<text id="featureDialog_31_text_1" name="From now on, you will receive expansions for free as long as you have enough friends."  />
+			<text id="featureDialog_32_text_0" name="Are your guests thirsty?
+Then get your own Frosty quickly and fresh them up!"  />
+			<text id="featureDialog_33_text_0" name="Discover the omelette!
+The new and quick dish in your cookbook!"  />
+			<text id="featureDialog_3_text_0" name="اذا عملت نادل في مقاهي اخرى ستكسب مقهى دولار واكس بي!"  />
+			<text id="featureDialog_3_text_1" name="أطباق جديدة ولذيذة  ستكون  مفاجئة لضيوفك!"  />
+			<text id="featureDialog_4_text_0" name="تعرف على اصدقاء جدد في السوق!"  />
+			<text id="featureDialog_4_text_1" name="ديكور جديد لمقهى العشاء الخاص  بك ليتغير الشكل الفردي!"  />
+			<text id="featureDialog_5_text_0" name="زد ارباحك مع الاكس بي واطباق طعامك مع الجديد من مكونات الفانسي&lt;نبات صيني !"  />
+			<text id="featureDialog_6_text_0" name="إستلم الهدايا وارسلها عبرة صندوق الهدية!"  />
+			<text id="featureDialog_6_text_1" name="يمكنكم اعادةالاطباق المكوتات الفانسي من جديد لزيادة الارباح الخاصة بكم!"  />
+			<text id="featureDialog_7_text_0" name="احضر الكابوي الى مقهاك مع معدات الصالون الجديدة!"  />
+			<text id="featureDialog_8_text_0" name="محاكم جديدة مبهرة ابتهاج الضيوف لكم!"  />
+			<text id="featureDialog_9_text_0" name="اكتشف مكانك في التصنيف الجديد!"  />
+			<text id="featureDialog_9_text_1" name="في الفريق الواحد انتم اقوياء اختيروها مع المشاريع التعاونية الجديدة!"  />
+			<text id="featureDialog_9_text_2" name="كن مستعدا للقشعريرة مع الزي الجديد للهلوين!"  />
+			<text id="featureDialog_title" name="ميزات جديدة"  />
+			<text id="limitedfeatureDialog_12_copy_0" name="اشتري الان زينة الهلوين العرض لوقت محد ود فقط!"  />
+			<text id="limitedfeatureDialog_12_copy_1" name="مازال 4ايام!"  />
+			<text id="limitedfeatureDialog_13_copy_0" name="اشتري الان زينة الهلوين العرض لوقت محد ود فقط!"  />
+			<text id="limitedfeatureDialog_13_copy_1" name="مازال 3 ايام!"  />
+			<text id="limitedfeatureDialog_14_copy_0" name="اشتري الان زينة الهلوين العرض فقط لوقت محد ود!"  />
+			<text id="limitedfeatureDialog_14_copy_1" name="مازال يومان!"  />
+			<text id="limitedfeatureDialog_15_copy_0" name="اشتري الان زينة الهلوين  العرض فقط لوقت محد ود!"  />
+			<text id="limitedfeatureDialog_15_copy_1" name="فقط  اليوم!"  />
+			<text id="limitedfeatureDialog_2_copy_0" name="شتري الان زينة الهلوين العرض فقط لوقت محد ود!"  />
+			<text id="limitedfeatureDialog_3_copy_0" name="فصل الشتاء يقترب من النهاية! ديكورات الشتاء ليست سوى ضيق الوقت المتاح!"  />
+			<text id="limitedfeatureDialog_5_copy_0" name="Buy your Easter decorations!
+Available for limited time only!"  />
+			<text id="limitedfeatureDialog_time" name="مازال {0} ايام!"  />
+			<text id="limitedfeatureDialog_time_single" name="فقط  اليوم!"  />
+			<text id="limitedfeatureDialog_title" name="انتبه!"  />
+		</feature>
+		<feeds>
+			<text id="descriptionfeedcafe" name="I just installed Goodgame Café. Would you also like to open your own café and prepare delicious meals? Then come and have a look!"  />
+			<text id="descriptionlongcafe" name="Goodgame Café is the brand new title from Goodgame Studios. Open your own café and amaze your many customers with your cooking skills. Hire your friends and shop for ingredients right now! Decide what’s on the menu today and grow your business. Your café will be the most popular meeting point in town!"  />
+		</feeds>
+		<ingame_tooltips>
+			<text id="fridgetooltip_line1" name="بَرَّاد"  />
+			<text id="fridgetooltip_line2" name="إنقر للفتح"  />
+			<text id="muffinmantooltip_line1" name="Muffin baker"  />
+			<text id="muffinmantooltip_line2" name="البحث عن لعبة التعبئة"  />
+			<text id="player_action" name="الإجراءات :"  />
+			<text id="player_working" name="وقت العمل"  />
+			<text id="preparestep_cleaning" name="تنظيف الفرن"  />
+			<text id="preparestep_serving" name="تقديم الطعام"  />
+			<text id="smoothiemaker_line1" name="Frosty"  />
+			<text id="smoothiemaker_line2" name="Click to mix!"  />
+			<text id="stovetooltip_clean1" name="فرن غير نظيف"  />
+			<text id="stovetooltip_clean2" name="إضغط  لتنظيف"  />
+			<text id="stovetooltip_empty1" name="طاولة فارغة"  />
+			<text id="stovetooltip_empty2" name="إطبخ شيء"  />
+			<text id="stovetooltip_free" name="إضغط لطبخ"  />
+			<text id="stovetooltip_full1" name=":جاهز لتحضير"  />
+			<text id="stovetooltip_full2" name="أجزاء"  />
+			<text id="stovetooltip_prepare1" name="إضغط ل"  />
+			<text id="stovetooltip_ready1" name="وجبة فاسدة حتى"  />
+			<text id="stovetooltip_ready2" name="إضغط هنا لتحضير"  />
+			<text id="stovetooltip_spoiled1" name="فاسد"  />
+			<text id="stovetooltip_spoiled2" name="إضغط لتمسيح"  />
+			<text id="wheeloffortunetooltip_line1" name="Wheel of Fortune!"  />
+			<text id="wheeloffortunetooltip_line2" name="Click to play!"  />
+			<text id="wheeloffortunetooltip_line3" name="First spin for free"  />
+		</ingame_tooltips>
+		<ingredients>
+			<text id="ingredient_apple" name="التُفَّاح"  />
+			<text id="ingredient_bacon" name="لحم  مقدد"  />
+			<text id="ingredient_bakingmix" name="شواء المزيج"  />
+			<text id="ingredient_ballpepper" name="الفلفل"  />
+			<text id="ingredient_banana" name="موز"  />
+			<text id="ingredient_basil" name="حَبَق"  />
+			<text id="ingredient_beans" name="فاصوليا"  />
+			<text id="ingredient_beetroot" name="شمندر"  />
+			<text id="ingredient_butter" name="زبدة"  />
+			<text id="ingredient_carrots" name="الجزر"  />
+			<text id="ingredient_cheese" name="جبنة"  />
+			<text id="ingredient_cherries" name="كَرَز"  />
+			<text id="ingredient_chicken" name="دَجَاجَ"  />
+			<text id="ingredient_chili" name="الفلفل الحار"  />
+			<text id="ingredient_chocolate" name="شوكولا"  />
+			<text id="ingredient_cinnamon" name="قرفة"  />
+			<text id="ingredient_cocktailcherry" name="Cocktail Cherry"  />
+			<text id="ingredient_coconut" name="جوز الهند"  />
+			<text id="ingredient_cookies" name="البَسْكَوِيت"  />
+			<text id="ingredient_coriander" name="كزبرة"  />
+			<text id="ingredient_cream" name="كريم"  />
+			<text id="ingredient_cucumber" name="خِيَار"  />
+			<text id="ingredient_curryspice" name="الكاري"  />
+			<text id="ingredient_duck" name="البطة"  />
+			<text id="ingredient_eggplant" name="الباذنجان"  />
+			<text id="ingredient_eggs" name="بيض"  />
+			<text id="ingredient_fish" name="سَمَكَ"  />
+			<text id="ingredient_flour" name="دقيق"  />
+			<text id="ingredient_garlic" name="الثوم"  />
+			<text id="ingredient_horseradish" name="فجل حار"  />
+			<text id="ingredient_kidney" name="الكلاوي"  />
+			<text id="ingredient_lettuce" name="سلطة"  />
+			<text id="ingredient_maplesyrup" name="شراب القيقب"  />
+			<text id="ingredient_meat" name="اللحمة"  />
+			<text id="ingredient_milk" name="الحليب"  />
+			<text id="ingredient_mincemeat" name="الحمة المفرومة"  />
+			<text id="ingredient_nutmeg" name="جَوْزُ الطِّيب"  />
+			<text id="ingredient_oil" name="الزيت"  />
+			<text id="ingredient_onion" name="بصل"  />
+			<text id="ingredient_orange" name="برتقال"  />
+			<text id="ingredient_parsley" name="بَقْدُونَس"  />
+			<text id="ingredient_pasta" name="معكرونة"  />
+			<text id="ingredient_peas" name="بازلاء"  />
+			<text id="ingredient_pinapple" name="أناناس"  />
+			<text id="ingredient_potato" name="البطاطا"  />
+			<text id="ingredient_quark" name="لبنة"  />
+			<text id="ingredient_rhubarb" name="راوند"  />
+			<text id="ingredient_rice" name="الارز"  />
+			<text id="ingredient_rosemary" name="روزماري او اكليل الجبل"  />
+			<text id="ingredient_sausages" name="نقانق"  />
+			<text id="ingredient_spicemix" name="مزيج التوابل"  />
+			<text id="ingredient_strawberry" name="الفراولة"  />
+			<text id="ingredient_sugar" name="سُكَّر"  />
+			<text id="ingredient_sweetcorn" name="الذرة"  />
+			<text id="ingredient_tofu" name="التوفو"  />
+			<text id="ingredient_tomato" name="طماطم"  />
+			<text id="ingredient_turkeymix" name="مزيج الديك الحبشي"  />
+			<text id="ingredient_vanilla" name="فانِيليَا"  />
+			<text id="ingredient_vegiemix" name="مزيج الخضار"  />
+			<text id="ingredient_whitechocolat" name="شوكو الأبيض"  />
+		</ingredients>
+		<loggedin_msg id=""  />
+		<panels>
+			<text id="panelwin_buddy_btn_morefriends" name="المزيد من الأصدقاء!"  />
+			<text id="panelwin_deco_dragtip_copy" name="لاستخدام هذا الكائن ، اسحبه في مقهى الخاص."  />
+			<text id="panelwin_deco_dragtip_title" name="ملاحظة"  />
+			<text id="panelwin_deco_nomore_expansion" name="التعزيزات القادمة غير متاحة."  />
+			<text id="panelwin_deco_objectcount_counter" name="يجب ان تصل الى مستوى {0} لشراء  بار اخر او يمكن شراء بار قديم بالسحب من هنا في المقهى  لشراء واحد اخر."  />
+			<text id="panelwin_deco_objectcount_fridge" name="يجب ان تصل الى مستوى {0} لشراء براد اخر او يمكن شراء براد قديم بالسحب من هنا في المقهى  لشراء واحد اخر."  />
+			<text id="panelwin_deco_objectcount_nomore_counter" name="أولا لا يمكنك شراء المزيد من البارات!"  />
+			<text id="panelwin_deco_objectcount_nomore_fridge" name="أولا لا يمكنك شراء المزيد من الثلاجات!"  />
+			<text id="panelwin_deco_objectcount_nomore_stove" name="أولا لا يمكنك شراء المزيد من الافران!"  />
+			<text id="panelwin_deco_objectcount_stove" name="يجب ان تصل الى مستوى {0} لشراءفرن اخر او يمكن شراء فرن قديم بالسحب من هنا في المقهى  لشراء واحد اخر."  />
+			<text id="panelwin_login_email" name="اسم المستخدم / البريد الإلكتروني"  />
+			<text id="panelwin_login_login" name="الدخول"  />
+			<text id="panelwin_login_lostpassword" name="نسيت كلمة السر؟"  />
+			<text id="panelwin_login_password" name="كلمة السر"  />
+			<text id="panelwin_login_play" name="إلعب الآن"  />
+			<text id="panelwin_login_register" name="التسجيل"  />
+			<text id="panelwin_login_rememberpassword" name="حفظ كلمة المرور"  />
+			<text id="panelwin_name_cafe" name="مقهى"  />
+			<text id="panelwin_social_bot" name="مقهى الدرد شة"  />
+			<text id="panelwin_social_comein" name="دخل المقهى"  />
+			<text id="panelwin_social_comeinmarketplace" name="دخلت السوق"  />
+			<text id="panelwin_social_goout" name="وقد غادر المقهى"  />
+			<text id="panelwin_social_gooutmarketplace" name="وقد ترك السوق"  />
+			<text id="panelwin_social_noingamefriends" name="لا يوجد لديك أصدقاء!"  />
+			<text id="panelwin_social_noplayerincafe" name="حاليا أنت وحدك هنا."  />
+			<text id="panelwin_social_say" name=":"  />
+			<text id="panelwin_social_standardanswer" name="يمكنك   الدرد شة      قريبا مع بقية اللاعبين في المقهى !"  />
+			<text id="panelwin_social_welcome_marketplace" name="أهلا وسهلا! انقر على اللوحة  السوداء إذا كنت تبحث عن وظيفة!"  />
+			<text id="panelwin_social_welcome_mycafe" name="مرحبا بكم"  />
+			<text id="panelwin_social_writeable" name="ألاعبين المسجلين فقط من المستوى 1 يمكنهم إستخدام الدرد شة."  />
+		</panels>
+		<preparestep>
+			<text id="preparestep_bananasplit_banana" name="تقشير الموز"  />
+			<text id="preparestep_bananasplit_chocolate" name="تقطيع الشوكولا"  />
+			<text id="preparestep_bananasplit_cream" name="خفق الكريما"  />
+			<text id="preparestep_bananasplit_milk" name="قياس الحليب"  />
+			<text id="preparestep_bananasplit_sugar" name="وزن السكر"  />
+			<text id="preparestep_blackforestcherrycake_chocolate" name="إبشر الشوكولاته"  />
+			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="نظيف الكرز"  />
+			<text id="preparestep_blackforestcherrycake_cream" name="خفق الكريما"  />
+			<text id="preparestep_blackforestcherrycake_flour" name="نخل الطحين"  />
+			<text id="preparestep_cheeseburger_cheese" name="تقطيع الجبن"  />
+			<text id="preparestep_cheeseburger_flour" name="غربلة الطحين"  />
+			<text id="preparestep_cheeseburger_mincemeat" name="تبهير اللحم المفروم"  />
+			<text id="preparestep_cheeseburger_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_cheesedish_cheese" name="تقطيع الجبنة"  />
+			<text id="preparestep_cheesefondue_cheese" name="تذويب الجبنة"  />
+			<text id="preparestep_cheesefondue_flour" name="غربلة الطحين"  />
+			<text id="preparestep_cheesefondue_garlic" name="تنعيم  الثوم"  />
+			<text id="preparestep_cherriecake_cherries" name="طبخ الكرز"  />
+			<text id="preparestep_cherriecake_cream" name="خفق الكريما"  />
+			<text id="preparestep_cherriecake_flour" name="نخل الطحين"  />
+			<text id="preparestep_cherriecake_sugar" name="وزن السكر"  />
+			<text id="preparestep_cherrycompote_cherries" name="نزع البذور الكرز"  />
+			<text id="preparestep_cherrycompote_sugar" name="تحضير الكراميل بالسكر"  />
+			<text id="preparestep_chickenburger_chicken" name="تقسم الدجاج"  />
+			<text id="preparestep_chickenburger_cucumber" name="تقطيع الخيار"  />
+			<text id="preparestep_chickenburger_flour" name="نخل الطحين"  />
+			<text id="preparestep_chickenburger_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_chickensalad_chicken" name="تحضير الدجاج"  />
+			<text id="preparestep_chickensalad_lettuce" name="غسل الخس"  />
+			<text id="preparestep_chickensalad_onion" name="فرم البصل"  />
+			<text id="preparestep_chickensalad_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_chickensoup_bacon" name="قطع لحم  المقدد"  />
+			<text id="preparestep_chickensoup_chicken" name="تقسم الدجاج"  />
+			<text id="preparestep_chickensoup_onion" name="فرم البصل"  />
+			<text id="preparestep_chickensoup_pasta" name="وزن المعكرونة"  />
+			<text id="preparestep_chiliconcarne_bacon" name="شريح شحم الخنزير"  />
+			<text id="preparestep_chiliconcarne_beans" name="نقع الفاصوليا"  />
+			<text id="preparestep_chiliconcarne_mincemeat" name="تبهير اللحم المفروم"  />
+			<text id="preparestep_chiliconcarne_onion" name="فرم البصل"  />
+			<text id="preparestep_chiliconcarne_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_chocmousse_chocolate" name="تذويب الشوكلا"  />
+			<text id="preparestep_chocmousse_cream" name="خفق الكريما"  />
+			<text id="preparestep_chocmousse_eggs" name="فصل البيض"  />
+			<text id="preparestep_chocolatecake_chocolate" name="تذويب  الشوكلا"  />
+			<text id="preparestep_chocolatecake_cream" name="خفق الكريما"  />
+			<text id="preparestep_chocolatecake_eggs" name="فصل البيض"  />
+			<text id="preparestep_chocolatecake_flour" name="غربلة الطحين"  />
+			<text id="preparestep_chocolatecheesecake_chocolate" name="طحن الشكولاتة"  />
+			<text id="preparestep_chocolatecheesecake_cookies" name="تفتيت البسكويت"  />
+			<text id="preparestep_chocolatecheesecake_milk" name="قياس الحليب"  />
+			<text id="preparestep_chocolatecheesecake_quark" name="مزيج الجبن"  />
+			<text id="preparestep_chocolatefondue_chocolate" name="تذوق الشوكولاته"  />
+			<text id="preparestep_chocolatefondue_cream" name="قياس الكريما"  />
+			<text id="preparestep_chocolatefondue_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_christmasturkey_turkeymix" name="إعداد  مزيج الديك الحبشي"  />
+			<text id="preparestep_christmasturkey_vegiemix" name="ذوبان الخضروات"  />
+			<text id="preparestep_cookieplate_butter" name="تذويب الزبدة"  />
+			<text id="preparestep_cookieplate_chocolate" name="طحن  الشكولاتة"  />
+			<text id="preparestep_cookieplate_flour" name="نخل الطحين"  />
+			<text id="preparestep_cookieplate_sugar" name="تحضير الكراميل بالسكر"  />
+			<text id="preparestep_cornonthecob_butter" name="رقائق زبدة"  />
+			<text id="preparestep_cornonthecob_lettuce" name="غسل الخس"  />
+			<text id="preparestep_cornonthecob_sweetcorn" name="تنظيف الذرة"  />
+			<text id="preparestep_curry_ballpepper" name="تقطيع الفلفل او الفليفلة"  />
+			<text id="preparestep_curry_coconut" name="تكسير جوزة الهند"  />
+			<text id="preparestep_curry_curryspice" name="تعيير الكاري"  />
+			<text id="preparestep_curry_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_curry_peas" name="غلي البازيلاء"  />
+			<text id="preparestep_duckalorange_butter" name="تذويب الزبدة"  />
+			<text id="preparestep_duckalorange_duck" name="إعداد بطة"  />
+			<text id="preparestep_duckalorange_onion" name="فرم البصل"  />
+			<text id="preparestep_duckalorange_orange" name="تقشير البرتقال"  />
+			<text id="preparestep_easterdish_chocolate" name="تذوق الشوكولاته"  />
+			<text id="preparestep_easterdish_eggs" name="عدد البيض"  />
+			<text id="preparestep_englishbreakfast_beans" name="طبخ اللوبياء"  />
+			<text id="preparestep_englishbreakfast_eggs" name="خفق البيض"  />
+			<text id="preparestep_englishbreakfast_flour" name="غربلة الطحين"  />
+			<text id="preparestep_englishbreakfast_sausages" name="عد النقانق"  />
+			<text id="preparestep_fishandchips_fish" name="تحضير السمك"  />
+			<text id="preparestep_fishandchips_flour" name="غربلة الطحين"  />
+			<text id="preparestep_fishandchips_oil" name="تسخين الزيت"  />
+			<text id="preparestep_fishandchips_peas" name="غلي البازيلاء"  />
+			<text id="preparestep_fishandchips_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_friedpotatoes_bacon" name="قلي شحم الخنزير"  />
+			<text id="preparestep_friedpotatoes_onion" name="فرم البصل"  />
+			<text id="preparestep_friedpotatoes_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_fruitpudding_bakingmix" name="تحريك المزيج"  />
+			<text id="preparestep_fruitpudding_spicemix" name="وزن التوابل"  />
+			<text id="preparestep_fruitsalad_apple" name="تقشير التفاح"  />
+			<text id="preparestep_fruitsalad_banana" name="تقشير الموز"  />
+			<text id="preparestep_fruitsalad_cherries" name="نزع البذور الكرز"  />
+			<text id="preparestep_fruitsalad_orange" name="تقشير البرتقال"  />
+			<text id="preparestep_greensalad_lettuce" name="غسل الخس"  />
+			<text id="preparestep_greensalad_onion" name="فرم البصل"  />
+			<text id="preparestep_greensalad_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_gumbo_curryspice" name="تحميص الكاري"  />
+			<text id="preparestep_gumbo_fish" name="تقطيع السمك"  />
+			<text id="preparestep_gumbo_onion" name="فرم البصل"  />
+			<text id="preparestep_gumbo_rice" name="طبخ الارز"  />
+			<text id="preparestep_hamburger_flour" name="غربلة الطحين"  />
+			<text id="preparestep_hamburger_mincemeat" name="تبهير اللحم المفروم"  />
+			<text id="preparestep_hamburger_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_hotcherrywaffles_cherries" name="نزع البذور الكرز"  />
+			<text id="preparestep_hotcherrywaffles_cream" name="خفق الكريما"  />
+			<text id="preparestep_hotcherrywaffles_eggs" name="فصل البيض"  />
+			<text id="preparestep_hotcherrywaffles_flour" name="غربلة الطحين"  />
+			<text id="preparestep_hotcherrywaffles_milk" name="تسخين الحليب"  />
+			<text id="preparestep_jamspongepudding_flour" name="غربلة الطحين"  />
+			<text id="preparestep_jamspongepudding_milk" name="تسخين الحليب"  />
+			<text id="preparestep_jamspongepudding_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_jamspongepudding_sugar" name="تحضير الكراميل بالسكر"  />
+			<text id="preparestep_lasagne_cheese" name="برش الجبنة"  />
+			<text id="preparestep_lasagne_mincemeat" name="تبهير اللحم المفروم"  />
+			<text id="preparestep_lasagne_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_lasagne_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_macncheese_cheese" name="برش الجبنة"  />
+			<text id="preparestep_macncheese_cream" name="قياس الكريما"  />
+			<text id="preparestep_macncheese_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_maplepancakes_eggs" name="فصل البيض"  />
+			<text id="preparestep_maplepancakes_flour" name="غربلة الطحين"  />
+			<text id="preparestep_maplepancakes_maple" name="تذوق شراب القيقب"  />
+			<text id="preparestep_maplepancakes_milk" name="قياس الحليب"  />
+			<text id="preparestep_marblecake_butter" name="تذويب الزبدة"  />
+			<text id="preparestep_marblecake_chocolate" name="تذويب الشوكلا"  />
+			<text id="preparestep_marblecake_flour" name="نخل الطحين"  />
+			<text id="preparestep_marblecake_sugar" name="وزن السكر"  />
+			<text id="preparestep_mexicansalad_bacon" name="قلي شحم الخنزير"  />
+			<text id="preparestep_mexicansalad_beans" name="نقع الفاصوليا"  />
+			<text id="preparestep_mexicansalad_onion" name="تحمير البصل"  />
+			<text id="preparestep_mexicansalad_sweetcorn" name="سلق الذرة"  />
+			<text id="preparestep_minestrone_eggplant" name="تقطيع الباذنجان"  />
+			<text id="preparestep_minestrone_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_minestrone_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_mixedsalad_lettuce" name="غسل الخس"  />
+			<text id="preparestep_mixedsalad_peas" name="غلي البازيلاء"  />
+			<text id="preparestep_mixedsalad_sweetcorn" name="سلق الذرة"  />
+			<text id="preparestep_mixedsalad_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_nasigoreng_chicken" name="تقطيع الدجاج"  />
+			<text id="preparestep_nasigoreng_eggs" name="سلق البيض"  />
+			<text id="preparestep_nasigoreng_onion" name="فرم البصل"  />
+			<text id="preparestep_nasigoreng_pinapple" name="تقطيع الأناناس"  />
+			<text id="preparestep_nasigoreng_rice" name="طبخ الارز"  />
+			<text id="preparestep_newyorkcheesecake_cookies" name="تفتيت  البسكويت"  />
+			<text id="preparestep_newyorkcheesecake_cream" name="خفق الكريما"  />
+			<text id="preparestep_newyorkcheesecake_quark" name="تحريك اللبن  الرائب"  />
+			<text id="preparestep_newyorkcheesecake_sugar" name="وزن السكر"  />
+			<text id="preparestep_noodlesalad_eggs" name="فصل البيض"  />
+			<text id="preparestep_noodlesalad_oil" name="خفق الزيت"  />
+			<text id="preparestep_noodlesalad_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_noodlesalad_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_omelette_eggs" name="Count eggs"  />
+			<text id="preparestep_onionsoup_cheese" name="برش الجبنة"  />
+			<text id="preparestep_onionsoup_garlic" name="تنعيم  الثوم"  />
+			<text id="preparestep_onionsoup_onion" name="فرم البصل"  />
+			<text id="preparestep_peasoup_bacon" name="قلي شحم الخنزير"  />
+			<text id="preparestep_peasoup_garlic" name="تنعيم  الثوم"  />
+			<text id="preparestep_peasoup_onion" name="فرم البصل"  />
+			<text id="preparestep_peasoup_peas" name="تنظيف البازلاء"  />
+			<text id="preparestep_pizzahawaii_bacon" name="شريح شحم الخنزير"  />
+			<text id="preparestep_pizzahawaii_cheese" name="برش الجبنة"  />
+			<text id="preparestep_pizzahawaii_flour" name="نخل الطحين"  />
+			<text id="preparestep_pizzahawaii_pinapple" name="الشريحة أناناس"  />
+			<text id="preparestep_pizzahawaii_tomato" name="هرس البندورة"  />
+			<text id="preparestep_pizzatonno_cheese" name="برش الجبنة"  />
+			<text id="preparestep_pizzatonno_fish" name="تقطيع السمك"  />
+			<text id="preparestep_pizzatonno_flour" name="نخل الطحين"  />
+			<text id="preparestep_pizzatonno_onion" name="تقطيع البصل"  />
+			<text id="preparestep_pizzatonno_tomato" name="هرس البندورة"  />
+			<text id="preparestep_pizza_cheese" name="برش الجبنة"  />
+			<text id="preparestep_pizza_flour" name="غربلة الطحين"  />
+			<text id="preparestep_pizza_tomato" name="هرس البندورة"  />
+			<text id="preparestep_porkroastwithcrackling_carrots" name="تقشير الجزر"  />
+			<text id="preparestep_porkroastwithcrackling_garlic" name="تنعيم  الثوم"  />
+			<text id="preparestep_porkroastwithcrackling_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_porkroastwithcrackling_onion" name="فرم البصل"  />
+			<text id="preparestep_potatosalad_cucumber" name="تقطيع الخيار"  />
+			<text id="preparestep_potatosalad_oil" name="خفق الزيت"  />
+			<text id="preparestep_potatosalad_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_redberrycompote_cherries" name="نظيف الكرز"  />
+			<text id="preparestep_redberrycompote_rhubarb" name="نظيف الراوند"  />
+			<text id="preparestep_redberrycompote_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_redberrycompote_sugar" name="تحضير الكراميل بالسكر"  />
+			<text id="preparestep_ricepudding_apple" name="تقشير التفاح"  />
+			<text id="preparestep_ricepudding_cream" name="خفق الكريما"  />
+			<text id="preparestep_ricepudding_milk" name="قياس الحليب"  />
+			<text id="preparestep_ricepudding_rice" name="وزن الارز"  />
+			<text id="preparestep_roastchicken_butter" name="تذويب الزبدة"  />
+			<text id="preparestep_roastchicken_chicken" name="تحضير الدجاج"  />
+			<text id="preparestep_roastchicken_onion" name="فرم البصل"  />
+			<text id="preparestep_sandwich_bacon" name="قطع لحم المقدد"  />
+			<text id="preparestep_sandwich_butter" name="وزن  الزبدة"  />
+			<text id="preparestep_sandwich_cheese" name="تقطيع الجبنة"  />
+			<text id="preparestep_sandwich_flour" name="نخل الطحين"  />
+			<text id="preparestep_sandwich_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_scouse_beetroot" name="تقطيع الشمندر"  />
+			<text id="preparestep_scouse_cucumber" name="ترتيب الخيار"  />
+			<text id="preparestep_scouse_eggs" name="قلي البيض"  />
+			<text id="preparestep_scouse_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_spagetti_mincemeat" name="تبهير اللحم المفروم"  />
+			<text id="preparestep_spagetti_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_spagetti_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_spareribs_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_spareribs_oil" name="قياس الزيت"  />
+			<text id="preparestep_spareribs_onion" name="فرم البصل"  />
+			<text id="preparestep_spareribs_tomato" name="هرس البندورة"  />
+			<text id="preparestep_steakkidneypie_flour" name="غربلة الطحين"  />
+			<text id="preparestep_steakkidneypie_kidney" name="تقطيع الكلاوي"  />
+			<text id="preparestep_steakkidneypie_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_steakkidneypie_onion" name="فرم البصل"  />
+			<text id="preparestep_steak_butter" name="رقائق الزبدة"  />
+			<text id="preparestep_steak_lettuce" name="غسل الخس"  />
+			<text id="preparestep_steak_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_steak_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_steak_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_stewedrhubarb_rhubarb" name="تقطيع الراوند"  />
+			<text id="preparestep_stewedrhubarb_sugar" name="تحضير الكراميل بالسكر"  />
+			<text id="preparestep_stew_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_stew_oil" name="تسخين الزيت"  />
+			<text id="preparestep_stew_onion" name="فرم البصل"  />
+			<text id="preparestep_strawberrycake_cream" name="خفق الكريما"  />
+			<text id="preparestep_strawberrycake_flour" name="غربلة الطحين"  />
+			<text id="preparestep_strawberrycake_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_strawberrymousse_cream" name="خفق الكريما"  />
+			<text id="preparestep_strawberrymousse_eggs" name="فصل البيض"  />
+			<text id="preparestep_strawberrymousse_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_strawberrymousse_sugar" name="وزن السكر"  />
+			<text id="preparestep_stuffedpeppers_ballpepper" name="تفريغ الفلفل"  />
+			<text id="preparestep_stuffedpeppers_eggs" name="خفق البيض"  />
+			<text id="preparestep_stuffedpeppers_rice" name="طبخ الارز"  />
+			<text id="preparestep_sundayfeast_carrots" name="تقشير الجزر"  />
+			<text id="preparestep_sundayfeast_meat" name="تقطيع اللحمة"  />
+			<text id="preparestep_sundayfeast_peas" name="طبخ البازلاء"  />
+			<text id="preparestep_sundayfeast_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_sushi_cucumber" name="تقطيع الخيار"  />
+			<text id="preparestep_sushi_fish" name="تقطيع السمك"  />
+			<text id="preparestep_sushi_rice" name="طبخ الارز"  />
+			<text id="preparestep_toadinhole_flour" name="نخل الطحين"  />
+			<text id="preparestep_toadinhole_onion" name="فرم البصل"  />
+			<text id="preparestep_toadinhole_sausages" name="عد حب النقانق"  />
+			<text id="preparestep_toast_cheese" name="برش الجبنة"  />
+			<text id="preparestep_toast_flour" name="غربلة الطحين"  />
+			<text id="preparestep_toast_pinapple" name="تقطيع الأناناس"  />
+			<text id="preparestep_tofuburger_flour" name="نخل الطحين"  />
+			<text id="preparestep_tofuburger_lettuce" name="غسل الخس"  />
+			<text id="preparestep_tofuburger_tofu" name="سيحدث التوفو"  />
+			<text id="preparestep_tofuburger_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_tomatosoup_cream" name="خفق الكريما"  />
+			<text id="preparestep_tomatosoup_onion" name="فرم البصل"  />
+			<text id="preparestep_tomatosoup_tomato" name="نزع قشر الطماطم"  />
+			<text id="preparestep_trifle_cookies" name="وزن البسكويت"  />
+			<text id="preparestep_trifle_cream" name="خفق الكريما"  />
+			<text id="preparestep_trifle_strawberry" name="تنظيف الفريز"  />
+			<text id="preparestep_trifle_sugar" name="قياس كمية السكر"  />
+			<text id="preparestep_veganstirfry_carrots" name="برش الجزر"  />
+			<text id="preparestep_veganstirfry_peas" name="طبخ البازلاء"  />
+			<text id="preparestep_veganstirfry_rice" name="وزن الارز"  />
+			<text id="preparestep_veganstirfry_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_vegetablesoup_onion" name="فرم البصل"  />
+			<text id="preparestep_vegetablesoup_potato" name="تقشير البطاطا"  />
+			<text id="preparestep_vegetablesoup_tomato" name="تقطيع البندورة"  />
+			<text id="preparestep_veggiecurry_ballpepper" name="تقطيع الفليفلة"  />
+			<text id="preparestep_veggiecurry_coconut" name="تكسير جوز الهند"  />
+			<text id="preparestep_veggiecurry_curryspice" name="قياس الكاري"  />
+			<text id="preparestep_veggiecurry_eggplant" name="تقطيع الباذنجان"  />
+			<text id="preparestep_veggiecurry_rice" name="وزن الارز"  />
+			<text id="preparestep_veggielasagne_cheese" name="برش الجبنة"  />
+			<text id="preparestep_veggielasagne_eggplant" name="تقطيع الباذنجان"  />
+			<text id="preparestep_veggielasagne_pasta" name="سلق المعكرونة"  />
+			<text id="preparestep_veggielasagne_tomato" name="هرس البندورة"  />
+			<text id="preparestep_whitechoccheesecake_cookies" name="تفتيت البسكويت"  />
+			<text id="preparestep_whitechoccheesecake_cream" name="خفق الكريما"  />
+			<text id="preparestep_whitechoccheesecake_milk" name="تسخني الحليب"  />
+			<text id="preparestep_whitechoccheesecake_quark" name="مزيج الجبن"  />
+			<text id="preparestep_whitechoccheesecake_whitechocolat" name="وزن الشوكولاته"  />
+			<text id="preparestep_whitechocmousse_cream" name="خفق الكريما"  />
+			<text id="preparestep_whitechocmousse_eggs" name="فصل البيض"  />
+			<text id="preparestep_whitechocmousse_whitechocolat" name="تذويب الشوكلا"  />
+		</preparestep>
+		<preparestep_fancy>
+			<text id="preparestep_bananasplit_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_blackforestcherrycake_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_cheeseburger_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_cheesedish_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_cheesefondue_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_cherriecake_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_cherrycompote_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_chickenburger_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_chickensalad_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_chickensoup_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_chiliconcarne_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_chocmousse_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_chocolatecake_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_chocolatecheesecake_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_chocolatefondue_cinnamon" name="رذاذ القرفة"  />
+			<text id="preparestep_christmasturkey_rosemary" name="تقطيع روزماري"  />
+			<text id="preparestep_cookieplate_cinnamon" name="طحن القرفة"  />
+			<text id="preparestep_cornonthecob_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_curry_coriander" name="فرم الكزبرة"  />
+			<text id="preparestep_duckalorange_cinnamon" name="طحن القرفة"  />
+			<text id="preparestep_easterdish_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_englishbreakfast_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_fishandchips_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_friedpotatoes_rosemary" name="تقطيع روزماري"  />
+			<text id="preparestep_fruitpudding_cinnamon" name="طحن القرفة"  />
+			<text id="preparestep_fruitsalad_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_gardensalad_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_greensalad_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_gumbo_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_hamburger_chili" name="قص الفلفل الحار"  />
+			<text id="preparestep_hotcherrywaffles_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_jamspongepudding_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_lasagne_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_macncheese_nutmeg" name="طحن جوزة الطيب"  />
+			<text id="preparestep_maplepancakes_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_marblecake_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_mexicansalad_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_minestrone_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_mixedsalad_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_nasigoreng_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_newyorkcheesecake_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_noodlesalad_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_omelette_chili" name="Chop chili"  />
+			<text id="preparestep_onionsoup_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_peasoup_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_pizzahawaii_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_pizzatonno_horseradish" name="فرك الفجل"  />
+			<text id="preparestep_pizza_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_porkroastwithcrackling_rosemary" name="تقطيع روزماري"  />
+			<text id="preparestep_potatosalad_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_redberrycompote_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_ricepudding_cinnamon" name="طحن القرفة"  />
+			<text id="preparestep_roastchicken_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_sandwich_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_scouse_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_spagetti_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_spareribs_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_steakkidneypie_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_steak_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_stewedrhubarb_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_stew_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_strawberrycake_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_strawberrymousse_vanilla" name="اتتخلص من الفانيليا"  />
+			<text id="preparestep_stuffedpeppers_parsley" name="فرم البقدونس"  />
+			<text id="preparestep_sundayfeast_rosemary" name="فرم روزماري"  />
+			<text id="preparestep_sushi_horseradish" name="فرك الفجل"  />
+			<text id="preparestep_toadinhole_rosemary" name="فرم اكليل الجبل"  />
+			<text id="preparestep_toast_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_tofuburger_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_tomatosoup_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_trifle_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_veganstirfry_chili" name="فرم الفلفل الحار"  />
+			<text id="preparestep_vegetablesoup_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_veggiecurry_coriander" name="فرم الكزبرة"  />
+			<text id="preparestep_veggielasagne_basil" name="قطف أوراق الحبق"  />
+			<text id="preparestep_whitechoccheesecake_vanilla" name="تتخلص من الفانيليا"  />
+			<text id="preparestep_whitechocmousse_vanilla" name="تتخلص من الفانيليا"  />
+		</preparestep_fancy>
+		<recipe>
+			<text id="recipe_bananasplit" name="قطع الموز"  />
+			<text id="recipe_beefstew" name="غولاش"  />
+			<text id="recipe_blackforestcherrycake" name="الكرز غاتو"  />
+			<text id="recipe_cheeseburger" name="تشيز برجر"  />
+			<text id="recipe_cheesedish" name="شرائح الجبن"  />
+			<text id="recipe_cheesefondue" name="فوندو الجبن"  />
+			<text id="recipe_cherriecake" name="كعكة الكرز"  />
+			<text id="recipe_cherrycompote" name="الكرز كومبوت"  />
+			<text id="recipe_chickenburger" name="برغر الدجاج"  />
+			<text id="recipe_chickensalad" name="سلطة الدجاج"  />
+			<text id="recipe_chickensoup" name="يخنة الدجاج"  />
+			<text id="recipe_chiliconcarne" name="الفلفل كارني يخدع"  />
+			<text id="recipe_chocmousse" name="موس الشوكولاته"  />
+			<text id="recipe_chocolatecake" name="كعكة الشوكولاتة"  />
+			<text id="recipe_chocolatecheesecake" name="كعكة جبنة الشوكولا"  />
+			<text id="recipe_chocolatefondue" name="شوكولاته الفانديو"  />
+			<text id="recipe_christmasturkey" name="عشاء عيد الميلاد المجيد"  />
+			<text id="recipe_cookieplate" name="طبق الكيك"  />
+			<text id="recipe_cornonthecob" name="كوز الذره"  />
+			<text id="recipe_curry" name="الكاري"  />
+			<text id="recipe_duckalorange" name="بطة l' أورانج"  />
+			<text id="recipe_easterdish" name="طبك عيد الفصح"  />
+			<text id="recipe_englishbreakfast" name="الانجليزية الإفطار"  />
+			<text id="recipe_fishandchips" name="فيش ن شيبس"  />
+			<text id="recipe_friedpotatoes" name="بطاطا محمرة"  />
+			<text id="recipe_fruitpudding" name="كعكة الفاكهة"  />
+			<text id="recipe_fruitsalad" name="سلطة فواكه"  />
+			<text id="recipe_greensalad" name="حديقة صلاد"  />
+			<text id="recipe_gumbo" name="البامية"  />
+			<text id="recipe_hamburger" name="همبرغر"  />
+			<text id="recipe_hotcherrywaffles" name="الفطائر الساخنة مع الكرز"  />
+			<text id="recipe_jamspongepudding" name="مربى الإسفنج الحلوى"  />
+			<text id="recipe_lasagne" name="لازانيا"  />
+			<text id="recipe_macncheese" name="مكن شيز"  />
+			<text id="recipe_maplepancakes" name="الفطائر مع شراب القيقب"  />
+			<text id="recipe_marblecake" name="Marble cake"  />
+			<text id="recipe_mexicansalad" name="سلطة اللوبياء المكسيكية"  />
+			<text id="recipe_minestrone" name="الشوربة"  />
+			<text id="recipe_mixedsalad" name="سلطة مشكلة"  />
+			<text id="recipe_nasigoreng" name="ناسي جورنج"  />
+			<text id="recipe_newyorkcheesecake" name="نيويورك تشيزكيك"  />
+			<text id="recipe_noodlesalad" name="سلطة المعكرونة"  />
+			<text id="recipe_omelette" name="Omelette"  />
+			<text id="recipe_onionsoup" name="خبز شوربة البصل"  />
+			<text id="recipe_peasoup" name="حساء البازلاء"  />
+			<text id="recipe_pizza" name="بيتزا"  />
+			<text id="recipe_pizzahawaii" name="بيتزا هاواي"  />
+			<text id="recipe_pizzatonno" name="بيتزا التونة"  />
+			<text id="recipe_porkroastwithcrackling" name="مشوي"  />
+			<text id="recipe_potatosalad" name="سلطة البطاطا"  />
+			<text id="recipe_redberrycompote" name="الفاكهة الحمراء"  />
+			<text id="recipe_ricepudding" name="الرز بالحليب مع صلصة التفاح"  />
+			<text id="recipe_roastchicken" name="دجاجة مشوية"  />
+			<text id="recipe_sandwich" name="شطيرة"  />
+			<text id="recipe_scouse" name="لبسكوس"  />
+			<text id="recipe_spagetti" name="السباغيتي بولونيز"  />
+			<text id="recipe_spareribs" name="منقع الأضلاع"  />
+			<text id="recipe_steak" name="شريحة لحم القائمة"  />
+			<text id="recipe_steakkidneypie" name="ستيك وفطيرة الكلى"  />
+			<text id="recipe_stewedrhubarb" name="راوند كومبوت"  />
+			<text id="recipe_strawberrycake" name="كعكة الفراولة"  />
+			<text id="recipe_strawberrymousse" name="موس الفراولة"  />
+			<text id="recipe_stuffedpeppers" name="فلفل محشي"  />
+			<text id="recipe_sundayfeast" name="عشاء الأحد"  />
+			<text id="recipe_sushi" name="السوشي"  />
+			<text id="recipe_toadinahole" name="الضفدع في حفرة"  />
+			<text id="recipe_toast" name="خبز  هاواي المحمص"  />
+			<text id="recipe_tofuburger" name="التوفو برغر"  />
+			<text id="recipe_tomatosoup" name="شوربةالبندورة"  />
+			<text id="recipe_trifle" name="تافه"  />
+			<text id="recipe_veganstirfry" name="أكل النباتي"  />
+			<text id="recipe_vegetablesoup" name="شوربة لخضار"  />
+			<text id="recipe_veggiecurry" name="كاري الخضروات"  />
+			<text id="recipe_veggielasagne" name="لازانيا بالخضار (رقائف المعكرونة)"  />
+			<text id="recipe_whitechoccheesecake" name="كعكة الجبن الأبيض شوكو"  />
+			<text id="recipe_whitechocmousse" name="شوكو الموس الابيض"  />
+		</recipe>
+		<recipes_fastfood>
+			<text id="recipe_smoothiemaker_greensmoothie" name="Green Smoothie"  />
+			<text id="recipe_smoothiemaker_kiba" name="Cherry Banana Smoothie"  />
+			<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada"  />
+			<text id="recipe_smoothiemaker_tomatojuice" name="Tomato Juice"  />
+		</recipes_fastfood>
+		<server>
+			<mail>
+				<text id="mail_invite_friend" name="مرحبا 
+
+لقد اكتشفت للتو لعبة مذهلة أون لاين لعبة مقهى جيد.
+
+هذا الرابط يأخذك فتأتي مباشرة الى اللعبة :
+http://www.goodgamestudios.com/cafe/
+
+قم بالتسجيل على العنوان الذي في الاعلى ليكون بامكانك ان تعمل المقهى الخاصة بك على Goodgame Café
+
+لمعرفة كيف   يكون لديك المقهى الخاصةبك. قدم وجبات لذيذة, ودع ضيوفك يتفاجؤون , وقم بادارة المقهى التابع لك كيف انت تحب
+
+تمتع باللعبة وأطيب التحيات ،"  />
+				<text id="mail_lost_pw" name="مرحبا,  
+انت تتلقى هذا البريد الإلكتروني التلقائي لأنك طلبت كلمة 
+مرور جديدة.
+كلمة السر الخاصة بك هي:
+هذا الربط يأخذك مباشرة الى اللعبة:http://www.goodgamestudios.com/cafe/
+لطرح الأسئلة أو المشكلات تجيدون على هذا العنوان  
+ support@goodgamestudios.com"  />
+				<text id="mail_registration" name="مرحبا ،
+
+شكرا لتسجيلك ومرحبا بكم في مقهى جيد لعبة.
+
+يمكنك تسجيل أي وقت مع البيانات التالية :
+البريد الإلكتروني : ق ٪
+كلمة السر : ٪ ق
+
+هذا الرابط يأخذك تأتي مباشرة الى اللعبة :
+http://www.goodgamestudios.com/cafe/
+
+لطرح الأسئلة أو المشكلات التي تنطبق على support@goodgamestudios.com
+
+نأمل أن تستمتع لعبة!
+
+الفريق الخاص
+Goodgamestudios.com"  />
+			</mail>
+			<misc>
+				<text id="marketplace" name="السوق"  />
+			</misc>
+		</server>
+		<std_buttons>
+			<text id="btn_text_accept" name="قبول"  />
+			<text id="btn_text_cancle" name="الغاء"  />
+			<text id="btn_text_goback" name="العودة"  />
+			<text id="btn_text_no" name="لا"  />
+			<text id="btn_text_notaccept" name="رفض"  />
+			<text id="btn_text_okay" name="موافق"  />
+			<text id="btn_text_payment" name="مقهى الدولار/ذهب شراء"  />
+			<text id="btn_text_share" name="تقاسمها مع أصدقائك!"  />
+			<text id="btn_text_srchips" name="كسب مقهى الدولار"  />
+			<text id="btn_text_srgold" name="كسب الذهب"  />
+			<text id="btn_text_yes" name="نعم"  />
+		</std_buttons>
+		<tooltips>
+			<text id="tt_Basic_Achievement_Boughtdeco" name="عدد  الديكورات التي تم شراؤها"  />
+			<text id="tt_Basic_Achievement_Boughtingredients" name="عدد من المكونات التي تم شراؤها"  />
+			<text id="tt_Basic_Achievement_Cookingcount" name="عدد الوجبات المطبوخة"  />
+			<text id="tt_Basic_Achievement_Coopcount" name="عدد  المشاريع الناجحة"  />
+			<text id="tt_Basic_Achievement_Coopgoldcount" name="عدد الجمعيات الناجحة في الوضع الذهبي"  />
+			<text id="tt_Basic_Achievement_Curiercount" name="عدد خدمات البريد"  />
+			<text id="tt_Basic_Achievement_Differentdishes" name="عدد من الأطباق المختلفة  المطبوخة"  />
+			<text id="tt_Basic_Achievement_Earnedchips" name="كسب مقهى الدولار"  />
+			<text id="tt_Basic_Achievement_Fancycount" name="عدد المكونات الفانس المستخدمة"  />
+			<text id="tt_Basic_Achievement_Firenpc" name="عدد النوادل المفصولين"  />
+			<text id="tt_Basic_Achievement_Instantcount" name="عدد وجبات جاهزة على الفور المطبوخة"  />
+			<text id="tt_Basic_Achievement_Jobclean" name="وظائث النادل  لتوظيب الصحون"  />
+			<text id="tt_Basic_Achievement_Jobserve" name="وطائف النادل  لتوزيع الصحون"  />
+			<text id="tt_Basic_Achievement_Masteies" name="حقق عدد من النجوم"  />
+			<text id="tt_Basic_Achievement_Masteriesgold" name="عدد من نجوم الذهب الذي تم التوصل إليه"  />
+			<text id="tt_Basic_Achievement_Muffinmancash" name="Won Cafédollars at the muffin baker"  />
+			<text id="tt_Basic_Achievement_Muffinmangold" name="Gold won at the muffin baker"  />
+			<text id="tt_Basic_Achievement_Overcookedfoods" name="عدد من الأغذية الفاسدة"  />
+			<text id="tt_Basic_Achievement_Servingcountmeals" name="عدد من الأطباق المطبوخة الرئيسية"  />
+			<text id="tt_Basic_Achievement_Servingcountsalads" name="عدد من السلطات المطبوخة"  />
+			<text id="tt_Basic_Achievement_Servingcountsnacks" name="عدد الوجبات المطبوخة"  />
+			<text id="tt_Basic_Achievement_Servingcountsoups" name="عدد الشوربات المطبوخة"  />
+			<text id="tt_Basic_Achievement_Servingcountsweets" name="عدد من الحلويات المغلية"  />
+			<text id="tt_Basic_Achievement_Servingcountvegans" name="عدد من الأطباق الرئيسية النباتية المطبوخة"  />
+			<text id="tt_Basic_Achievement_Servingscount" name="بيع عدد من  أجزاءالبنود"  />
+			<text id="tt_Basic_Achievement_Solditems" name="بيع عدد من الديكور والاثاث"  />
+			<text id="tt_Basic_Achievement_Spentchips" name="الدفع لمقهى الدولار"  />
+			<text id="tt_Basic_Achievement_Spentgold" name="دفع ذهب"  />
+			<text id="tt_Basic_Achievement_Wheeloffortune" name="Number of wins at the wheel of fortune"  />
+			<text id="tt_byAmount" name="من {0} الى {1}"  />
+			<text id="tt_byLevel" name="على المستوى {0}"  />
+			<text id="tt_CafeActionPanel_btn_achievements" name="الجوائز"  />
+			<text id="tt_CafeActionPanel_btn_cookbook" name="كتاب الطبخ"  />
+			<text id="tt_CafeActionPanel_btn_coop" name="الجمعيات التعاونية"  />
+			<text id="tt_CafeActionPanel_btn_decoshop" name="تحويل"  />
+			<text id="tt_CafeActionPanel_btn_gifts" name="هدايا"  />
+			<text id="tt_CafeActionPanel_btn_ingredientshop" name="المكونات للتسوق"  />
+			<text id="tt_CafeActionPanel_btn_market" name="السوق"  />
+			<text id="tt_CafeActionPanel_btn_owncafe" name="المقهى  البلدي"  />
+			<text id="tt_CafeActionPanel_btn_staff" name="الشخصية"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Bottoms"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Boy"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Girl"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Hair color"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Skin color"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Tops"  />
+			<text id="tt_CafeClearStoveDialog_btn_instantcook" name="بسرعة انهي الطبخ"  />
+			<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="أنت  اليوم لم تعد قادر  على طبخ الطعام بسرعة"  />
+			<text id="tt_CafeClearStoveDialog_instantButton" name="مباشرة  ينتهي الطعام"  />
+			<text id="tt_CafeCookBookDialog_0" name="الحلويات"  />
+			<text id="tt_CafeCookBookDialog_1" name="الأطباق الرئيسية"  />
+			<text id="tt_CafeCookBookDialog_2" name="الحساء"  />
+			<text id="tt_CafeCookBookDialog_3" name="سلطة"  />
+			<text id="tt_CafeCookBookDialog_4" name="نباتي"  />
+			<text id="tt_CafeCookBookDialog_5" name="وجبات خفيفة"  />
+			<text id="tt_CafeCookBookDialog_btn_cook" name="الطبخ"  />
+			<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="عندك المكونات ناقصين"  />
+			<text id="tt_CafeCookBookDialog_btn_mastery" name="اضغط للتفاصيل إلى المستوى النجمة من {0} إلى {1}"  />
+			<text id="tt_CafeCookBookDialog_btn_shop" name="المكونات للتسوق"  />
+			<text id="tt_CafeDekoShopPanel_btn_close" name="عودة إلى مقهى"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko" name="الإعداد"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="الكراسي"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="ديكور"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="الأبواب"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="طاولات"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="الأرض"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="الجدران"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="ديكور الجدار"  />
+			<text id="tt_CafeDekoShopPanel_btn_expansion" name="ملحقات"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional" name="وظيفي"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="بار"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extra"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="الثلاجات"  />
+			<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="افران"  />
+			<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="You still need {0} network friends to buy this expansion!"  />
+			<text id="tt_CafeDekoShopPanel_btn_sell" name="معروضات للبيع من هنا اسحب"  />
+			<text id="tt_CafeDekoShopPanel_cashexpansion" name="You have to be at level {0} in order to buy expansions for Cafèdollars."  />
+			<text id="tt_CafeDekoShopPanel_dragItem" name="خذني إلى مقهكك الخاص"  />
+			<text id="tt_CafeDekoShopPanel_invalidexpansion" name="You need the previous expansion before you can buy the next one."  />
+			<text id="tt_CafeIngredientShopDialog_btn_addcash" name="مقهى دولار/ إضافة الذهب"  />
+			<text id="tt_CafeIngredientShopDialog_btn_all" name="جميع"  />
+			<text id="tt_CafeIngredientShopDialog_btn_buy" name="شراء"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat1" name="الحيوان"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat2" name="الخضار"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat3" name="الفاكهة"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="مكونات الفان سي"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat5" name="أخرى"  />
+			<text id="tt_CafeIngredientShopDialog_btn_fridge" name="ثلاجة"  />
+			<text id="tt_CafeIngredientShopDialog_btn_help" name="ما هي مكونات الفان سي؟"  />
+			<text id="tt_CafeIngredientShopDialog_btn_sell" name="بيع"  />
+			<text id="tt_CafeIngredientShopDialog_btn_shop" name="المكونات للتسوق"  />
+			<text id="tt_CafeIngredientShopDialog_btn_unlock" name="ساعي"  />
+			<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Only available at
+the Wheel of Fortune!"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="مساعدة الوظيفة"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="ملءأذو نات العمل"  />
+			<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="يبحثون عن عمل"  />
+			<text id="tt_CafeMasteryDialog_broncestar" name="اطبخ  حصص أكثر!"  />
+			<text id="tt_CafeMasteryDialog_goldstar" name="اطبخ أسرع!"  />
+			<text id="tt_CafeMasteryDialog_silverstar" name="الحصول على مزيد من إكس بي!"  />
+			<text id="tt_CafeNamePanel_mc_luxury" name="قيمة مقهى الخاص"  />
+			<text id="tt_CafeNamePanel_mc_rating" name="شعبية مقهكك الخاص"  />
+			<text id="tt_CafeOptionPanel_btn_blockfriends" name="منع دعوة الصديق"  />
+			<text id="tt_CafeOptionPanel_btn_bugreport" name="أخطاء تقاريرنا"  />
+			<text id="tt_CafeOptionPanel_btn_changePass" name="تغيير كلمة السر"  />
+			<text id="tt_CafeOptionPanel_btn_custom" name="Change character&#039;s clothes"  />
+			<text id="tt_CafeOptionPanel_btn_faq" name="أسئلة وأجوبة"  />
+			<text id="tt_CafeOptionPanel_btn_fullscreen" name="كامل الشاشة"  />
+			<text id="tt_CafeOptionPanel_btn_help" name="مساعدة"  />
+			<text id="tt_CafeOptionPanel_btn_logout" name="خروج"  />
+			<text id="tt_CafeOptionPanel_btn_messages" name="أخبار"  />
+			<text id="tt_CafeOptionPanel_btn_music" name="تشغيل/ إخفاء الموسيقى"  />
+			<text id="tt_CafeOptionPanel_btn_news" name="أسئلة وأجوبة"  />
+			<text id="tt_CafeOptionPanel_btn_options" name="إعدادات"  />
+			<text id="tt_CafeOptionPanel_btn_screenshot" name="الصور"  />
+			<text id="tt_CafeOptionPanel_btn_sfx" name="تشغيل/ إخفاء الآثار"  />
+			<text id="tt_CafeOptionPanel_btn_socialgroup" name="المجموعة"  />
+			<text id="tt_CafeOptionPanel_btn_sound" name="طن"  />
+			<text id="tt_CafeOptionPanel_btn_support" name="دعم"  />
+			<text id="tt_CafeOptionPanel_btn_verifyemail" name="Collect reward"  />
+			<text id="tt_CafeOptionPanel_btn_wantfriends" name="سماح لدعوة الصديق"  />
+			<text id="tt_CafeOptionPanel_btn_zoom" name="أزيز"  />
+			<text id="tt_CafeOptionPanel_btn_zoomIn" name="تكبير"  />
+			<text id="tt_CafeOptionPanel_btn_zoomOut" name="نقصان"  />
+			<text id="tt_CafeRegisterPanel_btn_register" name="سجل وحفظ"  />
+			<text id="tt_CafeSmoothiemaker_btn_mix" name="Mix"  />
+			<text id="tt_CafeSmoothiemaker_serve" name="Serve drink"  />
+			<text id="tt_CafeSocialPanel_btn_buddies" name="أصدقاء"  />
+			<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="الاعبين المتواجدون"  />
+			<text id="tt_CafeSocialPanel_btn_chat" name="درد شة"  />
+			<text id="tt_CafeSocialPanel_btn_findbuddies" name="دعوة الأصدقاء"  />
+			<text id="tt_CafeSocialPanel_btn_muteplayer" name="إخفاء الصوت"  />
+			<text id="tt_CafeStaffDialog_rename" name="إعادة تسمية النادل"  />
+			<text id="tt_CafeUserStatePanel_btn_adddollar" name="مقهى  دولار/ إضافة الذهب"  />
+			<text id="tt_CafeUserStatePanel_btn_refill" name="ملء أذونات العمل"  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} اكس بي حتى المرحلةاوب"  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="إكس بي"  />
+			<text id="tt_highscore_luxury" name="رتيب الأشياء حسب القيمة"  />
+			<text id="tt_highscore_xp" name="راتب حسب اكس بي"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="الجوائز"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="طلب صديق"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_info" name="معلومات"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_job" name="الإعداد"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_kick" name="ركلة"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="نهاية الصداقة"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_visit" name="زيارة مقهى"  />
+			<text id="tt_Social_Achievement_Friendscount" name="دعا عدد من الاصدقاء"  />
+		</tooltips>
+		<tutorial>
+			<text id="tut_buymissingingredient_copy" name="عند 0 وبجانب الثلاجة الصغيرة وعند البصل عليك ان تعرف انه لم يعد لديك شئ في الثلاجة هنا من تحت ترى السعرلمة واحدة اشتري البصل!"  />
+			<text id="tut_cafeopen_copy" name="عظيم!
+أول ضيوفل لن  ينتظرو عليك كثيراً.
+ألان أنت تعلم كلا شيء عن ما  تحتاج إلى معرفته  لبداية الطريق.
+ومن ثم  ألقي نظرة حول  المكان.
+تمتع باللعبة!"  />
+			<text id="tut_cookmeal_copy" name="واخيرا سنبداء اري السلطة ماذا تقدر ان تفعل!"  />
+			<text id="tut_cookopenshop_copy" name="هنا  تكون الوجبات مع المكونات المطلوبة لديهم انظر الى مدة التحضير و الدخل / ام لا/ ليس عندك البصل الكافي لسلطة الحديقة ولكن  يمكنك شراء بعضها."  />
+			<text id="tut_cookpreparecook_copy" name="اهم شئ بلطبع الطعام دعونا نحضر سلطة الحديقة انقر على الفرن!"  />
+			<text id="tut_instantcook2_copy" name="استعمل الطهي بسرعة \هذا يكلف ذهب  وهوعملي للغاية."  />
+			<text id="tut_instantcook_copy" name="عادة تحتاج سلطةالحديقة الى ستة دقائق حتى تتم ولكن من الممكن ايضا تقصيره كله ماسنقوم به الان."  />
+			<text id="tut_preparesteps_copy" name="الرجاء الضغط عدة مرات على  الفرن لتشغيل من خلال خطوات إعداد مختلفه."  />
+			<text id="tut_servedish_copy" name="حسنا فعلت!
+والآن أنت بحاجة تخدم سوى الطعام حتى الان.
+لا يمكن الإحتفاظ بالأجزاء العشرة لمدى طويلة,حتى لا تنسى التجديد!"  />
+			<text id="tut_start_copy" name="تساعدك فمرحبا بك في المقهى الخاص بك {0} ! \ سوف بمقدمة موجزةلمساعدتك في االثور عليك في عالم رائع من فن الطهو."  />
+			<text id="tut_title" name="مقدمة!"  />
+			<text id="tut_welcome_title" name="أهلا وسهلا!"  />
+		</tutorial>
+		<generic_flash>
+			<alert>
+				<text id="generic_alert_bug" name="Error"  />
+				<text id="generic_alert_connection_failed_copy" name="Maintenance. Please try again later!"  />
+				<text id="generic_alert_connection_failed_title" name="Work in progress!"  />
+				<text id="generic_alert_connection_lost_copy" name="The connection to the server failed. Please try to reconnect."  />
+				<text id="generic_alert_connection_lost_description" name="We are currently performing maintenance work, which is necessary from time to time. In order to bring in updates or new features or in order to correct mistakes. &lt;br&gt;&lt;br&gt;
+We are working as fast as we can so you will be able to play again as soon as possible."  />
+				<text id="generic_alert_connection_lost_promo" name="Why don&#039;t you try one of our other games in the meantime?"  />
+				<text id="generic_alert_connection_lost_thanks" name="Thank you for your understanding!"  />
+				<text id="generic_alert_connection_lost_title" name="Connection lost!"  />
+				<text id="generic_alert_error" name="Error"  />
+				<text id="generic_alert_information" name="Alert"  />
+				<text id="generic_alert_loggedout_copy" name="You have successfully logged out. Do not forget: Every day there is a login bonus for you!"  />
+				<text id="generic_alert_loggedout_title" name="See you later!"  />
+				<text id="generic_alert_warning" name="Warning"  />
+				<text id="generic_alert_watchout" name="Attention!"  />
+				<text id="generic_alert_win7chromebug" name=""  />
+				<text id="generic_invalid_email_provider" name="An e-mail address from this supplier is not allowed!"  />
+				<text id="generic_js_alert_firstsessiontracking_loading" name="Your internet connection seems to be quite slow at the moment. Please try again later!"  />
+				<text id="generic_js_alert_firstsessiontracking_registered" name="How do you like the game and what can we improve upon? Please, let us know your opinion in our Goodgame forums or group."  />
+				<text id="generic_js_alert_firstsessiontracking_unregistered" name="Attention: Your progress is only saved when you register!"  />
+				<text id="generic_register_error_invalidemail" name="The e-mail address you entered is not correct."  />
+				<text id="generic_report_muted_chattry" name="You cannot use the chat function due to being blocked."  />
+			</alert>
+			<button>
+				<text id="generic_btn_accept" name="Accept"  />
+				<text id="generic_btn_cancel" name="Cancel"  />
+				<text id="generic_btn_close" name="Close"  />
+				<text id="generic_btn_continue" name="Continue"  />
+				<text id="generic_btn_end" name="End"  />
+				<text id="generic_btn_endnow" name="Finish Now"  />
+				<text id="generic_btn_goback" name="Back"  />
+				<text id="generic_btn_no" name="No"  />
+				<text id="generic_btn_noshare" name="Never mind!"  />
+				<text id="generic_btn_notaccept" name="Decline"  />
+				<text id="generic_btn_okay" name="Okay"  />
+				<text id="generic_btn_reconnect" name="Reconnect"  />
+				<text id="generic_btn_refresh" name="Refresh"  />
+				<text id="generic_btn_report" name="Report"  />
+				<text id="generic_btn_search" name="Search"  />
+				<text id="generic_btn_share" name="Share!"  />
+				<text id="generic_btn_skip" name="Skip"  />
+				<text id="generic_btn_start" name="Start"  />
+				<text id="generic_btn_topayment" name="Give it to me!"  />
+				<text id="generic_btn_yes" name="Yes"  />
+			</button>
+			<chat>
+				<text id="generic_chat_writeable" name="You need to register and reach level 1 to use the chat."  />
+			</chat>
+			<common>
+				<text id="generic_admin" name="Admin"  />
+				<text id="generic_animation" name="Show animations"  />
+				<text id="generic_bugreport" name="Tell Us About Errors"  />
+				<text id="generic_changePass" name="Change password"  />
+				<text id="generic_comma" name=","  />
+				<text id="generic_conningsoon" name="*Coming Soon*"  />
+				<text id="generic_date" name="Date"  />
+				<text id="generic_day" name="day"  />
+				<text id="generic_dayformat" name="{1}/{0}"  />
+				<text id="generic_days" name="days"  />
+				<text id="generic_day_short" name="D"  />
+				<text id="generic_decimalseparator" name="."  />
+				<text id="generic_email" name="E-mail"  />
+				<text id="generic_faq" name="Frequently Asked Questions"  />
+				<text id="generic_forum" name="Forum"  />
+				<text id="generic_friend" name="Friend"  />
+				<text id="generic_friends" name="Friends"  />
+				<text id="generic_general" name="General settings"  />
+				<text id="generic_ggs" name="Goodgame Studios"  />
+				<text id="generic_group" name="Group"  />
+				<text id="generic_guest" name="Guest"  />
+				<text id="generic_help" name="Help"  />
+				<text id="generic_high" name="High"  />
+				<text id="generic_hour" name="hour"  />
+				<text id="generic_hours" name="hours"  />
+				<text id="generic_hour_short" name="Hr"  />
+				<text id="generic_limited" name="Limited"  />
+				<text id="generic_logout" name="Logout"  />
+				<text id="generic_low" name="Low"  />
+				<text id="generic_medium" name="Medium"  />
+				<text id="generic_minute" name="minute"  />
+				<text id="generic_minutes" name="minutes"  />
+				<text id="generic_minute_short" name="Min"  />
+				<text id="generic_moderator" name="Mod"  />
+				<text id="generic_month" name="month"  />
+				<text id="generic_months" name="months"  />
+				<text id="generic_music" name="Music on/off"  />
+				<text id="generic_name" name="Name"  />
+				<text id="generic_news" name="Newsflash"  />
+				<text id="generic_options" name="Options"  />
+				<text id="generic_quality" name="Quality"  />
+				<text id="generic_register" name="Save and Register"  />
+				<text id="generic_second" name="second"  />
+				<text id="generic_seconds" name="seconds"  />
+				<text id="generic_second_short" name="Sec"  />
+				<text id="generic_sound" name="Sound on/off"  />
+				<text id="generic_support" name="Support"  />
+				<text id="generic_today" name="Today"  />
+				<text id="generic_tomorrow" name="Today"  />
+				<text id="generic_tutorial" name="Tutorial"  />
+				<text id="generic_username" name="Playername"  />
+				<text id="generic_xp" name="XP"  />
+				<text id="generic_yesterday" name="Yesterday"  />
+			</common>
+			<error>
+				<text id="generic_versioncheck_error" name="Old version!"  />
+				<text id="generic_versioncheck_errorcode_1" name="Update the page."  />
+			</error>
+			<feeds id=""  />
+			<friends>
+				<text id="generic_friends_add_copy" name="Do you want to add {0} as a friend?"  />
+				<text id="generic_friends_add_title" name="Friend request"  />
+				<text id="generic_friends_buddy_btn_morefriends" name="More Friends!"  />
+				<text id="generic_friends_denied_copy" name="{0} has denied your request."  />
+				<text id="generic_friends_denied_title" name="Request denied!"  />
+				<text id="generic_friends_invite_badword_copy" name="The name you chose is not allowed!"  />
+				<text id="generic_friends_invite_badword_title" name="Watch out!"  />
+				<text id="generic_friends_invite_error_copy" name="In order to invite friends you need to register first."  />
+				<text id="generic_friends_invite_error_title" name="Register first"  />
+			</friends>
+			<fullscreen>
+				<text id="generic_fullscreen_error_copy" name="Fullscreen mode not possible"  />
+			</fullscreen>
+			<languages>
+				<text id="generic_language_cs" name="Czech"  />
+				<text id="generic_language_da" name="Danish"  />
+				<text id="generic_language_de" name="German"  />
+				<text id="generic_language_el" name="Greek"  />
+				<text id="generic_language_en" name="English"  />
+				<text id="generic_language_es" name="Spanish"  />
+				<text id="generic_language_fi" name="Finnish"  />
+				<text id="generic_language_fr" name="French"  />
+				<text id="generic_language_hu" name="Hungarian"  />
+				<text id="generic_language_id" name="Indonesian"  />
+				<text id="generic_language_it" name="Italian"  />
+				<text id="generic_language_ja" name="Japanese"  />
+				<text id="generic_language_ko" name="Korean"  />
+				<text id="generic_language_nl" name="Dutch"  />
+				<text id="generic_language_no" name="Norwegian"  />
+				<text id="generic_language_pl" name="Polish"  />
+				<text id="generic_language_pt" name="Portuguese"  />
+				<text id="generic_language_pt_BR" name="Brazilian"  />
+				<text id="generic_language_ru" name="Russian"  />
+				<text id="generic_language_sv" name="Swedish"  />
+				<text id="generic_language_tr" name="Turkish"  />
+				<text id="generic_language_zh_CN" name="Chinese (simplified)"  />
+				<text id="generic_language_zh_TW" name="Chinese (traditional)"  />
+			</languages>
+			<login>
+				<text id="generic_login_banned" name="Your account has been blocked! Please contact customer support!"  />
+				<text id="generic_login_banned_2" name="Your account has been deactivated!
+
+Deactivation until: {0}
+
+If you have questions about the deactivation, please contact support."  />
+				<text id="generic_login_banned_3" name="Your account has been frozen permanently.
+
+If you have any questions about this blockage, please contact support."  />
+				<text id="generic_login_banned_permanent" name="permanent"  />
+				<text id="generic_login_facebook" name="Login via Facebook"  />
+				<text id="generic_login_login" name="LOGIN"  />
+				<text id="generic_login_loginname" name="Username/ E-mail"  />
+				<text id="generic_login_lostpassword" name="Forgot your password?"  />
+				<text id="generic_login_lostpassword_copy" name="Enter your e-mail address and we will send you your password."  />
+				<text id="generic_login_lostpassword_title" name="Forgot your password?"  />
+				<text id="generic_login_newplayer" name="Are you new?"  />
+				<text id="generic_login_password" name="Password"  />
+				<text id="generic_login_play" name="PLAY NOW"  />
+				<text id="generic_login_playnow" name="Play now!"  />
+				<text id="generic_login_register" name="Register"  />
+				<text id="generic_login_rememberpassword" name="Save password"  />
+				<text id="generic_login_wronglogin" name="Username or password wrong!"  />
+			</login>
+			<logout>
+				<text id="generic_logout_guest_copy" name="Register to save your game score!"  />
+				<text id="generic_logout_guest_title" name="Register"  />
+			</logout>
+			<notification>
+				<text id="servershutdownpremonition_backin_copy" name="The game will be available again in {0} at the latest."  />
+				<text id="servershutdownpremonition_copy" name="The game server will shut down in {0}. Please log out or sign up to back up your score."  />
+				<text id="servershutdownpremonition_registered_copy" name="We are shutting the gaming server down in {0} due to maintenance work."  />
+				<text id="servershutdown_copy" name="The game server is now shutting down. In a few minutes, you can log in again."  />
+				<text id="welcomeback_copy" name="Nice to see you again! Here's a little something to help you get back on track!"  />
+				<text id="welcomeback_title" name="You're back!"  />
+			</notification>
+			<password>
+				<text id="generic_change_password_copy_newpass" name="New password:"  />
+				<text id="generic_change_password_copy_oldpass" name="Old password:"  />
+				<text id="generic_change_password_copy_send" name="Your new password was sent to your e-mail address."  />
+				<text id="generic_change_password_error_failed" name="Sorry, but this is not your old password."  />
+				<text id="generic_change_password_error_success" name="Your password has been changed susessfully!"  />
+				<text id="generic_change_password_faild_copy" name="Your new password must have more than 2 letters and your old one must be entered correctly!"  />
+				<text id="generic_change_password_faild_specialcharacters" name="Your password must not be empty or contain special characters."  />
+				<text id="generic_change_password_faild_title" name="Enter password"  />
+				<text id="generic_change_password_title" name="Password change"  />
+				<text id="generic_guest_change_password_faild_copy" name="You can change your password only as a registered user!"  />
+				<text id="generic_guest_change_password_faild_title" name="Register first"  />
+			</password>
+			<payment>
+				<text id="generic_discount_payment_title_general" name="More {0} for the money!"  />
+				<text id="generic_payment_48hdiscount_button" name="More gold in the first 48 hours"  />
+				<text id="generic_payment_48hdiscount_button_general" name="More {0} in the first 48 hours"  />
+				<text id="generic_payment_48hdiscount_copy" name="Only 48 hours after your registration - Buy selected gold packages and get {0}% extra Gold for free!"  />
+				<text id="generic_payment_48hdiscount_copy_1" name="Only 48 hours after your registration - Buy gold packages and get {0}% extra Gold for free!"  />
+				<text id="generic_payment_48hdiscount_copy_1_general" name="Only 48 hours after your registration - Buy {0} packages and get {1}% extra for free!"  />
+				<text id="generic_payment_48hdiscount_copy_general" name="Only 48 hours after your registration - Buy selected {0} packages and get {1}% extra for free!"  />
+				<text id="generic_payment_btn" name="To the shop"  />
+				<text id="generic_payment_copy" name="You are being transferred to the payment shop."  />
+				<text id="generic_payment_discount_button" name="Now {0}% more gold!"  />
+				<text id="generic_payment_discount_copy" name="Buy gold now and get a {0}% bonus!"  />
+				<text id="generic_payment_discount_copy_general" name="Buy now {0} and get a {1} % bonus!"  />
+				<text id="generic_payment_discount_general" name="Get now {0}% more {1} for your money!"  />
+				<text id="generic_payment_discount_generalshort" name="Get {0}% more for your money!"  />
+				<text id="generic_payment_discount_time" name="{0} left!"  />
+				<text id="generic_payment_discount_title" name="More gold for the money!"  />
+				<text id="generic_payment_newPrices" name="Starting immediately! Permanently reduced prices in our payment shop! Save real money!"  />
+				<text id="generic_payment_title" name="Payment shop"  />
+			</payment>
+			<progressbar>
+				<text id="loading_text_1" name="Search for a tunnel through cyber space"  />
+				<text id="loading_text_10" name="Distribute items in the world"  />
+				<text id="loading_text_11" name="Draw graphics"  />
+				<text id="loading_text_12" name="Color the buttons"  />
+				<text id="loading_text_13" name="Hide easter eggs"  />
+				<text id="loading_text_14" name="Look up user information"  />
+				<text id="loading_text_15" name="Scare off bugs"  />
+				<text id="loading_text_16" name="Feed the programmers"  />
+				<text id="loading_text_17" name="Experiment with the client"  />
+				<text id="loading_text_18" name="Turn the hour glass"  />
+				<text id="loading_text_19" name="Cool the system"  />
+				<text id="loading_text_2" name="Oil the cog wheels"  />
+				<text id="loading_text_20" name="Be done soon"  />
+				<text id="loading_text_3" name="Spin the hamster wheel"  />
+				<text id="loading_text_4" name="Warm up the server"  />
+				<text id="loading_text_5" name="Hope that everything goes well"  />
+				<text id="loading_text_6" name="Call for the exterminator"  />
+				<text id="loading_text_7" name="Calculate complicated algorithms"  />
+				<text id="loading_text_8" name="Calibrate flux capacitor"  />
+				<text id="loading_text_9" name="Tinker items"  />
+				<text id="loading_text_default" name="Initialization"  />
+				<text id="loading_text_itemXML" name="Load game elements"  />
+				<text id="progress_loadfiles" name="Load assets..."  />
+				<text id="progress_serverconnection" name="Connect to Server..."  />
+			</progressbar>
+			<register>
+				<text id="generic_register_agb_copy" name="You have to read and accept the terms and conditions first! Confirm by pressing the button on the left and off you go!"  />
+				<text id="generic_register_agb_read" name="Read Terms and Conditions of Use"  />
+				<text id="generic_register_alreadyavatar" name="This user already has an avatar."  />
+				<text id="generic_register_badword" name="You are not allowed to use {0} in your name."  />
+				<text id="generic_register_btn_agb" name="Accept Terms and Conditions of Use"  />
+				<text id="generic_register_btn_later" name="Later"  />
+				<text id="generic_register_btn_next" name="Continue"  />
+				<text id="generic_register_btn_save" name="Save"  />
+				<text id="generic_register_character" name="Create your character"  />
+				<text id="generic_register_copy_0" name="Register free of charge now!"  />
+				<text id="generic_register_copy_1" name="Save your gaming progress!"  />
+				<text id="generic_register_emaillong_copy" name="Unfortunately, your e-mail address is too long."  />
+				<text id="generic_register_emailwrong_copy" name="The e-mail address you entered is incorrect."  />
+				<text id="generic_register_email_copy" name="Your e-mail address must not be empty or contain special characters."  />
+				<text id="generic_register_error" name="Registration failed"  />
+				<text id="generic_register_errormistake" name="Error"  />
+				<text id="generic_register_error_accountalreadyexists" name="Another player is registered with this e-mail address, sorry."  />
+				<text id="generic_register_forfree" name="Register for free!"  />
+				<text id="generic_register_forfree1" name="For free!"  />
+				<text id="generic_register_letsgo" name="Here we go!"  />
+				<text id="generic_register_namealreadyused" name="This name is already taken."  />
+				<text id="generic_register_namenotvalid" name="The name you entered is invalid."  />
+				<text id="generic_register_passwordshort_copy" name="The password you entered is too short. It has to be at least 4 letters long."  />
+				<text id="generic_register_passwordwrong_copy" name="The password you entered is incorrect."  />
+				<text id="generic_register_password_copy" name="Your password must not be empty or contain special characters."  />
+				<text id="generic_register_receivenews" name="Receive News"  />
+				<text id="generic_register_rememberdata" name="Remember data"  />
+				<text id="generic_register_reward" name="Subscribe for free and get {0} {1}!"  />
+				<text id="generic_register_subscribe" name="Register"  />
+				<text id="generic_register_success" name="You have successfully registered."  />
+				<text id="generic_register_title" name="Registration Error"  />
+				<text id="generic_register_unlock" name="Unlock this function!"  />
+			</register>
+			<report>
+				<text id="generic_report_muted_badword1_copy" name="Watch your manner of expression, please. Otherwise you will get blocked from the chat or your account will be temporarily closed. Reason: {0}"  />
+				<text id="generic_report_muted_badword2_copy" name="You cannot use the chat function for the next {0} due to repeated misconduct. Reason: {1}"  />
+				<text id="generic_report_muted_domain1" name="Don't write any URLs in the chat!"  />
+				<text id="generic_report_muted_reported_copy" name="Several players have complained about you. You are being blocked from the chat for the next {0}. Reason: {1}"  />
+				<text id="generic_report_player_copy" name="Do you really want to report the player {0}?
+ Attention! Abuse of this function may result in your account being blocked."  />
+				<text id="generic_report_player_reason_0" name="Insult"  />
+				<text id="generic_report_player_reason_1" name="sexual harassment"  />
+				<text id="generic_report_player_reason_2" name="racist remark"  />
+				<text id="generic_report_player_reason_3" name="Threat/blackmail"  />
+				<text id="generic_report_player_reason_title" name="Reason for report:"  />
+				<text id="generic_report_player_title" name="Report player?"  />
+				<text id="generic_report_reported_copy" name="You were reported to the administrator by another player. Reason: {0}"  />
+			</report>
+			<worlds>
+				<text id="generic_connect" name="Connect"  />
+				<text id="generic_select_world" name="Select world:"  />
+				<text id="generic_world" name="World: {0}"  />
+				<text id="generic_world_international" name="International: {0}"  />
+			</worlds>
+		</generic_flash>
+	</cafe>
+ 
