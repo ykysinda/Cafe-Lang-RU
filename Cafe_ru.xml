@@ -1632,7 +1632,7 @@
 				<text id="generic_btn_endnow" name="Завершить сейчас"  />
 				<text id="generic_btn_goback" name="Назад"  />
 				<text id="generic_btn_no" name="Нет"  />
-				<text id="generic_btn_noshare" name="Ни за что!"  />
+				<text id="generic_btn_noshare" name="Отказаться!"  />
 				<text id="generic_btn_notaccept" name="Отклонить"  />
 				<text id="generic_btn_okay" name="О&#039;кей"  />
 				<text id="generic_btn_reconnect" name="Соединить повторно"  />
